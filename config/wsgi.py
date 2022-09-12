@@ -11,6 +11,26 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'config.settings')
+from dotenv import load_dotenv
+
 
 application = get_wsgi_application()
+
+# load_dotenv('../.env')
+load_dotenv()
+
+envstate = os.getenv('ENV_STATE','local')
+if envstate=='production':
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'config.settings.production')
+elif envstate=='development':
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'config.settings.development')
+else:
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'config.settings.local')
+#  출처: https://engineer-mole.tistory.com/299
+
+
+
+
+# os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'config.settings')
+
+# application = get_wsgi_application()
