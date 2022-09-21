@@ -18,28 +18,55 @@ areas = ['종로구']
 
 url = 'https://dapi.kakao.com/v2/local/search/keyword.json'
 
-for area in areas:
-    for i in range(1, 3):  # 최대 page=45
-        params = {'page': i, 'size': 15, 'query': area, 'category_group_code': 'CE7'}
-        response = requests.get(url=url, params=params, headers=HEADERS, verify=False)
-        response.encoding = 'utf-8'
-        
-        time.sleep(0.5)
+def get_cafe_info():
+    for area in areas:
+        for i in range(1, 3):  # 최대 page=45
+            params = {'page': i, 'size': 15, 'query': area, 'category_group_code': 'CE7'}
+            res = requests.get(url=url, params=params, headers=HEADERS, verify=False)
+            res.encoding = 'utf-8'
+            
+            time.sleep(0.5)
 
-        file_name = area + '_' + '카페 정보' + '(' + str(i) + ')'+ '.json'
-        with open(os.path.join(CAFE['CRAWL_DATA_PATH'], file_name), 'w', encoding='utf-8') as file:
-            json.dump(response.json(), file, indent='\t', ensure_ascii=False)
+            file_name = area + '_' + '카페 정보' + '(' + str(i) + ')'+ '.json'
+            with open(os.path.join(CAFE['CRAWL_DATA_PATH'], file_name), 'w', encoding='utf-8') as file:
+                json.dump(res.json(), file, indent='\t', ensure_ascii=False)
 
-        # print(f'{area} 카페 리스트')
-        # print(f'{response.json()}')
+            # print(f'{area} 카페 리스트')
+            # print(f'{response.json()}')
 
-# params = {'page': 2, 'size': 15, 'sort': 'accuracy', 'query': '도봉구 카페', 'category_group_code': 'CE7'}
-
-
-
+    # params = {'page': 2, 'size': 15, 'sort': 'accuracy', 'query': '도봉구 카페', 'category_group_code': 'CE7'}
 
 
-print(response.json())
-# print(response.encoding)
-# print(response.status_code)
-# print(HEADERS)
+
+
+
+    # print(res.json())
+    # print(response.encoding)
+    # print(response.status_code)
+    # print(HEADERS)
+
+
+def get_cafe_info2():
+    data=[]
+    for area in areas:
+        for i in range(1, 3):  # 최대 page=45
+            params = {'page': i, 'size': 15, 'query': area, 'category_group_code': 'CE7'}
+            res = requests.get(url=url, params=params, headers=HEADERS, verify=False)
+            res.encoding = 'utf-8'
+            res = res.json()
+            
+            for i in res['documents']:
+                new_data = {
+                    'id': i['id'],  'place_name': i['place_name'],  'address_name': i['address_name'], 'road_address_name': i['road_address_name'], 
+                    'phone': i['phone'], 'category_group_name': i['category_group_name'], 'category_name': i ['category_name'], 'place_url': i['place_url'] 
+                }
+
+            file_name = area + '_' + '카페 정보_가공' + '(' + str(i) + ')'+ '.json'
+            with open(os.path.join(CAFE['CRAWL_DATA_PATH'], file_name), 'w', encoding='utf-8') as file:
+                json.dump(res.json(), file, indent='\t', ensure_ascii=False)
+            
+            time.sleep(0.5)
+
+if __name__ == "__main__": 
+    # get_cafe_info()
+    get_cafe_info2()

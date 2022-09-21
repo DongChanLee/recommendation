@@ -6,6 +6,10 @@ from rest_framework.decorators import api_view
 from rest_framework import status
 from rest_framework.response import Response
 
+'''
+View 호출에 대한 리턴값: 필수적으로 HttpResponse 객체를 리턴해야 한다.
+'''
+
 def index(request):
     return HttpResponse("안녕하세요 cafe 추천시스템에 오신것을 환영합니다.")
 

@@ -140,3 +140,6 @@ CAFE = {
     'CRAWL_DATA_PATH' : os.path.join(BASE_DIR, 'data', 'crawl', 'cafe')
 
 }
+
+# 현재 활성화 된 유저 모델 정보(2022.09.21 추가)
+AUTH_USER_MODEL = 'auth.User'
