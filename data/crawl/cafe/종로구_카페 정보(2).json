@@ -1,20 +1,6 @@
 {
 	"documents": [
 		{
-			"address_name": "서울 종로구 신문로1가 115",
-			"category_group_code": "CE7",
-			"category_group_name": "카페",
-			"category_name": "음식점 > 카페",
-			"distance": "",
-			"id": "281666038",
-			"phone": "02-6744-0120",
-			"place_name": "포비브라이트 광화문점",
-			"place_url": "http://place.map.kakao.com/281666038",
-			"road_address_name": "서울 종로구 새문안로 76",
-			"x": "126.973177296622",
-			"y": "37.5697981733817"
-		},
-		{
 			"address_name": "서울 종로구 명륜4가 94-2",
 			"category_group_code": "CE7",
 			"category_group_name": "카페",
@@ -27,6 +13,34 @@
 			"road_address_name": "서울 종로구 대학로 119",
 			"x": "127.00165744513413",
 			"y": "37.581950218926636"
+		},
+		{
+			"address_name": "서울 종로구 내자동 196",
+			"category_group_code": "CE7",
+			"category_group_name": "카페",
+			"category_name": "음식점 > 카페 > 커피전문점",
+			"distance": "",
+			"id": "11016313",
+			"phone": "070-7590-0885",
+			"place_name": "나무사이로",
+			"place_url": "http://place.map.kakao.com/11016313",
+			"road_address_name": "서울 종로구 사직로8길 21",
+			"x": "126.97099754478326",
+			"y": "37.574643209390864"
+		},
+		{
+			"address_name": "서울 종로구 신문로1가 25",
+			"category_group_code": "CE7",
+			"category_group_name": "카페",
+			"category_name": "서비스,산업 > 전문대행 > 공간대여 > 모임공간 > 토즈모임센터",
+			"distance": "",
+			"id": "27411968",
+			"phone": "02-735-0022",
+			"place_name": "토즈모임센터 광화문점",
+			"place_url": "http://place.map.kakao.com/27411968",
+			"road_address_name": "서울 종로구 새문안로 89",
+			"x": "126.974535420138",
+			"y": "37.5704363788647"
 		},
 		{
 			"address_name": "서울 종로구 이화동 9-443",
@@ -113,6 +127,20 @@
 			"y": "37.5800936700638"
 		},
 		{
+			"address_name": "서울 종로구 돈의동 13",
+			"category_group_code": "CE7",
+			"category_group_name": "카페",
+			"category_name": "음식점 > 카페",
+			"distance": "",
+			"id": "2084457534",
+			"phone": "",
+			"place_name": "카페 하이웨이스트 익선점",
+			"place_url": "http://place.map.kakao.com/2084457534",
+			"road_address_name": "서울 종로구 돈화문로11다길 18",
+			"x": "126.99067231156042",
+			"y": "37.573123722235565"
+		},
+		{
 			"address_name": "서울 종로구 통의동 10",
 			"category_group_code": "CE7",
 			"category_group_name": "카페",
@@ -155,20 +183,6 @@
 			"y": "37.58623305547497"
 		},
 		{
-			"address_name": "서울 종로구 돈의동 13",
-			"category_group_code": "CE7",
-			"category_group_name": "카페",
-			"category_name": "음식점 > 카페",
-			"distance": "",
-			"id": "2084457534",
-			"phone": "",
-			"place_name": "카페 하이웨이스트 익선점",
-			"place_url": "http://place.map.kakao.com/2084457534",
-			"road_address_name": "서울 종로구 돈화문로11다길 18",
-			"x": "126.99067231156042",
-			"y": "37.573123722235565"
-		},
-		{
 			"address_name": "서울 종로구 삼청동 15-2",
 			"category_group_code": "CE7",
 			"category_group_name": "카페",
@@ -195,20 +209,6 @@
 			"road_address_name": "서울 종로구 북촌로5길 56-8",
 			"x": "126.98215804545687",
 			"y": "37.579907230381366"
-		},
-		{
-			"address_name": "서울 종로구 내자동 142",
-			"category_group_code": "CE7",
-			"category_group_name": "카페",
-			"category_name": "음식점 > 카페",
-			"distance": "",
-			"id": "212413668",
-			"phone": "070-7755-0142",
-			"place_name": "내자상회",
-			"place_url": "http://place.map.kakao.com/212413668",
-			"road_address_name": "서울 종로구 사직로10길 3",
-			"x": "126.97048542016",
-			"y": "37.5757828406201"
 		}
 	],
 	"meta": {
@@ -219,6 +219,6 @@
 			"region": [],
 			"selected_region": "서울 종로구"
 		},
-		"total_count": 1979
+		"total_count": 1997
 	}
 }

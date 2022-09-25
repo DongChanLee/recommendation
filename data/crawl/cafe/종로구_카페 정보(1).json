@@ -1,20 +1,6 @@
 {
 	"documents": [
 		{
-			"address_name": "서울 종로구 재동 86",
-			"category_group_code": "CE7",
-			"category_group_name": "카페",
-			"category_name": "음식점 > 카페",
-			"distance": "",
-			"id": "1974266862",
-			"phone": "0507-1337-9973",
-			"place_name": "카페노티드 안국",
-			"place_url": "http://place.map.kakao.com/1974266862",
-			"road_address_name": "서울 종로구 북촌로 6-3",
-			"x": "126.98603029791168",
-			"y": "37.57745704823158"
-		},
-		{
 			"address_name": "서울 종로구 종로2가 84-8",
 			"category_group_code": "CE7",
 			"category_group_name": "카페",
@@ -27,6 +13,20 @@
 			"road_address_name": "서울 종로구 종로 68",
 			"x": "126.984949548395",
 			"y": "37.5699732522297"
+		},
+		{
+			"address_name": "서울 종로구 재동 86",
+			"category_group_code": "CE7",
+			"category_group_name": "카페",
+			"category_name": "음식점 > 카페",
+			"distance": "",
+			"id": "1974266862",
+			"phone": "0507-1337-9973",
+			"place_name": "카페노티드 안국",
+			"place_url": "http://place.map.kakao.com/1974266862",
+			"road_address_name": "서울 종로구 북촌로 6-3",
+			"x": "126.98603029791168",
+			"y": "37.57745704823158"
 		},
 		{
 			"address_name": "서울 종로구 계동 146-1",
@@ -97,6 +97,20 @@
 			"road_address_name": "서울 종로구 백석동길 153",
 			"x": "126.967923107901",
 			"y": "37.5954247204695"
+		},
+		{
+			"address_name": "서울 종로구 관훈동 155-2",
+			"category_group_code": "CE7",
+			"category_group_name": "카페",
+			"category_name": "음식점 > 카페 > 테마카페",
+			"distance": "",
+			"id": "1779571274",
+			"phone": "02-6954-2910",
+			"place_name": "안녕인사동",
+			"place_url": "http://place.map.kakao.com/1779571274",
+			"road_address_name": "서울 종로구 인사동길 49",
+			"x": "126.98351776148617",
+			"y": "37.57450146222234"
 		},
 		{
 			"address_name": "서울 종로구 청진동 246",
@@ -183,32 +197,18 @@
 			"y": "37.5779071975607"
 		},
 		{
-			"address_name": "서울 종로구 신문로1가 25",
+			"address_name": "서울 종로구 신문로1가 115",
 			"category_group_code": "CE7",
 			"category_group_name": "카페",
-			"category_name": "서비스,산업 > 전문대행 > 공간대여 > 모임공간 > 토즈모임센터",
+			"category_name": "음식점 > 카페",
 			"distance": "",
-			"id": "27411968",
-			"phone": "02-735-0022",
-			"place_name": "토즈모임센터 광화문점",
-			"place_url": "http://place.map.kakao.com/27411968",
-			"road_address_name": "서울 종로구 새문안로 89",
-			"x": "126.974535420138",
-			"y": "37.5704363788647"
-		},
-		{
-			"address_name": "서울 종로구 내자동 196",
-			"category_group_code": "CE7",
-			"category_group_name": "카페",
-			"category_name": "음식점 > 카페 > 커피전문점",
-			"distance": "",
-			"id": "11016313",
-			"phone": "070-7590-0885",
-			"place_name": "나무사이로",
-			"place_url": "http://place.map.kakao.com/11016313",
-			"road_address_name": "서울 종로구 사직로8길 21",
-			"x": "126.97099754478326",
-			"y": "37.574643209390864"
+			"id": "281666038",
+			"phone": "02-6744-0120",
+			"place_name": "포비브라이트 광화문점",
+			"place_url": "http://place.map.kakao.com/281666038",
+			"road_address_name": "서울 종로구 새문안로 76",
+			"x": "126.973177296622",
+			"y": "37.5697981733817"
 		}
 	],
 	"meta": {
@@ -219,6 +219,6 @@
 			"region": [],
 			"selected_region": "서울 종로구"
 		},
-		"total_count": 1979
+		"total_count": 1997
 	}
 }

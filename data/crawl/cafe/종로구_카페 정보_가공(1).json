@@ -1,0 +1,152 @@
+[
+    {
+        "id": "8574728",
+        "place_name": "토즈모임센터 종로점",
+        "address_name": "서울 종로구 종로2가 84-8",
+        "road_address_name": "서울 종로구 종로 68",
+        "phone": "02-736-0061",
+        "category_group_name": "카페",
+        "category_name": "서비스,산업 > 전문대행 > 공간대여 > 모임공간 > 토즈모임센터",
+        "place_url": "http://place.map.kakao.com/8574728"
+    },
+    {
+        "id": "1974266862",
+        "place_name": "카페노티드 안국",
+        "address_name": "서울 종로구 재동 86",
+        "road_address_name": "서울 종로구 북촌로 6-3",
+        "phone": "0507-1337-9973",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1974266862"
+    },
+    {
+        "id": "853028118",
+        "place_name": "어니언 안국점",
+        "address_name": "서울 종로구 계동 146-1",
+        "road_address_name": "서울 종로구 계동길 5",
+        "phone": "070-7543-2123",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/853028118"
+    },
+    {
+        "id": "353512935",
+        "place_name": "블루보틀 삼청 카페",
+        "address_name": "서울 종로구 소격동 86",
+        "road_address_name": "서울 종로구 북촌로5길 76",
+        "phone": "1533-6906",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/353512935"
+    },
+    {
+        "id": "1508329235",
+        "place_name": "스태픽스",
+        "address_name": "서울 종로구 필운동 32-1",
+        "road_address_name": "서울 종로구 사직로9길 22",
+        "phone": "0507-1341-2055",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1508329235"
+    },
+    {
+        "id": "1429224581",
+        "place_name": "아키비스트",
+        "address_name": "서울 종로구 효자동 164-7",
+        "road_address_name": "서울 종로구 효자로13길 52",
+        "phone": "02-738-1517",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1429224581"
+    },
+    {
+        "id": "7912367",
+        "place_name": "산모퉁이",
+        "address_name": "서울 종로구 부암동 97-5",
+        "road_address_name": "서울 종로구 백석동길 153",
+        "phone": "02-391-4737",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/7912367"
+    },
+    {
+        "id": "1779571274",
+        "place_name": "안녕인사동",
+        "address_name": "서울 종로구 관훈동 155-2",
+        "road_address_name": "서울 종로구 인사동길 49",
+        "phone": "02-6954-2910",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/1779571274"
+    },
+    {
+        "id": "27187492",
+        "place_name": "포비 광화문점",
+        "address_name": "서울 종로구 청진동 246",
+        "road_address_name": "서울 종로구 종로3길 17",
+        "phone": "02-2251-8125",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27187492"
+    },
+    {
+        "id": "8082652",
+        "place_name": "차마시는 뜰",
+        "address_name": "서울 종로구 삼청동 35-169",
+        "road_address_name": "서울 종로구 북촌로11나길 26",
+        "phone": "02-722-7006",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 전통찻집",
+        "place_url": "http://place.map.kakao.com/8082652"
+    },
+    {
+        "id": "24725284",
+        "place_name": "테라로사 광화문점",
+        "address_name": "서울 종로구 중학동 19",
+        "road_address_name": "서울 종로구 종로1길 50",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/24725284"
+    },
+    {
+        "id": "1154772851",
+        "place_name": "프릳츠 원서점",
+        "address_name": "서울 종로구 원서동 221-1",
+        "road_address_name": "서울 종로구 율곡로 83",
+        "phone": "02-747-8101",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1154772851"
+    },
+    {
+        "id": "826692169",
+        "place_name": "카페 레이어드 안국점",
+        "address_name": "서울 종로구 재동 84-14",
+        "road_address_name": "서울 종로구 북촌로2길 2-3",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/826692169"
+    },
+    {
+        "id": "967168196",
+        "place_name": "H라운지",
+        "address_name": "서울 종로구 통의동 35-21",
+        "road_address_name": "서울 종로구 자하문로4길 21-9",
+        "phone": "02-722-0028",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/967168196"
+    },
+    {
+        "id": "281666038",
+        "place_name": "포비브라이트 광화문점",
+        "address_name": "서울 종로구 신문로1가 115",
+        "road_address_name": "서울 종로구 새문안로 76",
+        "phone": "02-6744-0120",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/281666038"
+    }
+]

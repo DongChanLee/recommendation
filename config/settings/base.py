@@ -15,6 +15,9 @@ import os
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+DATA_DIR = os.path.join(BASE_DIR, 'data')
+CSV_DATA_PATH = os.path.join(DATA_DIR, 'csv')
+
 # IP = '127.0.0.1'
 # PORT = 8000
 
@@ -137,8 +140,8 @@ HEADERS = {
 
 # 카페 정보
 CAFE = {
-    'CRAWL_DATA_PATH' : os.path.join(BASE_DIR, 'data', 'crawl', 'cafe')
-
+    'CRAWL_DATA_PATH' : os.path.join(BASE_DIR, 'data', 'crawl', 'cafe'),
+    'CSV_DATA_PATH' : os.path.join(BASE_DIR, 'data', 'csv', 'cafe')
 }
 
 # 현재 활성화 된 유저 모델 정보(2022.09.21 추가)
