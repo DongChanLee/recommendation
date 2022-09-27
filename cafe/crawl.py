@@ -1,5 +1,6 @@
 import os
 import sys
+from unittest import result
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 import pandas as pd
 import json
@@ -47,28 +48,28 @@ def get_cafe_info_test():
     # print(HEADERS)
 
 
-def get_cafe_info():
-    data=[]
-    for area in areas:
-        for i in range(1, 3):  # 최대 page=45
-            params = {'page': i, 'size': 15, 'query': area, 'category_group_code': 'CE7'}
-            res = requests.get(url=url, params=params, headers=HEADERS, verify=False)
-            res.encoding = 'utf-8'
-            res = res.json()
+# def get_cafe_info_error():
+#     data = []
+#     for area in areas:
+#         for i in range(1, 3):  # 최대 page=45
+#             params = {'page': i, 'size': 15, 'query': area, 'category_group_code': 'CE7'}
+#             res = requests.get(url=url, params=params, headers=HEADERS, verify=False)
+#             res.encoding = 'utf-8'
+#             res = res.json()
             
-            for j in res['documents']:
-                new_data = {
-                    'id': j['id'],  'place_name': j['place_name'],  'address_name': j['address_name'], 'road_address_name': j['road_address_name'], 
-                    'phone': j['phone'], 'category_group_name': j['category_group_name'], 'category_name': j['category_name'], 'place_url': j['place_url'] 
-                }
+#             for j in res['documents']:
+#                 new_data = {
+#                     'id': j['id'], 'place_name': j['place_name'], 'address_name': j['address_name'], 'road_address_name': j['road_address_name'], 
+#                     'phone': j['phone'], 'category_group_name': j['category_group_name'], 'category_name': j['category_name'], 'place_url': j['place_url'] 
+#                 }
 
-                data.append(new_data)
+#                 data.append(new_data)
 
-            file_name = area + '_' + '카페 정보' + '.json'
-            with open(os.path.join(CAFE['CRAWL_DATA_PATH'], file_name), 'a', encoding='utf-8') as file:
-                file.write(json.dumps(data, indent=4, ensure_ascii=False))
+#             file_name = area + '_' + '카페 정보' + '.json'
+#             with open(os.path.join(CAFE['CRAWL_DATA_PATH'], file_name), 'a', encoding='utf-8') as file:
+#                 file.write(json.dumps(data, indent=4, ensure_ascii=False))
 
-            time.sleep(0.5)
+#             time.sleep(0.5)
 
         # df = pd.read_json(os.path.join(CAFE['CRAWL_DATA_PATH'], file_name))
         # df.to_csv(os.path.join(CAFE['CSV_DATA_PATH'], f'{file_name}.csv'))
@@ -84,6 +85,34 @@ def get_cafe_info():
 #     df = pd.read_json(os.path.join(CAFE['CRAWL_DATA_PATH'], '종로구_카페 정보_가공(1).json'))
 #     df.to_csv(os.path.join(CAFE['CSV_DATA_PATH'], '종로구_카페 정보_가공(1).csv'))
 
+
+def get_cafe_info():
+
+    data = []
+    result = []
+    for area in areas:
+        for i in range(1, 3):  # 최대 page=45
+            params = {'page': i, 'size': 15, 'query': area, 'category_group_code': 'CE7'}
+            res = requests.get(url=url, params=params, headers=HEADERS, verify=False)
+            res.encoding = 'utf-8'
+            res = res.json()
+            
+            for j in res['documents']:
+                new_data = {
+                    'id': j['id'], 'place_name': j['place_name'], 'address_name': j['address_name'], 'road_address_name': j['road_address_name'], 
+                    'phone': j['phone'], 'category_group_name': j['category_group_name'], 'category_name': j['category_name'], 'place_url': j['place_url'] 
+                }
+
+                data.append(new_data)            
+        result = result + data
+      
+        # print(f'============== 최종 result ==================')
+        # print(result)
+        file_name = area + '_' + '카페 정보' + '.json'
+        with open(os.path.join(CAFE['CRAWL_DATA_PATH'], file_name), 'a', encoding='utf-8') as file:
+            file.write(json.dumps(result, indent=4, ensure_ascii=False))
+
+        time.sleep(0.5)
 
 if __name__ == "__main__": 
     # get_cafe_info_test()

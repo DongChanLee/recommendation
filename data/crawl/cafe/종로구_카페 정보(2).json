@@ -1,32 +1,32 @@
 {
 	"documents": [
 		{
-			"address_name": "서울 종로구 명륜4가 94-2",
+			"address_name": "서울 종로구 신문로1가 115",
 			"category_group_code": "CE7",
 			"category_group_name": "카페",
 			"category_name": "음식점 > 카페",
 			"distance": "",
-			"id": "8143287",
-			"phone": "02-742-2877",
-			"place_name": "학림다방",
-			"place_url": "http://place.map.kakao.com/8143287",
-			"road_address_name": "서울 종로구 대학로 119",
-			"x": "127.00165744513413",
-			"y": "37.581950218926636"
+			"id": "281666038",
+			"phone": "02-6744-0120",
+			"place_name": "포비브라이트 광화문점",
+			"place_url": "http://place.map.kakao.com/281666038",
+			"road_address_name": "서울 종로구 새문안로 76",
+			"x": "126.973177296622",
+			"y": "37.5697981733817"
 		},
 		{
-			"address_name": "서울 종로구 내자동 196",
+			"address_name": "서울 종로구 통의동 35-21",
 			"category_group_code": "CE7",
 			"category_group_name": "카페",
-			"category_name": "음식점 > 카페 > 커피전문점",
+			"category_name": "음식점 > 카페",
 			"distance": "",
-			"id": "11016313",
-			"phone": "070-7590-0885",
-			"place_name": "나무사이로",
-			"place_url": "http://place.map.kakao.com/11016313",
-			"road_address_name": "서울 종로구 사직로8길 21",
-			"x": "126.97099754478326",
-			"y": "37.574643209390864"
+			"id": "967168196",
+			"phone": "02-722-0028",
+			"place_name": "H라운지",
+			"place_url": "http://place.map.kakao.com/967168196",
+			"road_address_name": "서울 종로구 자하문로4길 21-9",
+			"x": "126.973491368625",
+			"y": "37.5779071975607"
 		},
 		{
 			"address_name": "서울 종로구 신문로1가 25",
@@ -99,6 +99,20 @@
 			"y": "37.582097993196896"
 		},
 		{
+			"address_name": "서울 종로구 안국동 83",
+			"category_group_code": "CE7",
+			"category_group_name": "카페",
+			"category_name": "음식점 > 카페",
+			"distance": "",
+			"id": "320882660",
+			"phone": "0507-1431-2226",
+			"place_name": "도트블랭킷",
+			"place_url": "http://place.map.kakao.com/320882660",
+			"road_address_name": "서울 종로구 윤보선길 22",
+			"x": "126.984096819784",
+			"y": "37.5770261283167"
+		},
+		{
 			"address_name": "서울 종로구 사직동 262-4",
 			"category_group_code": "CE7",
 			"category_group_name": "카페",
@@ -155,20 +169,6 @@
 			"y": "37.57929462370131"
 		},
 		{
-			"address_name": "서울 종로구 안국동 83",
-			"category_group_code": "CE7",
-			"category_group_name": "카페",
-			"category_name": "음식점 > 카페",
-			"distance": "",
-			"id": "320882660",
-			"phone": "0507-1431-2226",
-			"place_name": "도트블랭킷",
-			"place_url": "http://place.map.kakao.com/320882660",
-			"road_address_name": "서울 종로구 윤보선길 22",
-			"x": "126.984096819784",
-			"y": "37.5770261283167"
-		},
-		{
 			"address_name": "서울 종로구 삼청동 28-21",
 			"category_group_code": "CE7",
 			"category_group_name": "카페",
@@ -197,18 +197,18 @@
 			"y": "37.587884525635"
 		},
 		{
-			"address_name": "서울 종로구 소격동 142-2",
+			"address_name": "서울 종로구 내자동 142",
 			"category_group_code": "CE7",
 			"category_group_name": "카페",
-			"category_name": "음식점 > 카페 > 다방",
+			"category_name": "음식점 > 카페",
 			"distance": "",
-			"id": "594338477",
-			"phone": "02-732-4542",
-			"place_name": "가배도 삼청점",
-			"place_url": "http://place.map.kakao.com/594338477",
-			"road_address_name": "서울 종로구 북촌로5길 56-8",
-			"x": "126.98215804545687",
-			"y": "37.579907230381366"
+			"id": "212413668",
+			"phone": "070-7755-0142",
+			"place_name": "내자상회",
+			"place_url": "http://place.map.kakao.com/212413668",
+			"road_address_name": "서울 종로구 사직로10길 3",
+			"x": "126.97048542016",
+			"y": "37.5757828406201"
 		}
 	],
 	"meta": {
@@ -219,6 +219,6 @@
 			"region": [],
 			"selected_region": "서울 종로구"
 		},
-		"total_count": 1997
+		"total_count": 1994
 	}
 }
