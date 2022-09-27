@@ -81,9 +81,9 @@ def get_cafe_info_test():
             
             
 
-# def json_to_csv():
-#     df = pd.read_json(os.path.join(CAFE['CRAWL_DATA_PATH'], '종로구_카페 정보_가공(1).json'))
-#     df.to_csv(os.path.join(CAFE['CSV_DATA_PATH'], '종로구_카페 정보_가공(1).csv'))
+def json_to_csv():
+    df = pd.read_json(os.path.join(CAFE['CRAWL_DATA_PATH'], '종로구_카페 정보_가공(2).json'))
+    df.to_csv(os.path.join(CAFE['CSV_DATA_PATH'], '종로구_카페 정보_가공(2).csv'))
 
 
 def get_cafe_info():
@@ -104,13 +104,13 @@ def get_cafe_info():
                 }
 
                 data.append(new_data)            
-        result = result + data
+        # result.append(data)
       
         # print(f'============== 최종 result ==================')
         # print(result)
         file_name = area + '_' + '카페 정보' + '.json'
         with open(os.path.join(CAFE['CRAWL_DATA_PATH'], file_name), 'a', encoding='utf-8') as file:
-            file.write(json.dumps(result, indent=4, ensure_ascii=False))
+            file.write(json.dumps(data, indent=4, ensure_ascii=False))
 
         time.sleep(0.5)
 
