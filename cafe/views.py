@@ -5,6 +5,9 @@ from django.http import HttpResponse
 from rest_framework.decorators import api_view
 from rest_framework import status
 from rest_framework.response import Response
+from rest_framework import viewsets
+# from cafe.models import Post
+# from cafe.serializers import PostSerializer
 
 '''
 View 호출에 대한 리턴값: 필수적으로 HttpResponse 객체를 리턴해야 한다.
@@ -24,3 +27,12 @@ def search(request):
     rest_api_key = 'bee1015770eee9e6100f8661def9a7d0'
 
     #return Response(serializer.errors, status = status.HTTP_400_BAD_REQUEST)
+
+# View Set Example
+# class UserViewSet(viewsets.ModelViewSet):
+#     queryset = User.objects.all()
+#     serializer_class = UserSerializer
+
+# class PostViewSet(viewsets.ModelViewSet):
+#     queryset = Post.objects.all()
+#     serializer_class = PostSerializer
