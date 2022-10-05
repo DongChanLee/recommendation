@@ -21,7 +21,7 @@ import json
 #     print(args)
 
 
-conn, cur = connect_db()
+# conn, cur = connect_db()
 
 
 # def get_cafe_data():
@@ -39,8 +39,21 @@ class InsertData():
             try:
                 with open(os.path.join(CAFE['CRAWL_DATA_PATH'], file_name), 'r', encoding='utf-8') as file:
                     json_data = json.load(file)
-                    print(json_data)
-                    # for data in json_data:
+                    # print(json_data)
+                    for data in json_data:
+                        id = data['id']
+                        place_name = data['place_name']
+                        address_name = data['address_name']
+                        road_address_name = data['road_address_name']
+                        phone = data['phone']
+                        category_group_name = data['category_group_name']
+                        category_name = data['category_name']
+                        place_url = data['place_url']
+
+                        Original.objects.create(
+                            id=id, place_name=place_name, address_name=address_name, road_address_name=road_address_name,
+                            phone=phone, category_group_name=category_group_name, category_name=category_name, place_url=place_url
+                        )
             except FileNotFoundError:
                 pass
 
