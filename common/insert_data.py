@@ -1,12 +1,18 @@
-import enum
 import os
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'config.settings.base')
 import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import django
+django.setup()
+# from django.core.wsgi import get_wsgi_application
+# application = get_wsgi_application()
+
 from config.settings.base import CAFE, DATA_DIR, CSV_DATA_PATH
 from config.settings.local import DB_USER, DATABASES, HEADERS
 from datetime import datetime
 import psycopg2
 from common.conn_db import connect_db
+import json
 
 # print(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -17,9 +23,26 @@ from common.conn_db import connect_db
 
 conn, cur = connect_db()
 
+
+# def get_cafe_data():
+    # for area in CAFE['AREA']:
+    #     file_name =  area + '_' + '카페 정보' + '.json'
+    #     with open(os.path.join(CAFE['CRAWL_DATA_PATH'], file_name), 'r', encoding='utf-8') as file:
+    #         json_data = json.load(file)
+
+
 class InsertData():
     def insert_cafe(self):
-        
+        from cafe.models import Original
+        for area in CAFE['AREAS']:
+            file_name =  area + '_' + '카페 정보' + '.json'
+            try:
+                with open(os.path.join(CAFE['CRAWL_DATA_PATH'], file_name), 'r', encoding='utf-8') as file:
+                    json_data = json.load(file)
+                    print(json_data)
+                    # for data in json_data:
+            except FileNotFoundError:
+                pass
 
 
 
@@ -57,3 +80,5 @@ class InsertData():
 
 if __name__ == '__main__':
     # test_func()
+    insert_data = InsertData()
+    insert_data.insert_cafe()
