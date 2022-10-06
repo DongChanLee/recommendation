@@ -19,7 +19,7 @@ DEBUG = True
 DB_USER = 'dc'
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'recommendation',
         'USER': DB_USER,
         'PASSWORD': os.environ['DB_PASSWORD'],

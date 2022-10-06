@@ -51,7 +51,7 @@ class InsertData():
                         place_url = data['place_url']
 
                         Original.objects.create(
-                            id=id, place_name=place_name, address_name=address_name, road_address_name=road_address_name,
+                            id=id, place_area=area, place_name=place_name, address_name=address_name, road_address_name=road_address_name,
                             phone=phone, category_group_name=category_group_name, category_name=category_name, place_url=place_url
                         )
             except FileNotFoundError:
