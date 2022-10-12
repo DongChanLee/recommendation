@@ -137,11 +137,12 @@ def get_blog_review():
     df = pd.read_csv(os.path.join(CSV_DATA_PATH, '종로구_카페 정보.csv'), sep=',')
 
     # 네이버 지도 검색창에 [~동 @@식당]으로 검색해 정확도를 높여야 합니다. 검색어를 미리 설정해줍시다.
-    df['naver_keyword'] = df['']
+    df['dong'] = df.iloc[:, 3].str.split(' ').str[1]
+    df['naver_keyword'] = df['dong'] + '%20' + df['place_name']
     df['naver_map_url'] = ''
-    # ==============================================
-    df['naver_keyword'] = df['dong'] + "%20" + df['name']  # "%20"는 띄어쓰기를 의미합니다.
-    df['naver_map_url'] = ''
+    # # ==============================================
+    # df['naver_keyword'] = df['dong'] + "%20" + df['name']  # "%20"는 띄어쓰기를 의미합니다.
+    # df['naver_map_url'] = ''
 
     # 본격적으로 가게 상세페이지의 URL을 가져옵시다
     for i, keyword in enumerate(df['naver_keyword'].tolist()):
