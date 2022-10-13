@@ -177,4 +177,5 @@ def get_blog_review():
 if __name__ == "__main__": 
     # get_cafe_info_test()
     # get_cafe_info()
-    json_to_csv()
+    # json_to_csv()
+    get_blog_review()
