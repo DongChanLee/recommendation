@@ -146,35 +146,32 @@ def get_blog_review():
 
     # 본격적으로 가게 상세페이지의 URL을 가져옵시다
     for i, keyword in enumerate(df['naver_keyword'].tolist()):
-        print("이번에 찾을 키워드 :", i, f"/ {df.shape[0] -1} 행", keyword)
+        print(f'이번에 찾을 키워드 : {i}행 / 전체 {df.shape[0] -1}행중 {keyword}')
+        if ' ' in keyword:
+            join_keyword = ''.join(keyword.split())
+        else:
+            join_keyword = keyword
         try:
-            naver_map_search_url = f"https://m.map.naver.com/search2/search.naver?query={keyword}&sm=hty&style=v5"
+            naver_map_search_url = f"https://m.map.naver.com/search2/search.naver?query={join_keyword}&sm=hty&style=v5"
             
             driver.get(naver_map_search_url)
-            time.sleep(3.5)
-            df.iloc[i,-1] = driver.find_element_by_css_selector("#ct > div.search_listview._content._ctList > ul > li:nth-child(1) > div.item_info > a.a_item.a_item_distance._linkSiteview").get_attribute('data-cid')
+            time.sleep(1.5)
+            df.iloc[i,-1] = driver.find_element(By.CSS_SELECTOR, '#ct > div.search_listview._content._ctList > ul > li > div.item_info > a.a_item.a_item_distance._linkSiteview').get_attribute('data-cid')
             # 네이버 지도 시스템은 data-cid에 url 파라미터를 저장해두고 있었습니다.
             # data-cid 번호를 뽑아두었다가 기본 url 템플릿에 넣어 최종적인 url을 완성하면 됩니다.
             
             #만약 검색 결과가 없다면?
-        except Exception as e1:
-            if "li:nth-child(1)" in str(e1):  # -> "child(1)이 없던데요?"
-                try:
-                    df.iloc[i,-1] = driver.find_element_by_css_selector("#ct > div.search_listview._content._ctList > ul > li:nth-child(1) > div.item_info > a.a_item.a_item_distance._linkSiteview").get_attribute('data-cid')
-                    time.sleep(1)
-                except Exception as e2:
-                    print(e2)
-                    df.iloc[i,-1] = np.nan
-                    time.sleep(1)
-            else:
-                pass
+        except Exception as e:
+            print(e)
+            pass
     driver.quit()
 
     # 이때 수집한 것은 완전한 URL이 아니라 URL에 들어갈 ID (data-cid 라는 코드명으로 저장된) 이므로, 온전한 URL로 만들어줍니다
     df['naver_map_url'] = "https://m.place.naver.com/restaurant/" + df['naver_map_url']
 
     # URL이 수집되지 않은 데이터는 제거합니다.
-    df = df.loc[~df['naver_map_url'].isnull()]
+    df = df.loc[df['naver_map_url'] != 'https://m.place.naver.com/restaurant/']
+    # df = df.loc[~df['naver_map_url'].isnull()]
 
 
 if __name__ == "__main__": 
