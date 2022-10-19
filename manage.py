@@ -25,7 +25,7 @@ def main():
             "forget to activate a virtual environment?"
         ) from exc
     execute_from_command_line(sys.argv)
-# 출처: https://engineer-mole.tistory.com/299
+# 참고: https://engineer-mole.tistory.com/299
 
 # def main():
 #     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'config.settings')

@@ -14,22 +14,6 @@ import psycopg2
 from common.conn_db import connect_db
 import json
 
-# print(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
-
-# def test_func(args=()):
-#     print(args)
-
-
-# conn, cur = connect_db()
-
-
-# def get_cafe_data():
-    # for area in CAFE['AREA']:
-    #     file_name =  area + '_' + '카페 정보' + '.json'
-    #     with open(os.path.join(CAFE['CRAWL_DATA_PATH'], file_name), 'r', encoding='utf-8') as file:
-    #         json_data = json.load(file)
-
 
 class InsertData():
     def insert_cafe(self):
@@ -57,6 +41,19 @@ class InsertData():
             except FileNotFoundError:
                 pass
 
+
+# def test_func(args=()):
+#     print(args)
+
+
+# conn, cur = connect_db()
+
+
+# def get_cafe_data():
+    # for area in CAFE['AREA']:
+    #     file_name =  area + '_' + '카페 정보' + '.json'
+    #     with open(os.path.join(CAFE['CRAWL_DATA_PATH'], file_name), 'r', encoding='utf-8') as file:
+    #         json_data = json.load(file)
 
 
 # def select_execute(query, args=(), one=False): 

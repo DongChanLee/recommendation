@@ -9,7 +9,7 @@ load_dotenv()
 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-# DEBUG = False
+DEBUG = False
 
 
 # [DB]

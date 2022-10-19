@@ -5,14 +5,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# BASE_DIR = '/Users/dc/study_dir/recommendation'
-print(f'BASE DIRECTORY 경로: {BASE_DIR}')
-
 ALLOWED_HOSTS = []
 
-# SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
 
 # [DB]
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
@@ -37,5 +32,5 @@ HEADERS = {
 # API_KEY_KAKAO = os.environ['API_KEY_KAKAO']
 
 # print(f'API KEY KAKAO: {API_KEY_KAKAO}')
-print(f'DATABASE HOST 정보: {DATABASES["default"]["HOST"]}')
-print(f'DATABASE PW정보: {DATABASES["default"]["PASSWORD"]}')
+# print(f'DATABASE HOST 정보: {DATABASES["default"]["HOST"]}')
+# print(f'DATABASE PW정보: {DATABASES["default"]["PASSWORD"]}')

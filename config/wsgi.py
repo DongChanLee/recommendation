@@ -26,7 +26,7 @@ elif envstate=='development':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'config.settings.development')
 else:
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'config.settings.local')
-#  출처: https://engineer-mole.tistory.com/299
+#  참고: https://engineer-mole.tistory.com/299
 
 
 
