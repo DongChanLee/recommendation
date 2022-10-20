@@ -49,6 +49,13 @@ INSTALLED_APPS = [
     'cafe',
 ]
 
+
+# REST_FRAMEWORK = {
+#     'DEFAULT_RENDERER_CLASSES': [
+#         'rest_framework.renderers.JSONRenderer',
+#         'rest_framework.renderers.BrowsableAPIRenderer',
+#     ]
+# }
 # REST_FRAMEWORK = {
 #     'DEFAULT_SCHEMA_CLASS': 'drf_spectacular.openapi.AutoSchema',
 # }
@@ -68,7 +75,7 @@ ROOT_URLCONF = 'config.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [BASE_DIR, 'templates'],  # 2022.10.20 추가. 참고: 점프투장고
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

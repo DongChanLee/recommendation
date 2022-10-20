@@ -1,0 +1,9 @@
+{% if cafe_list %}
+    <ul>
+    {% for cafe in cafe_list %}
+        <li><a href="/pybo/{{ cafe.id }}/">{{ cafe.place_name }}</a></li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>카페 정보가 없습니다.</p>
+{% endif %}

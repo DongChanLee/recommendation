@@ -6,6 +6,7 @@ from django.http import HttpResponse
 from rest_framework.decorators import api_view
 from rest_framework import status
 from rest_framework.response import Response
+# from rest_framework.renderers import JSONRenderer
 from .serializers import *
 from .models import Original
 
@@ -14,9 +15,13 @@ View 호출에 대한 리턴값: 필수적으로 HttpResponse 객체를 리턴�
 '''
 
 def index(request):
-    return HttpResponse("안녕하세요 cafe 추천시스템에 오신것을 환영합니다.")
+    cafe_list = Original.objects.all()
+    context = {'cafe_list': cafe_list}
+    return render(request, 'cafe/cafe_list.html', context)
+    # return HttpResponse("안녕하세요 추천시스템에 오신것을 환영합니다.")
 
 @api_view(['GET'])
+# @renderer_classes([JSONRenderer])
 def cafe_list(request):
     ''' 
     전체 카페 정보 조회
