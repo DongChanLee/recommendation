@@ -49,6 +49,26 @@ def json_to_csv():
     df.to_csv(os.path.join(CAFE['CSV_DATA_PATH'], '종로구_카페 정보.csv'))
 
 
+def json_to_rating():
+    new_data = {}
+    result = []
+    with open(os.path.join(CAFE['CRAWL_DATA_PATH'], 'review.json'), 'r', encoding='utf-8') as file:
+        json_data = json.load(file)
+        for data in json_data:
+            place_name = data['place_name']
+            for review in CAFE['REVIEW']:
+                review_cnt = data[review]  # 공감수
+                new_data = {
+                    'place_name': place_name,
+                    'review': review,
+                    'rating': review_cnt
+                }
+                result.append(new_data)
+    print(result)
+    df = pd.json_normalize(result)
+    df.to_csv(os.path.join(CAFE['CSV_DATA_PATH'], 'review_rating.csv'))
+
+
 def get_blog_review():
     '''
     네이버 블로그 리뷰 크롤링
@@ -122,6 +142,7 @@ def get_cafe_info_test():
 
 if __name__ == "__main__": 
     # get_cafe_info_test()
-    get_cafe_info()
+    # get_cafe_info()
     # json_to_csv()
     # get_blog_review()
+    json_to_rating()
