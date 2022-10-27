@@ -75,11 +75,16 @@ def json_to_csv():
         df = pd.read_json(os.path.join(CAFE['CRAWL_DATA_PATH'], file_name))
         df.to_csv(os.path.join(CAFE['CSV_DATA_PATH'], area + '_카페 정보.csv'))
 
+def json_to_csv_one():
+    file_name = '성동구 카페 정보_url_sample' + '.json'
+    df = pd.read_json(os.path.join(CAFE['CRAWL_DATA_PATH'], file_name))
+    df.to_csv(os.path.join(CAFE['CSV_DATA_PATH'], '성동구 카페 정보_url_sample.csv'))
+
 
 def json_to_rating():
     new_data = {}
     result = []
-    with open(os.path.join(CAFE['CRAWL_DATA_PATH'], 'review.json'), 'r', encoding='utf-8') as file:
+    with open(os.path.join(CAFE['CRAWL_DATA_PATH'], '성동구_review.json'), 'r', encoding='utf-8') as file:
         json_data = json.load(file)
         for data in json_data:
             place_name = data['place_name']
@@ -93,7 +98,7 @@ def json_to_rating():
                 result.append(new_data)
     print(result)
     df = pd.json_normalize(result)
-    df.to_csv(os.path.join(CAFE['CSV_DATA_PATH'], 'review_rating.csv'))
+    df.to_csv(os.path.join(CAFE['CSV_DATA_PATH'], '성동구_review_rating.csv'))
 
 
 def get_blog_review():
@@ -169,7 +174,8 @@ def get_cafe_info_test():
 
 if __name__ == "__main__": 
     # get_cafe_info_test()
-    get_cafe_info()
-    json_to_csv()
+    # get_cafe_info()
+    # json_to_csv()
+    # json_to_csv_one()
     # get_blog_review()
-    # json_to_rating()
+    json_to_rating()
