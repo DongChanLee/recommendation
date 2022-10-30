@@ -1,0 +1,452 @@
+[
+    {
+        "id": "24576625",
+        "place_name": "파크더블유",
+        "address_name": "서울 중랑구 망우동 43-8",
+        "road_address_name": "서울 중랑구 양원역로16길 103-111",
+        "phone": "02-432-5659",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/24576625"
+    },
+    {
+        "id": "2145979742",
+        "place_name": "커피스터프",
+        "address_name": "서울 중랑구 상봉동 118-1",
+        "road_address_name": "서울 중랑구 망우로42길 10",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2145979742"
+    },
+    {
+        "id": "2062868872",
+        "place_name": "미니특공대테마파크 면목역점",
+        "address_name": "서울 중랑구 면목동 118-13",
+        "road_address_name": "서울 중랑구 겸재로 164",
+        "phone": "070-7788-5656",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/2062868872"
+    },
+    {
+        "id": "26932883",
+        "place_name": "카페브릭",
+        "address_name": "서울 중랑구 신내동 243-20",
+        "road_address_name": "서울 중랑구 신내역로1길 127-11",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/26932883"
+    },
+    {
+        "id": "19756111",
+        "place_name": "라떼플로라",
+        "address_name": "서울 중랑구 묵동 180-51",
+        "road_address_name": "서울 중랑구 동일로156길 7",
+        "phone": "02-432-9503",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/19756111"
+    },
+    {
+        "id": "1905828600",
+        "place_name": "상봉커피",
+        "address_name": "서울 중랑구 면목동 133-1",
+        "road_address_name": "서울 중랑구 봉우재로 96",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1905828600"
+    },
+    {
+        "id": "358842854",
+        "place_name": "카페소고 망우점",
+        "address_name": "서울 중랑구 망우동 489-29",
+        "road_address_name": "서울 중랑구 신내로1길 15",
+        "phone": "02-6014-6912",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/358842854"
+    },
+    {
+        "id": "131735695",
+        "place_name": "카페252",
+        "address_name": "서울 중랑구 상봉동 118-19",
+        "road_address_name": "서울 중랑구 망우로 252",
+        "phone": "02-493-8286",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/131735695"
+    },
+    {
+        "id": "17884784",
+        "place_name": "스타벅스 상봉역점",
+        "address_name": "서울 중랑구 상봉동 100-2",
+        "road_address_name": "서울 중랑구 망우로 307",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/17884784"
+    },
+    {
+        "id": "1848099630",
+        "place_name": "개인공간",
+        "address_name": "서울 중랑구 신내동 495-35",
+        "road_address_name": "서울 중랑구 송림길 12",
+        "phone": "070-7718-0087",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1848099630"
+    },
+    {
+        "id": "26303961",
+        "place_name": "스타벅스 사가정역점",
+        "address_name": "서울 중랑구 면목동 617-2",
+        "road_address_name": "서울 중랑구 면목로 310",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/26303961"
+    },
+    {
+        "id": "27598483",
+        "place_name": "스타벅스 상봉점",
+        "address_name": "서울 중랑구 상봉동 501",
+        "road_address_name": "서울 중랑구 상봉로 131",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/27598483"
+    },
+    {
+        "id": "26785139",
+        "place_name": "스타벅스 중랑구청점",
+        "address_name": "서울 중랑구 신내동 563-3",
+        "road_address_name": "서울 중랑구 신내로 72",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/26785139"
+    },
+    {
+        "id": "1536161428",
+        "place_name": "다시사랑받개",
+        "address_name": "서울 중랑구 신내동 273-20",
+        "road_address_name": "서울 중랑구 용마산로139나길 83",
+        "phone": "02-6958-6224",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1536161428"
+    },
+    {
+        "id": "181624929",
+        "place_name": "디저트아카데미",
+        "address_name": "서울 중랑구 상봉동 127-15",
+        "road_address_name": "서울 중랑구 망우로36길 38",
+        "phone": "02-433-6096",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/181624929"
+    },
+    {
+        "id": "366702623",
+        "place_name": "이층커피",
+        "address_name": "서울 중랑구 중화동 305-20",
+        "road_address_name": "서울 중랑구 동일로 805-1",
+        "phone": "02-437-0627",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/366702623"
+    },
+    {
+        "id": "1097099031",
+        "place_name": "로기스커피",
+        "address_name": "서울 중랑구 면목동 117-35",
+        "road_address_name": "서울 중랑구 겸재로 172-1",
+        "phone": "070-8621-8791",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1097099031"
+    },
+    {
+        "id": "26644161",
+        "place_name": "설빙 상봉점",
+        "address_name": "서울 중랑구 상봉동 130-1",
+        "road_address_name": "서울 중랑구 망우로 204",
+        "phone": "02-6380-0707",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페 > 설빙",
+        "place_url": "http://place.map.kakao.com/26644161"
+    },
+    {
+        "id": "1424988476",
+        "place_name": "모이카페",
+        "address_name": "서울 중랑구 신내동 430-26",
+        "road_address_name": "서울 중랑구 용마산로125길 108-17",
+        "phone": "070-4230-0404",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1424988476"
+    },
+    {
+        "id": "511991724",
+        "place_name": "스토어드커피",
+        "address_name": "서울 중랑구 묵동 239-118",
+        "road_address_name": "서울 중랑구 동일로157길 22",
+        "phone": "070-8823-7669",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/511991724"
+    },
+    {
+        "id": "744705019",
+        "place_name": "문릿",
+        "address_name": "서울 중랑구 상봉동 87-2",
+        "road_address_name": "서울 중랑구 봉우재로43길 35",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/744705019"
+    },
+    {
+        "id": "119112939",
+        "place_name": "티하우스나니",
+        "address_name": "서울 중랑구 신내동 493-46",
+        "road_address_name": "서울 중랑구 용마산로117길 26",
+        "phone": "02-433-2726",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 전통찻집",
+        "place_url": "http://place.map.kakao.com/119112939"
+    },
+    {
+        "id": "1565667844",
+        "place_name": "빈스로드 본사",
+        "address_name": "서울 중랑구 상봉동 490-4",
+        "road_address_name": "서울 중랑구 봉화산로 111",
+        "phone": "070-7593-7005",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1565667844"
+    },
+    {
+        "id": "26925099",
+        "place_name": "스타벅스 중랑역점",
+        "address_name": "서울 중랑구 상봉동 130-3",
+        "road_address_name": "서울 중랑구 망우로30길 3",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/26925099"
+    },
+    {
+        "id": "1531026852",
+        "place_name": "커피빈 상봉역점",
+        "address_name": "서울 중랑구 상봉동 100-17",
+        "road_address_name": "서울 중랑구 망우로 291",
+        "phone": "02-493-8902",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 커피빈",
+        "place_url": "http://place.map.kakao.com/1531026852"
+    },
+    {
+        "id": "1831290209",
+        "place_name": "투썸플레이스 망우점",
+        "address_name": "서울 중랑구 망우동 489-2",
+        "road_address_name": "서울 중랑구 망우로 403",
+        "phone": "02-6954-2588",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1831290209"
+    },
+    {
+        "id": "1879929501",
+        "place_name": "투썸플레이스 신내점",
+        "address_name": "서울 중랑구 신내동 386-2",
+        "road_address_name": "서울 중랑구 용마산로 637",
+        "phone": "02-2088-0858",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1879929501"
+    },
+    {
+        "id": "1937762094",
+        "place_name": "스타벅스 묵동점",
+        "address_name": "서울 중랑구 묵동 169-12",
+        "road_address_name": "서울 중랑구 동일로 952",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1937762094"
+    },
+    {
+        "id": "27282278",
+        "place_name": "더바른차담소",
+        "address_name": "서울 중랑구 면목동 718-2",
+        "road_address_name": "서울 중랑구 동일로 467",
+        "phone": "070-7760-0298",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/27282278"
+    },
+    {
+        "id": "27079711",
+        "place_name": "데일리파크",
+        "address_name": "서울 중랑구 묵동 20",
+        "road_address_name": "서울 중랑구 신내로15길 196",
+        "phone": "02-3422-0146",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/27079711"
+    },
+    {
+        "id": "218720613",
+        "place_name": "스타벅스 중화역점",
+        "address_name": "서울 중랑구 중화동 306-71",
+        "road_address_name": "서울 중랑구 봉화산로 35",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/218720613"
+    },
+    {
+        "id": "1721326456",
+        "place_name": "어느날오늘",
+        "address_name": "서울 중랑구 상봉동 314-69",
+        "road_address_name": "서울 중랑구 봉화산로30길 98",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1721326456"
+    },
+    {
+        "id": "1734478763",
+        "place_name": "시즌",
+        "address_name": "서울 중랑구 면목동 499-29",
+        "road_address_name": "서울 중랑구 사가정로49길 62",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1734478763"
+    },
+    {
+        "id": "1433298247",
+        "place_name": "투썸플레이스 사가정역점",
+        "address_name": "서울 중랑구 면목동 633-9",
+        "road_address_name": "서울 중랑구 면목로 301",
+        "phone": "02-433-4024",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1433298247"
+    },
+    {
+        "id": "26947865",
+        "place_name": "이노이드커피랩",
+        "address_name": "서울 중랑구 면목동 52-11",
+        "road_address_name": "서울 중랑구 용마산로86길 9-38",
+        "phone": "070-7808-0085",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/26947865"
+    },
+    {
+        "id": "340390324",
+        "place_name": "헬로방방 상봉점",
+        "address_name": "서울 중랑구 상봉동 501",
+        "road_address_name": "서울 중랑구 상봉로 131",
+        "phone": "02-433-0514",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/340390324"
+    },
+    {
+        "id": "1279265877",
+        "place_name": "투썸플레이스 중랑역점",
+        "address_name": "서울 중랑구 상봉동 130-166",
+        "road_address_name": "서울 중랑구 망우로 202",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1279265877"
+    },
+    {
+        "id": "27403044",
+        "place_name": "디저트39 상봉점",
+        "address_name": "서울 중랑구 상봉동 500",
+        "road_address_name": "서울 중랑구 망우로 353",
+        "phone": "02-6053-3939",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페 > 디저트39",
+        "place_url": "http://place.map.kakao.com/27403044"
+    },
+    {
+        "id": "1070026450",
+        "place_name": "투썸플레이스 묵동자이점",
+        "address_name": "서울 중랑구 묵동 170-1",
+        "road_address_name": "서울 중랑구 동일로 932",
+        "phone": "02-949-1222",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1070026450"
+    },
+    {
+        "id": "24960322",
+        "place_name": "내친구고양이카페",
+        "address_name": "서울 중랑구 면목동 617-3",
+        "road_address_name": "서울 중랑구 면목로 306",
+        "phone": "02-2209-7446",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 고양이카페",
+        "place_url": "http://place.map.kakao.com/24960322"
+    },
+    {
+        "id": "884093176",
+        "place_name": "제주역",
+        "address_name": "서울 중랑구 상봉동 190-119",
+        "road_address_name": "서울 중랑구 상봉중앙로5다길 49",
+        "phone": "0507-1349-9926",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/884093176"
+    },
+    {
+        "id": "1140431464",
+        "place_name": "투썸플레이스 서일대점",
+        "address_name": "서울 중랑구 면목동 56-2",
+        "road_address_name": "서울 중랑구 용마산로 384",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1140431464"
+    },
+    {
+        "id": "1402799921",
+        "place_name": "똥강아지카페",
+        "address_name": "서울 중랑구 면목동 1502-2",
+        "road_address_name": "서울 중랑구 용마산로 248",
+        "phone": "02-435-0722",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 애견카페",
+        "place_url": "http://place.map.kakao.com/1402799921"
+    },
+    {
+        "id": "1261194641",
+        "place_name": "설빙 묵동점",
+        "address_name": "서울 중랑구 묵동 234-14",
+        "road_address_name": "서울 중랑구 중랑역로 242",
+        "phone": "02-949-7767",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페 > 설빙",
+        "place_url": "http://place.map.kakao.com/1261194641"
+    },
+    {
+        "id": "19812044",
+        "place_name": "탐앤탐스 상봉메가박스점",
+        "address_name": "서울 중랑구 상봉동 130-135",
+        "road_address_name": "서울 중랑구 망우로 210",
+        "phone": "02-434-4565",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 탐앤탐스",
+        "place_url": "http://place.map.kakao.com/19812044"
+    }
+]

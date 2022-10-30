@@ -1,0 +1,452 @@
+[
+    {
+        "id": "1943025765",
+        "place_name": "고양이정원",
+        "address_name": "서울 강서구 개화동 559-49",
+        "road_address_name": "서울 강서구 개화동로19길 18",
+        "phone": "02-2665-4507",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 고양이카페",
+        "place_url": "http://place.map.kakao.com/1943025765"
+    },
+    {
+        "id": "1688973510",
+        "place_name": "카페우드진",
+        "address_name": "서울 강서구 마곡동 772-5",
+        "road_address_name": "서울 강서구 마곡중앙6로 45",
+        "phone": "02-6052-0116",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1688973510"
+    },
+    {
+        "id": "16682720",
+        "place_name": "고양이똥",
+        "address_name": "서울 강서구 등촌1동 647-62",
+        "road_address_name": "서울 강서구 공항대로59가길 13",
+        "phone": "02-6013-1281",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/16682720"
+    },
+    {
+        "id": "851969193",
+        "place_name": "브루클린커피",
+        "address_name": "서울 강서구 내발산동 652-1",
+        "road_address_name": "서울 강서구 강서로52길 16",
+        "phone": "02-3664-5595",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/851969193"
+    },
+    {
+        "id": "2117253986",
+        "place_name": "헤리스헤이스",
+        "address_name": "서울 강서구 마곡동 774-5",
+        "road_address_name": "서울 강서구 마곡동로3길 26",
+        "phone": "010-8863-9532",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/2117253986"
+    },
+    {
+        "id": "27417322",
+        "place_name": "브런치팩토리",
+        "address_name": "서울 강서구 마곡동 721-9",
+        "road_address_name": "서울 강서구 마곡중앙로 36",
+        "phone": "070-4136-2631",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/27417322"
+    },
+    {
+        "id": "1771238411",
+        "place_name": "소장식물전",
+        "address_name": "서울 강서구 공항동 66-60",
+        "road_address_name": "서울 강서구 공항대로2길 36",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1771238411"
+    },
+    {
+        "id": "1445156015",
+        "place_name": "광화문살롱",
+        "address_name": "서울 강서구 등촌동 639-23",
+        "road_address_name": "서울 강서구 공항대로45길 63",
+        "phone": "02-2668-3966",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1445156015"
+    },
+    {
+        "id": "650424536",
+        "place_name": "어나더사이드",
+        "address_name": "서울 강서구 내발산동 677",
+        "road_address_name": "서울 강서구 강서로 318",
+        "phone": "02-3665-9877",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/650424536"
+    },
+    {
+        "id": "1593193993",
+        "place_name": "인라이크",
+        "address_name": "서울 강서구 마곡동 348-3",
+        "road_address_name": "서울 강서구 양천로30길 103",
+        "phone": "070-7789-3344",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1593193993"
+    },
+    {
+        "id": "1294099295",
+        "place_name": "광화문살롱 마곡나루점",
+        "address_name": "서울 강서구 마곡동 757",
+        "road_address_name": "서울 강서구 마곡중앙로 161-8",
+        "phone": "02-6989-8989",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1294099295"
+    },
+    {
+        "id": "837824252",
+        "place_name": "고양이똥 3호점",
+        "address_name": "서울 강서구 등촌동 655",
+        "road_address_name": "서울 강서구 공항대로45길 30",
+        "phone": "02-2694-0285",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/837824252"
+    },
+    {
+        "id": "470408699",
+        "place_name": "스타벅스 화곡DT점",
+        "address_name": "서울 강서구 화곡동 772-67",
+        "road_address_name": "서울 강서구 등촌로 57",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/470408699"
+    },
+    {
+        "id": "1433534125",
+        "place_name": "스타벅스 마곡나루",
+        "address_name": "서울 강서구 마곡동 759-3",
+        "road_address_name": "서울 강서구 마곡중앙로 161-17",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1433534125"
+    },
+    {
+        "id": "440767015",
+        "place_name": "구도커피",
+        "address_name": "서울 강서구 등촌동 565-18",
+        "road_address_name": "서울 강서구 등촌로35길 121",
+        "phone": "02-6348-2460",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/440767015"
+    },
+    {
+        "id": "1524391732",
+        "place_name": "카페움플레이트",
+        "address_name": "서울 강서구 마곡동 747",
+        "road_address_name": "서울 강서구 마곡중앙1로 72",
+        "phone": "02-2662-5881",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1524391732"
+    },
+    {
+        "id": "482613052",
+        "place_name": "스타벅스 방화DT",
+        "address_name": "서울 강서구 방화동 293-4",
+        "road_address_name": "서울 강서구 방화대로 375",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/482613052"
+    },
+    {
+        "id": "76277836",
+        "place_name": "스타벅스 마곡사이언스타워R",
+        "address_name": "서울 강서구 마곡동 727-500",
+        "road_address_name": "서울 강서구 마곡동로 62",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/76277836"
+    },
+    {
+        "id": "94707509",
+        "place_name": "하롱하롱",
+        "address_name": "서울 강서구 마곡동 759-1",
+        "road_address_name": "서울 강서구 마곡서로 152",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/94707509"
+    },
+    {
+        "id": "1384786431",
+        "place_name": "벌툰 까치산역점",
+        "address_name": "서울 강서구 화곡동 343-52",
+        "road_address_name": "서울 강서구 강서로 43",
+        "phone": "070-7612-0018",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 만화카페",
+        "place_url": "http://place.map.kakao.com/1384786431"
+    },
+    {
+        "id": "61350952",
+        "place_name": "헤이더그린",
+        "address_name": "서울 강서구 오쇠동 114-7",
+        "road_address_name": "",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/61350952"
+    },
+    {
+        "id": "26617152",
+        "place_name": "스타벅스 화곡동점",
+        "address_name": "서울 강서구 화곡동 1073-10",
+        "road_address_name": "서울 강서구 화곡로 142",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/26617152"
+    },
+    {
+        "id": "1606956635",
+        "place_name": "이층창가 (휴업중)",
+        "address_name": "서울 강서구 화곡동 61-28",
+        "road_address_name": "서울 강서구 까치산로 46",
+        "phone": "02-2603-3342",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1606956635"
+    },
+    {
+        "id": "23325994",
+        "place_name": "스타벅스 발산역",
+        "address_name": "서울 강서구 등촌동 678-14",
+        "road_address_name": "서울 강서구 강서로 388",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/23325994"
+    },
+    {
+        "id": "2021829896",
+        "place_name": "벌툰 마곡발산점",
+        "address_name": "서울 강서구 마곡동 727-1176",
+        "road_address_name": "서울 강서구 공항대로 247",
+        "phone": "02-6738-1105",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 만화카페",
+        "place_url": "http://place.map.kakao.com/2021829896"
+    },
+    {
+        "id": "1660750406",
+        "place_name": "쉐드커피",
+        "address_name": "서울 강서구 마곡동 773-2",
+        "road_address_name": "서울 강서구 마곡중앙6로 16",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1660750406"
+    },
+    {
+        "id": "20046342",
+        "place_name": "스타벅스 까치산역점",
+        "address_name": "서울 강서구 화곡동 343-1",
+        "road_address_name": "서울 강서구 강서로13길 3",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/20046342"
+    },
+    {
+        "id": "1143075069",
+        "place_name": "스타벅스 마곡역",
+        "address_name": "서울 강서구 마곡동 728-234",
+        "road_address_name": "서울 강서구 공항대로 168",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1143075069"
+    },
+    {
+        "id": "528909972",
+        "place_name": "꿀팟만화보드카페",
+        "address_name": "서울 강서구 마곡동 759-3",
+        "road_address_name": "서울 강서구 마곡중앙로 161-17",
+        "phone": "02-6925-1414",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 만화카페",
+        "place_url": "http://place.map.kakao.com/528909972"
+    },
+    {
+        "id": "1371420528",
+        "place_name": "빌리엔젤 마곡점",
+        "address_name": "서울 강서구 마곡동 727-500",
+        "road_address_name": "서울 강서구 마곡동로 62",
+        "phone": "02-3663-6864",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1371420528"
+    },
+    {
+        "id": "1578796891",
+        "place_name": "스타벅스 마곡나루공원",
+        "address_name": "서울 강서구 마곡동 731-62",
+        "road_address_name": "서울 강서구 마곡중앙5로 47",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1578796891"
+    },
+    {
+        "id": "933760076",
+        "place_name": "카페비쥬",
+        "address_name": "서울 강서구 내발산동 699-9",
+        "road_address_name": "서울 강서구 강서로47다길 17",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/933760076"
+    },
+    {
+        "id": "423099390",
+        "place_name": "고양이후추",
+        "address_name": "서울 강서구 염창동 261-13",
+        "road_address_name": "서울 강서구 공항대로59다길 267",
+        "phone": "010-8081-2389",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/423099390"
+    },
+    {
+        "id": "709297181",
+        "place_name": "비엔나커피하우스 마곡나루역점",
+        "address_name": "서울 강서구 마곡동 365-15",
+        "road_address_name": "서울 강서구 마곡중앙5로1길 20",
+        "phone": "02-2093-6575",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/709297181"
+    },
+    {
+        "id": "17066752",
+        "place_name": "카카오독애견카페 목동점",
+        "address_name": "서울 강서구 화곡동 782-11",
+        "road_address_name": "서울 강서구 곰달래로60길 33",
+        "phone": "02-2652-6727",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 애견카페",
+        "place_url": "http://place.map.kakao.com/17066752"
+    },
+    {
+        "id": "1166806934",
+        "place_name": "플루이드",
+        "address_name": "서울 강서구 마곡동 727-1180",
+        "road_address_name": "서울 강서구 마곡중앙6로 70",
+        "phone": "070-7543-5080",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1166806934"
+    },
+    {
+        "id": "183746494",
+        "place_name": "맥켄지커피 까치산역점",
+        "address_name": "서울 강서구 화곡동 343-3",
+        "road_address_name": "서울 강서구 강서로 47-6",
+        "phone": "02-2604-6323",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/183746494"
+    },
+    {
+        "id": "2053852189",
+        "place_name": "빌리엔젤 마곡역점",
+        "address_name": "서울 강서구 마곡동 799-5",
+        "road_address_name": "서울 강서구 마곡중앙로 56",
+        "phone": "02-2664-3230",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2053852189"
+    },
+    {
+        "id": "27500873",
+        "place_name": "카페소금다방",
+        "address_name": "서울 강서구 염창동 271",
+        "road_address_name": "서울 강서구 공항대로61길 42",
+        "phone": "070-4242-3443",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27500873"
+    },
+    {
+        "id": "227130319",
+        "place_name": "153도씨",
+        "address_name": "서울 강서구 마곡동 760-2",
+        "road_address_name": "서울 강서구 마곡중앙로 161-1",
+        "phone": "010-8853-0153",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/227130319"
+    },
+    {
+        "id": "1037105014",
+        "place_name": "스타벅스 가양역점",
+        "address_name": "서울 강서구 등촌동 73-1",
+        "road_address_name": "서울 강서구 양천로 476",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1037105014"
+    },
+    {
+        "id": "91305203",
+        "place_name": "투썸플레이스 마곡점",
+        "address_name": "서울 강서구 마곡동 727-1064",
+        "road_address_name": "서울 강서구 마곡중앙6로 40",
+        "phone": "02-3662-5800",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/91305203"
+    },
+    {
+        "id": "1529498058",
+        "place_name": "스타벅스 양천향교역",
+        "address_name": "서울 강서구 마곡동 727-26",
+        "road_address_name": "서울 강서구 강서로 463",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1529498058"
+    },
+    {
+        "id": "1010426293",
+        "place_name": "스타벅스 마곡GMG",
+        "address_name": "서울 강서구 마곡동 773-2",
+        "road_address_name": "서울 강서구 마곡중앙6로 16",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1010426293"
+    },
+    {
+        "id": "2045647248",
+        "place_name": "카페 우드진 마곡나루점",
+        "address_name": "서울 강서구 마곡동 365-15",
+        "road_address_name": "서울 강서구 마곡중앙로 161-8",
+        "phone": "02-6989-8108",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2045647248"
+    }
+]

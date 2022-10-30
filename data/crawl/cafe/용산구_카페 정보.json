@@ -1,0 +1,452 @@
+[
+    {
+        "id": "711864705",
+        "place_name": "맥심플랜트",
+        "address_name": "서울 용산구 한남동 683-140",
+        "road_address_name": "서울 용산구 이태원로 250",
+        "phone": "070-4287-8557",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/711864705"
+    },
+    {
+        "id": "1958239830",
+        "place_name": "오츠커피",
+        "address_name": "서울 용산구 원효로1가 48-8",
+        "road_address_name": "서울 용산구 원효로89길 13-12",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1958239830"
+    },
+    {
+        "id": "27436567",
+        "place_name": "오리올",
+        "address_name": "서울 용산구 후암동 406-99",
+        "road_address_name": "서울 용산구 신흥로20길 43",
+        "phone": "02-6406-5252",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27436567"
+    },
+    {
+        "id": "256884650",
+        "place_name": "사유",
+        "address_name": "서울 용산구 한남동 682-5",
+        "road_address_name": "서울 용산구 이태원로54길 5",
+        "phone": "02-2289-9050",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 갤러리카페",
+        "place_url": "http://place.map.kakao.com/256884650"
+    },
+    {
+        "id": "27344582",
+        "place_name": "앤트러사이트 한남점",
+        "address_name": "서울 용산구 한남동 683-142",
+        "road_address_name": "서울 용산구 이태원로 240",
+        "phone": "02-797-7508",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27344582"
+    },
+    {
+        "id": "27462552",
+        "place_name": "오리지널 팬케익하우스 이태원점",
+        "address_name": "서울 용산구 이태원동 172-2",
+        "road_address_name": "서울 용산구 이태원로 153",
+        "phone": "02-795-7481",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/27462552"
+    },
+    {
+        "id": "27514796",
+        "place_name": "더로열푸드앤드링크",
+        "address_name": "서울 용산구 후암동 406-58",
+        "road_address_name": "서울 용산구 신흥로20길 37",
+        "phone": "070-7774-4168",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27514796"
+    },
+    {
+        "id": "1456774315",
+        "place_name": "오아시스 한남점",
+        "address_name": "서울 용산구 한남동 745-10",
+        "road_address_name": "서울 용산구 이태원로45길 30",
+        "phone": "02-790-8906",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1456774315"
+    },
+    {
+        "id": "12684084",
+        "place_name": "동빙고",
+        "address_name": "서울 용산구 이촌동 301-162",
+        "road_address_name": "서울 용산구 이촌로 319",
+        "phone": "02-794-7171",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/12684084"
+    },
+    {
+        "id": "1143868163",
+        "place_name": "챔프커피 2작업실",
+        "address_name": "서울 용산구 이태원동 79-44",
+        "road_address_name": "서울 용산구 녹사평대로26가길 24",
+        "phone": "02-790-4516",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1143868163"
+    },
+    {
+        "id": "163434813",
+        "place_name": "테라로사 한남점",
+        "address_name": "서울 용산구 한남동 736-4",
+        "road_address_name": "서울 용산구 이태원로36길 15",
+        "phone": "033-648-2760",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/163434813"
+    },
+    {
+        "id": "285654982",
+        "place_name": "인바이티드",
+        "address_name": "서울 용산구 한강로1가 221-8",
+        "road_address_name": "서울 용산구 한강대로52길 41",
+        "phone": "02-794-3332",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/285654982"
+    },
+    {
+        "id": "239691324",
+        "place_name": "트래버틴",
+        "address_name": "서울 용산구 한강로3가 40-317",
+        "road_address_name": "서울 용산구 한강대로7길 18-7",
+        "phone": "070-8862-6003",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/239691324"
+    },
+    {
+        "id": "1886309015",
+        "place_name": "콩카페 이태원점",
+        "address_name": "서울 용산구 이태원동 34-54",
+        "road_address_name": "서울 용산구 녹사평대로 168-8",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1886309015"
+    },
+    {
+        "id": "800587300",
+        "place_name": "키에리 이태원점",
+        "address_name": "서울 용산구 이태원동 73-7",
+        "road_address_name": "서울 용산구 이태원로26길 16-8",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/800587300"
+    },
+    {
+        "id": "1562438866",
+        "place_name": "써머레인",
+        "address_name": "서울 용산구 한남동 738-13",
+        "road_address_name": "서울 용산구 이태원로55가길 49",
+        "phone": "02-792-8114",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1562438866"
+    },
+    {
+        "id": "859448387",
+        "place_name": "카키바움",
+        "address_name": "서울 용산구 한강로1가 225-1",
+        "road_address_name": "서울 용산구 한강대로52길 29",
+        "phone": "02-790-6275",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/859448387"
+    },
+    {
+        "id": "1840672910",
+        "place_name": "한남베르그",
+        "address_name": "서울 용산구 한남동 683-76",
+        "road_address_name": "서울 용산구 이태원로54길 58-26",
+        "phone": "02-790-1750",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1840672910"
+    },
+    {
+        "id": "1187934853",
+        "place_name": "테이프",
+        "address_name": "서울 용산구 이태원동 63-5",
+        "road_address_name": "서울 용산구 이태원로14길 21",
+        "phone": "010-7317-4201",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1187934853"
+    },
+    {
+        "id": "1240018987",
+        "place_name": "때가이르매 숙대점",
+        "address_name": "서울 용산구 남영동 8-2",
+        "road_address_name": "서울 용산구 두텁바위로 8",
+        "phone": "070-4320-8495",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1240018987"
+    },
+    {
+        "id": "1349192932",
+        "place_name": "버터북",
+        "address_name": "서울 용산구 용산동2가 31-2",
+        "road_address_name": "서울 용산구 신흥로15길 20",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1349192932"
+    },
+    {
+        "id": "1559187561",
+        "place_name": "북파크라운지",
+        "address_name": "서울 용산구 한남동 727-56",
+        "road_address_name": "서울 용산구 이태원로 294",
+        "phone": "070-7770-0539",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 북카페",
+        "place_url": "http://place.map.kakao.com/1559187561"
+    },
+    {
+        "id": "2010021183",
+        "place_name": "원인어밀리언",
+        "address_name": "서울 용산구 한남동 684-62",
+        "road_address_name": "서울 용산구 이태원로54길 31",
+        "phone": "02-794-2414",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2010021183"
+    },
+    {
+        "id": "614667104",
+        "place_name": "몬스터플레이스",
+        "address_name": "서울 용산구 청파동3가 114-3",
+        "road_address_name": "서울 용산구 청파로43길 70",
+        "phone": "02-6402-5404",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/614667104"
+    },
+    {
+        "id": "1285150992",
+        "place_name": "바마셀",
+        "address_name": "서울 용산구 원효로1가 38-5",
+        "road_address_name": "서울 용산구 원효로89길 12",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1285150992"
+    },
+    {
+        "id": "1698143190",
+        "place_name": "오잇",
+        "address_name": "서울 용산구 용산동2가 1-471",
+        "road_address_name": "서울 용산구 신흥로 95",
+        "phone": "010-8844-1993",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1698143190"
+    },
+    {
+        "id": "251037961",
+        "place_name": "헬카페스피리터스",
+        "address_name": "서울 용산구 이촌동 300-23",
+        "road_address_name": "서울 용산구 이촌로 248",
+        "phone": "070-7612-4687",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/251037961"
+    },
+    {
+        "id": "11831542",
+        "place_name": "팬케익오리지널스토리 한남점",
+        "address_name": "서울 용산구 한남동 261-6",
+        "road_address_name": "서울 용산구 독서당로 67",
+        "phone": "02-794-0508",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/11831542"
+    },
+    {
+        "id": "926051759",
+        "place_name": "도렐 육지2호점",
+        "address_name": "서울 용산구 한강로2가 424",
+        "road_address_name": "서울 용산구 한강대로 100",
+        "phone": "02-6365-3675",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/926051759"
+    },
+    {
+        "id": "13582387",
+        "place_name": "엘카페커피로스터스",
+        "address_name": "서울 용산구 후암동 1-43",
+        "road_address_name": "서울 용산구 후암로 68",
+        "phone": "02-2638-0715",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/13582387"
+    },
+    {
+        "id": "460216775",
+        "place_name": "도토리",
+        "address_name": "서울 용산구 한강로1가 227",
+        "road_address_name": "서울 용산구 한강대로52길 25-6",
+        "phone": "02-797-0225",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/460216775"
+    },
+    {
+        "id": "1151652295",
+        "place_name": "한남작업실",
+        "address_name": "서울 용산구 한남동 745-2",
+        "road_address_name": "서울 용산구 이태원로55나길 7",
+        "phone": "02-792-5620",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1151652295"
+    },
+    {
+        "id": "101568646",
+        "place_name": "33아파트먼트",
+        "address_name": "서울 용산구 한남동 729-68",
+        "road_address_name": "서울 용산구 한남대로27길 33",
+        "phone": "02-794-0033",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/101568646"
+    },
+    {
+        "id": "335734051",
+        "place_name": "카페노티드 한남점",
+        "address_name": "서울 용산구 한남동 684-77",
+        "road_address_name": "서울 용산구 대사관로5길 12",
+        "phone": "0507-1301-2387",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/335734051"
+    },
+    {
+        "id": "954423286",
+        "place_name": "무진장",
+        "address_name": "서울 용산구 이태원동 34-58",
+        "road_address_name": "서울 용산구 녹사평대로 168-18",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/954423286"
+    },
+    {
+        "id": "19615417",
+        "place_name": "서울루덴스",
+        "address_name": "서울 용산구 이태원동 5-12",
+        "road_address_name": "서울 용산구 회나무로 69",
+        "phone": "02-795-4151",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/19615417"
+    },
+    {
+        "id": "869574538",
+        "place_name": "뉴오리진 동부이촌점",
+        "address_name": "서울 용산구 이촌동 302-43",
+        "road_address_name": "서울 용산구 이촌로 208",
+        "phone": "02-6272-6527",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/869574538"
+    },
+    {
+        "id": "1579324098",
+        "place_name": "널담은공간",
+        "address_name": "서울 용산구 용산동2가 19-12",
+        "road_address_name": "서울 용산구 신흥로15길 18-12",
+        "phone": "031-436-8037",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1579324098"
+    },
+    {
+        "id": "1784875766",
+        "place_name": "삼층로비",
+        "address_name": "서울 용산구 한강로3가 40-642",
+        "road_address_name": "서울 용산구 한강대로15길 19-19",
+        "phone": "070-8865-1919",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1784875766"
+    },
+    {
+        "id": "1709532725",
+        "place_name": "코지빌라커피",
+        "address_name": "서울 용산구 이태원동 74-45",
+        "road_address_name": "서울 용산구 이태원로20길 32",
+        "phone": "02-794-5657",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1709532725"
+    },
+    {
+        "id": "1640456450",
+        "place_name": "챔프커피 1작업실",
+        "address_name": "서울 용산구 한남동 768-25",
+        "road_address_name": "서울 용산구 우사단로10길 121",
+        "phone": "010-5269-4931",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1640456450"
+    },
+    {
+        "id": "25548485",
+        "place_name": "헬카페",
+        "address_name": "서울 용산구 보광동 238-43",
+        "road_address_name": "서울 용산구 보광로 76",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/25548485"
+    },
+    {
+        "id": "1343541111",
+        "place_name": "골드문커피",
+        "address_name": "서울 용산구 한강로3가 65-157",
+        "road_address_name": "서울 용산구 한강대로14길 12",
+        "phone": "010-3112-6118",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1343541111"
+    },
+    {
+        "id": "1884738430",
+        "place_name": "어프로치커피",
+        "address_name": "서울 용산구 한강로2가 154",
+        "road_address_name": "서울 용산구 한강대로40길 18-3",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1884738430"
+    },
+    {
+        "id": "1744219383",
+        "place_name": "팬케이크샵",
+        "address_name": "서울 용산구 이태원동 455-1",
+        "road_address_name": "서울 용산구 녹사평대로40다길 2",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1744219383"
+    }
+]

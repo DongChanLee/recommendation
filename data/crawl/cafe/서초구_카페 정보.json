@@ -1,0 +1,452 @@
+[
+    {
+        "id": "1877580394",
+        "place_name": "카페노티드 서래",
+        "address_name": "서울 서초구 방배동 838-29",
+        "road_address_name": "서울 서초구 방배로32길 30-9",
+        "phone": "02-599-9377",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1877580394"
+    },
+    {
+        "id": "554364299",
+        "place_name": "프릳츠 양재점",
+        "address_name": "서울 서초구 서초동 1363-10",
+        "road_address_name": "서울 서초구 강남대로37길 24-11",
+        "phone": "02-521-4148",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/554364299"
+    },
+    {
+        "id": "759710306",
+        "place_name": "토즈모임센터 강남컨퍼런스점",
+        "address_name": "서울 서초구 서초동 1305-1",
+        "road_address_name": "서울 서초구 강남대로 441",
+        "phone": "0507-1314-0118",
+        "category_group_name": "카페",
+        "category_name": "서비스,산업 > 전문대행 > 공간대여 > 모임공간 > 토즈모임센터",
+        "place_url": "http://place.map.kakao.com/759710306"
+    },
+    {
+        "id": "27607461",
+        "place_name": "토즈모임센터 양재점",
+        "address_name": "서울 서초구 양재동 11-2",
+        "road_address_name": "서울 서초구 남부순환로 2606",
+        "phone": "02-2058-0118",
+        "category_group_name": "카페",
+        "category_name": "서비스,산업 > 전문대행 > 공간대여 > 모임공간 > 토즈모임센터",
+        "place_url": "http://place.map.kakao.com/27607461"
+    },
+    {
+        "id": "96877138",
+        "place_name": "태양커피",
+        "address_name": "서울 서초구 방배동 851-18",
+        "road_address_name": "서울 서초구 서초대로25길 55",
+        "phone": "0507-1426-8181",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/96877138"
+    },
+    {
+        "id": "1614713440",
+        "place_name": "공미학",
+        "address_name": "서울 서초구 서초동 1564-1",
+        "road_address_name": "서울 서초구 서초대로48길 101",
+        "phone": "02-6462-9000",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1614713440"
+    },
+    {
+        "id": "559888657",
+        "place_name": "캐틀앤비 양재천점",
+        "address_name": "서울 서초구 양재동 90-4",
+        "road_address_name": "서울 서초구 양재천로 131",
+        "phone": "02-578-2737",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/559888657"
+    },
+    {
+        "id": "1817287702",
+        "place_name": "카페토다",
+        "address_name": "서울 서초구 우면동 176-5",
+        "road_address_name": "서울 서초구 성촌6길 39",
+        "phone": "02-529-5401",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1817287702"
+    },
+    {
+        "id": "24786161",
+        "place_name": "카몽",
+        "address_name": "서울 서초구 서초동 1552-2",
+        "road_address_name": "서울 서초구 서초대로42길 17",
+        "phone": "02-522-5949",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/24786161"
+    },
+    {
+        "id": "26965232",
+        "place_name": "마얘",
+        "address_name": "서울 서초구 반포동 106-6",
+        "road_address_name": "서울 서초구 사평대로22길 14",
+        "phone": "02-749-1411",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/26965232"
+    },
+    {
+        "id": "19232112",
+        "place_name": "장꼬방",
+        "address_name": "서울 서초구 서초동 1316",
+        "road_address_name": "서울 서초구 강남대로61길 27",
+        "phone": "02-597-5511",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/19232112"
+    },
+    {
+        "id": "1199071795",
+        "place_name": "프리퍼커피로스터스",
+        "address_name": "서울 서초구 서초동 1475-5",
+        "road_address_name": "서울 서초구 반포대로5길 4",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1199071795"
+    },
+    {
+        "id": "24284857",
+        "place_name": "세컨브레스",
+        "address_name": "서울 서초구 양재동 98-4",
+        "road_address_name": "서울 서초구 양재천로 95-2",
+        "phone": "02-575-9840",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/24284857"
+    },
+    {
+        "id": "61362421",
+        "place_name": "쿠오레에스프레소",
+        "address_name": "서울 서초구 서초동 1357-66",
+        "road_address_name": "서울 서초구 강남대로 275",
+        "phone": "070-7750-9230",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/61362421"
+    },
+    {
+        "id": "1604364458",
+        "place_name": "커피앳웍스 양재역점",
+        "address_name": "서울 서초구 서초동 1366-5",
+        "road_address_name": "서울 서초구 강남대로 241",
+        "phone": "02-521-3178",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1604364458"
+    },
+    {
+        "id": "1522325014",
+        "place_name": "타르타르 강남역점",
+        "address_name": "서울 서초구 서초동 1317-2",
+        "road_address_name": "서울 서초구 강남대로61길 13",
+        "phone": "010-9497-2922",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1522325014"
+    },
+    {
+        "id": "178351175",
+        "place_name": "테라로사 예술의전당점",
+        "address_name": "서울 서초구 서초동 700",
+        "road_address_name": "서울 서초구 남부순환로 2406",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/178351175"
+    },
+    {
+        "id": "1892493356",
+        "place_name": "사푼사푼 강남역점",
+        "address_name": "서울 서초구 서초동 1329",
+        "road_address_name": "서울 서초구 강남대로 355",
+        "phone": "02-521-4565",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1892493356"
+    },
+    {
+        "id": "1832330806",
+        "place_name": "심재",
+        "address_name": "서울 서초구 양재동 347-2",
+        "road_address_name": "서울 서초구 동산로2길 40",
+        "phone": "070-8826-9000",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1832330806"
+    },
+    {
+        "id": "303680808",
+        "place_name": "딥다이브",
+        "address_name": "서울 서초구 방배동 435-2",
+        "road_address_name": "서울 서초구 방배천로18길 36-5",
+        "phone": "070-7514-2104",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/303680808"
+    },
+    {
+        "id": "742991232",
+        "place_name": "앙떼띠 팝업스토어",
+        "address_name": "서울 서초구 반포동 92-5",
+        "road_address_name": "서울 서초구 사평대로26길 24",
+        "phone": "02-6406-7410",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/742991232"
+    },
+    {
+        "id": "25502514",
+        "place_name": "스타벅스 파미에파크R점",
+        "address_name": "서울 서초구 반포동 118-3",
+        "road_address_name": "서울 서초구 사평대로 205",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/25502514"
+    },
+    {
+        "id": "278752760",
+        "place_name": "태양커피 사당점",
+        "address_name": "서울 서초구 방배동 453-33",
+        "road_address_name": "서울 서초구 방배천로 32",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/278752760"
+    },
+    {
+        "id": "833631082",
+        "place_name": "카페노티드 강남카카오점",
+        "address_name": "서울 서초구 서초동 1305-8",
+        "road_address_name": "서울 서초구 강남대로 429",
+        "phone": "070-8869-9377",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/833631082"
+    },
+    {
+        "id": "27410243",
+        "place_name": "37.5 서래마을점",
+        "address_name": "서울 서초구 반포동 106-8",
+        "road_address_name": "서울 서초구 서래로7길 16",
+        "phone": "02-593-3705",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27410243"
+    },
+    {
+        "id": "523268743",
+        "place_name": "카페더나인스퀘어 강남본점",
+        "address_name": "서울 서초구 서초동 1317-14",
+        "road_address_name": "서울 서초구 서초대로77길 5",
+        "phone": "02-516-2657",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/523268743"
+    },
+    {
+        "id": "1634781091",
+        "place_name": "카페로비",
+        "address_name": "서울 서초구 서초동 1564-4",
+        "road_address_name": "서울 서초구 반포대로20길 53",
+        "phone": "070-4300-4180",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1634781091"
+    },
+    {
+        "id": "764290074",
+        "place_name": "헬무트",
+        "address_name": "서울 서초구 방배동 453-22",
+        "road_address_name": "서울 서초구 방배천로6길 3-10",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/764290074"
+    },
+    {
+        "id": "13282390",
+        "place_name": "카페페라",
+        "address_name": "서울 서초구 방배동 444-3",
+        "road_address_name": "서울 서초구 방배천로 11",
+        "phone": "02-522-2582",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/13282390"
+    },
+    {
+        "id": "2050364953",
+        "place_name": "레어마카롱 서초점",
+        "address_name": "서울 서초구 서초동 1561-8",
+        "road_address_name": "서울 서초구 반포대로24길 47",
+        "phone": "070-8866-6809",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/2050364953"
+    },
+    {
+        "id": "498076105",
+        "place_name": "티그레블랑코",
+        "address_name": "서울 서초구 반포동 718-1",
+        "road_address_name": "서울 서초구 주흥길 64-17",
+        "phone": "02-6498-1469",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/498076105"
+    },
+    {
+        "id": "1051388798",
+        "place_name": "비엔나커피하우스 이수역점",
+        "address_name": "서울 서초구 방배동 438-24",
+        "road_address_name": "서울 서초구 동작대로 86",
+        "phone": "02-522-1683",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1051388798"
+    },
+    {
+        "id": "2026998817",
+        "place_name": "타짜도르 강남점",
+        "address_name": "서울 서초구 서초동 1309",
+        "road_address_name": "서울 서초구 서초대로77길 61",
+        "phone": "070-8848-9965",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2026998817"
+    },
+    {
+        "id": "27402054",
+        "place_name": "폴바셋 강남삼성타운점",
+        "address_name": "서울 서초구 서초동 1327-1",
+        "road_address_name": "서울 서초구 서초대로78길 22",
+        "phone": "02-523-5656",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 폴바셋",
+        "place_url": "http://place.map.kakao.com/27402054"
+    },
+    {
+        "id": "1539001784",
+        "place_name": "빽다방 빵연구소 신사사거리점",
+        "address_name": "서울 서초구 잠원동 20-9",
+        "road_address_name": "서울 서초구 강남대로 605",
+        "phone": "02-517-0410",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 빽다방",
+        "place_url": "http://place.map.kakao.com/1539001784"
+    },
+    {
+        "id": "2079708590",
+        "place_name": "비엔나커피하우스 방배점",
+        "address_name": "서울 서초구 방배동 902-4",
+        "road_address_name": "서울 서초구 방배로 126",
+        "phone": "02-585-1683",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/2079708590"
+    },
+    {
+        "id": "1048071601",
+        "place_name": "리프레셔스",
+        "address_name": "서울 서초구 방배동 528-15",
+        "road_address_name": "서울 서초구 청두곶6길 8",
+        "phone": "010-4277-2519",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1048071601"
+    },
+    {
+        "id": "429781054",
+        "place_name": "세컨클락",
+        "address_name": "서울 서초구 신원동 263-6",
+        "road_address_name": "서울 서초구 청룡마을길 41",
+        "phone": "02-594-7606",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/429781054"
+    },
+    {
+        "id": "1607210817",
+        "place_name": "쿄베이커리 더인피닛카페",
+        "address_name": "서울 서초구 서초동 1303-9",
+        "road_address_name": "서울 서초구 사평대로58길 6",
+        "phone": "02-536-2838",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1607210817"
+    },
+    {
+        "id": "27367643",
+        "place_name": "미스터리룸 이스케이프 강남점",
+        "address_name": "서울 서초구 서초동 1308-10",
+        "road_address_name": "서울 서초구 서초대로77길 37",
+        "phone": "02-536-2564",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/27367643"
+    },
+    {
+        "id": "1047364119",
+        "place_name": "플랫다이닝카페",
+        "address_name": "서울 서초구 서초동 1659-2",
+        "road_address_name": "서울 서초구 서초중앙로22길 22-7",
+        "phone": "02-598-1224",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1047364119"
+    },
+    {
+        "id": "1905394241",
+        "place_name": "그릿918",
+        "address_name": "서울 서초구 서초동 1715-5",
+        "road_address_name": "서울 서초구 법원로2길 24",
+        "phone": "02-535-0918",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1905394241"
+    },
+    {
+        "id": "738869999",
+        "place_name": "엔트런스",
+        "address_name": "서울 서초구 서초동 1643-32",
+        "road_address_name": "서울 서초구 사임당로19길 72-3",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/738869999"
+    },
+    {
+        "id": "713850095",
+        "place_name": "카페도킹",
+        "address_name": "서울 서초구 양재동 280-10",
+        "road_address_name": "서울 서초구 동산로19길 54",
+        "phone": "070-7757-1207",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/713850095"
+    },
+    {
+        "id": "446015150",
+        "place_name": "미스터힐링 교대역점",
+        "address_name": "서울 서초구 서초동 1575-4",
+        "road_address_name": "서울 서초구 서초중앙로 111",
+        "phone": "02-582-2220",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/446015150"
+    }
+]

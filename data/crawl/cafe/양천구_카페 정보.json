@@ -1,0 +1,452 @@
+[
+    {
+        "id": "300323196",
+        "place_name": "커피별녹색잔",
+        "address_name": "서울 양천구 신정동 988-14",
+        "road_address_name": "서울 양천구 목동로21길 26",
+        "phone": "02-2696-3337",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/300323196"
+    },
+    {
+        "id": "203376580",
+        "place_name": "카페제하",
+        "address_name": "서울 양천구 신정동 318-12",
+        "road_address_name": "서울 양천구 목동동로 177",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/203376580"
+    },
+    {
+        "id": "333169963",
+        "place_name": "더브라운 목동점",
+        "address_name": "서울 양천구 목동 404-13",
+        "road_address_name": "서울 양천구 오목로 354",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/333169963"
+    },
+    {
+        "id": "26900383",
+        "place_name": "스타벅스 신월ICDT점",
+        "address_name": "서울 양천구 신월동 205-48",
+        "road_address_name": "서울 양천구 남부순환로 430",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/26900383"
+    },
+    {
+        "id": "1737262840",
+        "place_name": "스타벅스 신정DT점",
+        "address_name": "서울 양천구 신정동 981-15",
+        "road_address_name": "서울 양천구 신월로 341",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1737262840"
+    },
+    {
+        "id": "480014306",
+        "place_name": "하니앤손스",
+        "address_name": "서울 양천구 목동 404-5",
+        "road_address_name": "서울 양천구 신목로2길 68",
+        "phone": "02-2651-8989",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/480014306"
+    },
+    {
+        "id": "853330963",
+        "place_name": "헬로방방 목동점",
+        "address_name": "서울 양천구 신정동 1009-4",
+        "road_address_name": "서울 양천구 신월로 387",
+        "phone": "02-2696-8034",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/853330963"
+    },
+    {
+        "id": "26909836",
+        "place_name": "스타벅스 오목교역점",
+        "address_name": "서울 양천구 목동 404-13",
+        "road_address_name": "서울 양천구 오목로 354",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/26909836"
+    },
+    {
+        "id": "27178625",
+        "place_name": "패닉이스케이프 목동지점",
+        "address_name": "서울 양천구 신정동 902-5",
+        "road_address_name": "서울 양천구 신정중앙로 96",
+        "phone": "02-6408-5044",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/27178625"
+    },
+    {
+        "id": "1457114935",
+        "place_name": "아모르버터",
+        "address_name": "서울 양천구 신정동 998-15",
+        "road_address_name": "서울 양천구 오목로48길 20-1",
+        "phone": "02-2601-9739",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1457114935"
+    },
+    {
+        "id": "1387417961",
+        "place_name": "파티세리소나 2호점",
+        "address_name": "서울 양천구 신정동 89-16",
+        "road_address_name": "서울 양천구 신목로12길 8",
+        "phone": "02-6404-4454",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1387417961"
+    },
+    {
+        "id": "27264276",
+        "place_name": "퍼블릭맨션",
+        "address_name": "서울 양천구 목동 324-55",
+        "road_address_name": "서울 양천구 등촌로 154",
+        "phone": "02-2654-6695",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27264276"
+    },
+    {
+        "id": "758470503",
+        "place_name": "스타벅스 목동역점",
+        "address_name": "서울 양천구 신정동 900-10",
+        "road_address_name": "서울 양천구 목동로 203",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/758470503"
+    },
+    {
+        "id": "2105594814",
+        "place_name": "카페꼬숩",
+        "address_name": "서울 양천구 신정동 128-112",
+        "road_address_name": "서울 양천구 신목로4길 1",
+        "phone": "02-2653-2249",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/2105594814"
+    },
+    {
+        "id": "505681949",
+        "place_name": "달다랗다",
+        "address_name": "서울 양천구 신정동 1016-7",
+        "road_address_name": "서울 양천구 은행정로6길 22",
+        "phone": "010-2062-3201",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/505681949"
+    },
+    {
+        "id": "939764391",
+        "place_name": "도쿄빙수 오목교역점",
+        "address_name": "서울 양천구 목동 405-284",
+        "road_address_name": "서울 양천구 오목로 328",
+        "phone": "02-2644-6568",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/939764391"
+    },
+    {
+        "id": "1989650151",
+        "place_name": "스타벅스 목동8단지점",
+        "address_name": "서울 양천구 신정동 319-23",
+        "road_address_name": "서울 양천구 목동서로 299",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1989650151"
+    },
+    {
+        "id": "964935317",
+        "place_name": "스타벅스 신월동DT",
+        "address_name": "서울 양천구 신월동 52-14",
+        "road_address_name": "서울 양천구 남부순환로 319",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/964935317"
+    },
+    {
+        "id": "1468196303",
+        "place_name": "카페히든",
+        "address_name": "서울 양천구 목동 406-122",
+        "road_address_name": "서울 양천구 목동동로 222-6",
+        "phone": "070-8774-1774",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1468196303"
+    },
+    {
+        "id": "1905255381",
+        "place_name": "설빙 목동점",
+        "address_name": "서울 양천구 목동 934",
+        "road_address_name": "서울 양천구 목동동로 258",
+        "phone": "070-8883-0334",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페 > 설빙",
+        "place_url": "http://place.map.kakao.com/1905255381"
+    },
+    {
+        "id": "256577644",
+        "place_name": "카페화목토",
+        "address_name": "서울 양천구 신정동 1008-12",
+        "road_address_name": "서울 양천구 목동로11길 5",
+        "phone": "02-6403-1105",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/256577644"
+    },
+    {
+        "id": "926070592",
+        "place_name": "스타벅스 목동10단지점",
+        "address_name": "서울 양천구 신정동 324-7",
+        "road_address_name": "서울 양천구 목동서로 401",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/926070592"
+    },
+    {
+        "id": "617333242",
+        "place_name": "스타벅스 등촌역점",
+        "address_name": "서울 양천구 목동 602-2",
+        "road_address_name": "서울 양천구 공항대로 566",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/617333242"
+    },
+    {
+        "id": "1910467865",
+        "place_name": "테디랩",
+        "address_name": "서울 양천구 신정동 1024-1",
+        "road_address_name": "서울 양천구 신월로36길 11",
+        "phone": "070-8722-4441",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1910467865"
+    },
+    {
+        "id": "16095622",
+        "place_name": "에프스토리",
+        "address_name": "서울 양천구 목동 406-290",
+        "road_address_name": "서울 양천구 오목로 321-5",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/16095622"
+    },
+    {
+        "id": "334882918",
+        "place_name": "카페스페이스530",
+        "address_name": "서울 양천구 목동 530-5",
+        "road_address_name": "서울 양천구 목동중앙본로 122",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/334882918"
+    },
+    {
+        "id": "961605125",
+        "place_name": "카페올리",
+        "address_name": "서울 양천구 신월동 519-17",
+        "road_address_name": "서울 양천구 오목로4길 15",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/961605125"
+    },
+    {
+        "id": "389160790",
+        "place_name": "스타벅스 목동오목로점",
+        "address_name": "서울 양천구 목동 406-4",
+        "road_address_name": "서울 양천구 오목로 279",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/389160790"
+    },
+    {
+        "id": "7961580",
+        "place_name": "스타벅스 목동점",
+        "address_name": "서울 양천구 목동 907-4",
+        "road_address_name": "서울 양천구 목동서로 67",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/7961580"
+    },
+    {
+        "id": "277928483",
+        "place_name": "라헬의부엌 목동점",
+        "address_name": "서울 양천구 목동 406-28",
+        "road_address_name": "서울 양천구 오목로 345",
+        "phone": "070-4121-1020",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/277928483"
+    },
+    {
+        "id": "1554012701",
+        "place_name": "커피집 이공",
+        "address_name": "서울 양천구 신정동 987-7",
+        "road_address_name": "서울 양천구 오목로 204",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1554012701"
+    },
+    {
+        "id": "1973568744",
+        "place_name": "투썸플레이스 목동하이페리온점",
+        "address_name": "서울 양천구 목동 961",
+        "road_address_name": "서울 양천구 오목로 300",
+        "phone": "02-2652-2388",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1973568744"
+    },
+    {
+        "id": "1459148300",
+        "place_name": "퀸즈브라운 목동역점",
+        "address_name": "서울 양천구 신정동 989-10",
+        "road_address_name": "서울 양천구 오목로46길 6",
+        "phone": "02-2604-8222",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1459148300"
+    },
+    {
+        "id": "1898322959",
+        "place_name": "비엔나커피하우스 목동7단지점",
+        "address_name": "서울 양천구 목동 923-11",
+        "road_address_name": "서울 양천구 목동서로 211",
+        "phone": "02-2655-1683",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1898322959"
+    },
+    {
+        "id": "255158813",
+        "place_name": "카페아리네",
+        "address_name": "서울 양천구 목동 406-114",
+        "road_address_name": "서울 양천구 목동동로 222-11",
+        "phone": "02-2648-5735",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/255158813"
+    },
+    {
+        "id": "265491129",
+        "place_name": "젠틀카롱",
+        "address_name": "서울 양천구 신정동 1007-11",
+        "road_address_name": "서울 양천구 목동로 163",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/265491129"
+    },
+    {
+        "id": "13049554",
+        "place_name": "스타벅스 목동파라곤점",
+        "address_name": "서울 양천구 목동 917",
+        "road_address_name": "서울 양천구 목동서로 155",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/13049554"
+    },
+    {
+        "id": "478112901",
+        "place_name": "리모트",
+        "address_name": "서울 양천구 목동 717-14",
+        "road_address_name": "서울 양천구 목동중앙본로7길 34",
+        "phone": "070-8879-0401",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/478112901"
+    },
+    {
+        "id": "1664553439",
+        "place_name": "투썸플레이스 남부지방법원점",
+        "address_name": "서울 양천구 신정동 1009-15",
+        "road_address_name": "서울 양천구 신월로 385",
+        "phone": "02-2607-2377",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1664553439"
+    },
+    {
+        "id": "360893773",
+        "place_name": "프레쉬모먼트카페",
+        "address_name": "서울 양천구 신정동 969-18",
+        "road_address_name": "서울 양천구 중앙로46길 7",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/360893773"
+    },
+    {
+        "id": "236144404",
+        "place_name": "커피그레이드",
+        "address_name": "서울 양천구 신월동 445-2",
+        "road_address_name": "서울 양천구 중앙로51길 71",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/236144404"
+    },
+    {
+        "id": "20596704",
+        "place_name": "이디야커피 오목교대학학원점",
+        "address_name": "서울 양천구 목동 406-35",
+        "road_address_name": "서울 양천구 오목로 319",
+        "phone": "02-2651-0511",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 이디야커피",
+        "place_url": "http://place.map.kakao.com/20596704"
+    },
+    {
+        "id": "1744622139",
+        "place_name": "투썸플레이스 신정네거리점",
+        "address_name": "서울 양천구 신정동 1183-8",
+        "road_address_name": "서울 양천구 중앙로 261",
+        "phone": "02-6952-9797",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1744622139"
+    },
+    {
+        "id": "18694487",
+        "place_name": "코나빈스",
+        "address_name": "서울 양천구 신월동 961-4",
+        "road_address_name": "서울 양천구 지양로 72",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/18694487"
+    },
+    {
+        "id": "26410047",
+        "place_name": "스타벅스 목동7단지점",
+        "address_name": "서울 양천구 목동 923",
+        "road_address_name": "서울 양천구 목동서로 213",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/26410047"
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "id": "445165609",
+        "place_name": "앤트러사이트 연희점",
+        "address_name": "서울 서대문구 연희동 89-19",
+        "road_address_name": "서울 서대문구 연희로 135",
+        "phone": "02-332-7650",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/445165609"
+    },
+    {
+        "id": "273114016",
+        "place_name": "콘하스 연희점",
+        "address_name": "서울 서대문구 연희동 90-1",
+        "road_address_name": "서울 서대문구 연희로27길 99",
+        "phone": "02-325-0792",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/273114016"
+    },
+    {
+        "id": "1011256721",
+        "place_name": "더파이홀",
+        "address_name": "서울 서대문구 창천동 57-61",
+        "road_address_name": "서울 서대문구 연세로5나길 20",
+        "phone": "02-334-1181",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1011256721"
+    },
+    {
+        "id": "8109317",
+        "place_name": "토즈모임센터 신촌본점",
+        "address_name": "서울 서대문구 창천동 18-55",
+        "road_address_name": "서울 서대문구 연세로 10-1",
+        "phone": "02-392-0117",
+        "category_group_name": "카페",
+        "category_name": "서비스,산업 > 전문대행 > 공간대여 > 모임공간 > 토즈모임센터",
+        "place_url": "http://place.map.kakao.com/8109317"
+    },
+    {
+        "id": "18826661",
+        "place_name": "독수리다방",
+        "address_name": "서울 서대문구 창천동 31-4",
+        "road_address_name": "서울 서대문구 연세로 36",
+        "phone": "02-363-1222",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 다방",
+        "place_url": "http://place.map.kakao.com/18826661"
+    },
+    {
+        "id": "21542432",
+        "place_name": "매뉴팩트커피 연희본점",
+        "address_name": "서울 서대문구 연희동 130-2",
+        "road_address_name": "서울 서대문구 연희로11길 29",
+        "phone": "02-6406-8777",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/21542432"
+    },
+    {
+        "id": "577825774",
+        "place_name": "그릭데이 이대점",
+        "address_name": "서울 서대문구 대현동 27-33",
+        "road_address_name": "서울 서대문구 신촌역로 22-8",
+        "phone": "02-363-9222",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/577825774"
+    },
+    {
+        "id": "1467009878",
+        "place_name": "스웨이커피스테이션",
+        "address_name": "서울 서대문구 연희동 126-1",
+        "road_address_name": "서울 서대문구 연희로11길 61",
+        "phone": "02-6348-0061",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1467009878"
+    },
+    {
+        "id": "8122805",
+        "place_name": "클로리스 신촌점",
+        "address_name": "서울 서대문구 창천동 13-35",
+        "road_address_name": "서울 서대문구 연세로4길 38",
+        "phone": "02-392-7523",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/8122805"
+    },
+    {
+        "id": "27201991",
+        "place_name": "하이드미플리즈",
+        "address_name": "서울 서대문구 홍제동 330-226",
+        "road_address_name": "서울 서대문구 통일로39나길 5",
+        "phone": "02-394-2015",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/27201991"
+    },
+    {
+        "id": "569185007",
+        "place_name": "롯지190",
+        "address_name": "서울 서대문구 연희동 170-3",
+        "road_address_name": "서울 서대문구 홍제천로 190",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/569185007"
+    },
+    {
+        "id": "17434509",
+        "place_name": "벙커1",
+        "address_name": "서울 서대문구 충정로3가 270",
+        "road_address_name": "서울 서대문구 충정로 20",
+        "phone": "02-771-7707",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/17434509"
+    },
+    {
+        "id": "205823441",
+        "place_name": "로덴드론",
+        "address_name": "서울 서대문구 연희동 90-8",
+        "road_address_name": "서울 서대문구 연희로25길 82",
+        "phone": "02-332-2288",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/205823441"
+    },
+    {
+        "id": "19852273",
+        "place_name": "호밀밭",
+        "address_name": "서울 서대문구 창천동 4-77",
+        "road_address_name": "서울 서대문구 신촌역로 43",
+        "phone": "02-392-5345",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/19852273"
+    },
+    {
+        "id": "1980694762",
+        "place_name": "푸어링아웃",
+        "address_name": "서울 서대문구 연희동 128-27",
+        "road_address_name": "서울 서대문구 연희로11나길 7-7",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1980694762"
+    },
+    {
+        "id": "961299046",
+        "place_name": "올레무스",
+        "address_name": "서울 서대문구 연희동 220-40",
+        "road_address_name": "서울 서대문구 연희로5길 58",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/961299046"
+    },
+    {
+        "id": "1290437759",
+        "place_name": "헬로방방 남가좌충암점",
+        "address_name": "서울 서대문구 남가좌동 1-2",
+        "road_address_name": "서울 서대문구 명지대길 103",
+        "phone": "02-372-4857",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/1290437759"
+    },
+    {
+        "id": "17153633",
+        "place_name": "와플잇업 이대2호점",
+        "address_name": "서울 서대문구 대현동 27-17",
+        "road_address_name": "서울 서대문구 이화여대3길 42-19",
+        "phone": "070-4410-2829",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/17153633"
+    },
+    {
+        "id": "560241790",
+        "place_name": "원앤온리커피",
+        "address_name": "서울 서대문구 대현동 37-7",
+        "road_address_name": "서울 서대문구 이화여대7길 31-4",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/560241790"
+    },
+    {
+        "id": "16418510",
+        "place_name": "미네르바",
+        "address_name": "서울 서대문구 창천동 13-26",
+        "road_address_name": "서울 서대문구 명물길 18",
+        "phone": "02-3147-1327",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/16418510"
+    },
+    {
+        "id": "33873746",
+        "place_name": "프로토콜",
+        "address_name": "서울 서대문구 연희동 137-1",
+        "road_address_name": "서울 서대문구 연희로 109",
+        "phone": "010-3927-6159",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/33873746"
+    },
+    {
+        "id": "26571462",
+        "place_name": "스타벅스 연희DT점",
+        "address_name": "서울 서대문구 연희동 87-8",
+        "road_address_name": "서울 서대문구 연희로 144",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/26571462"
+    },
+    {
+        "id": "13594462",
+        "place_name": "에이투지카페",
+        "address_name": "서울 서대문구 창천동 13-14",
+        "road_address_name": "서울 서대문구 연세로4길 29",
+        "phone": "02-313-7523",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/13594462"
+    },
+    {
+        "id": "550496093",
+        "place_name": "디폴트밸류",
+        "address_name": "서울 서대문구 연희동 192-17",
+        "road_address_name": "서울 서대문구 성산로 333",
+        "phone": "02-2293-3889",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/550496093"
+    },
+    {
+        "id": "838351158",
+        "place_name": "베어스덴",
+        "address_name": "서울 서대문구 창천동 441",
+        "road_address_name": "서울 서대문구 연희로4길 10",
+        "phone": "02-6449-0204",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/838351158"
+    },
+    {
+        "id": "1542251042",
+        "place_name": "룸익스케이프 화이트점",
+        "address_name": "서울 서대문구 창천동 5-21",
+        "road_address_name": "서울 서대문구 명물길 66",
+        "phone": "02-393-5689",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/1542251042"
+    },
+    {
+        "id": "1520672825",
+        "place_name": "레드버튼 신촌점",
+        "address_name": "서울 서대문구 창천동 18-31",
+        "road_address_name": "서울 서대문구 연세로 8",
+        "phone": "02-363-3799",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 보드카페",
+        "place_url": "http://place.map.kakao.com/1520672825"
+    },
+    {
+        "id": "11221603",
+        "place_name": "투썸플레이스 신촌점",
+        "address_name": "서울 서대문구 창천동 30-8",
+        "road_address_name": "서울 서대문구 신촌로 93",
+        "phone": "02-3142-5995",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/11221603"
+    },
+    {
+        "id": "10538396",
+        "place_name": "스타벅스 신촌점",
+        "address_name": "서울 서대문구 창천동 18-55",
+        "road_address_name": "서울 서대문구 연세로 10-1",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/10538396"
+    },
+    {
+        "id": "24879347",
+        "place_name": "설빙 신촌점",
+        "address_name": "서울 서대문구 창천동 33-43",
+        "road_address_name": "서울 서대문구 연세로 23",
+        "phone": "070-7716-8970",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페 > 설빙",
+        "place_url": "http://place.map.kakao.com/24879347"
+    },
+    {
+        "id": "1480755504",
+        "place_name": "보틀라운지",
+        "address_name": "서울 서대문구 연희동 708",
+        "road_address_name": "서울 서대문구 홍연길 26",
+        "phone": "02-3144-0703",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1480755504"
+    },
+    {
+        "id": "23446983",
+        "place_name": "시간이머무는홍차가게",
+        "address_name": "서울 서대문구 연희동 69-3",
+        "road_address_name": "서울 서대문구 연희로16길 7-15",
+        "phone": "070-4843-3541",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/23446983"
+    },
+    {
+        "id": "895804381",
+        "place_name": "연희커피",
+        "address_name": "서울 서대문구 연희동 189-4",
+        "road_address_name": "서울 서대문구 연희맛로 17-21",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/895804381"
+    },
+    {
+        "id": "2060053572",
+        "place_name": "스타벅스 가재울뉴타운점",
+        "address_name": "서울 서대문구 남가좌동 385",
+        "road_address_name": "서울 서대문구 가재울미래로 2",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/2060053572"
+    },
+    {
+        "id": "8117216",
+        "place_name": "티앙팡 오후에 홍차 1호점",
+        "address_name": "서울 서대문구 대현동 54-4",
+        "road_address_name": "서울 서대문구 이화여대길 34",
+        "phone": "02-364-4196",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/8117216"
+    },
+    {
+        "id": "143734770",
+        "place_name": "스타벅스 홍제역점",
+        "address_name": "서울 서대문구 홍제동 301-19",
+        "road_address_name": "서울 서대문구 통일로 451",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/143734770"
+    },
+    {
+        "id": "685757963",
+        "place_name": "롤리홀리",
+        "address_name": "서울 서대문구 홍제동 307-12",
+        "road_address_name": "서울 서대문구 통일로39길 43",
+        "phone": "070-7773-2194",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/685757963"
+    },
+    {
+        "id": "725420477",
+        "place_name": "스타벅스 이대R점",
+        "address_name": "서울 서대문구 대현동 54-4",
+        "road_address_name": "서울 서대문구 이화여대길 34",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/725420477"
+    },
+    {
+        "id": "1199276033",
+        "place_name": "벤치커피스튜디오",
+        "address_name": "서울 서대문구 대현동 104-18",
+        "road_address_name": "서울 서대문구 연세로2마길 14",
+        "phone": "02-365-5999",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1199276033"
+    },
+    {
+        "id": "27494928",
+        "place_name": "꽃피다이화다방",
+        "address_name": "서울 서대문구 대현동 37-1",
+        "road_address_name": "서울 서대문구 이화여대길 75",
+        "phone": "02-313-1905",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27494928"
+    },
+    {
+        "id": "473697180",
+        "place_name": "연희대공원",
+        "address_name": "서울 서대문구 연희동 273-9",
+        "road_address_name": "서울 서대문구 연희로11가길 42",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/473697180"
+    },
+    {
+        "id": "458225000",
+        "place_name": "스타벅스 북가좌DT점",
+        "address_name": "서울 서대문구 북가좌동 309-16",
+        "road_address_name": "서울 서대문구 응암로 85",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/458225000"
+    },
+    {
+        "id": "1662439887",
+        "place_name": "로네펠트 서대문점",
+        "address_name": "서울 서대문구 충정로2가 78",
+        "road_address_name": "서울 서대문구 충정로 71-5",
+        "phone": "02-313-1823",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1662439887"
+    },
+    {
+        "id": "1432966034",
+        "place_name": "스타벅스 연희동점",
+        "address_name": "서울 서대문구 연희동 188-2",
+        "road_address_name": "서울 서대문구 연희로 97",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1432966034"
+    },
+    {
+        "id": "2020240735",
+        "place_name": "포티드",
+        "address_name": "서울 서대문구 창천동 5-58",
+        "road_address_name": "서울 서대문구 명물길 36-3",
+        "phone": "070-7543-6627",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2020240735"
+    }
+]

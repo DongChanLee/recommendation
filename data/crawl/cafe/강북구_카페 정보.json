@@ -1,0 +1,452 @@
+[
+    {
+        "id": "2021943104",
+        "place_name": "카페어니언 미아점",
+        "address_name": "서울 강북구 미아동 127-9",
+        "road_address_name": "서울 강북구 솔매로50길 55",
+        "phone": "070-7816-2714",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2021943104"
+    },
+    {
+        "id": "7888616",
+        "place_name": "미즐카페엠",
+        "address_name": "서울 강북구 수유동 535-11",
+        "road_address_name": "서울 강북구 4.19로 107",
+        "phone": "02-999-5055",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/7888616"
+    },
+    {
+        "id": "234080048",
+        "place_name": "무너미",
+        "address_name": "서울 강북구 수유동 222-78",
+        "road_address_name": "서울 강북구 노해로8가길 40",
+        "phone": "02-0903-5058",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/234080048"
+    },
+    {
+        "id": "2001336225",
+        "place_name": "경계선",
+        "address_name": "서울 강북구 수유동 516-62",
+        "road_address_name": "서울 강북구 삼각산로 22-7",
+        "phone": "010-3957-7341",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/2001336225"
+    },
+    {
+        "id": "394644903",
+        "place_name": "카페멘디",
+        "address_name": "서울 강북구 수유동 582-12",
+        "road_address_name": "서울 강북구 4.19로8길 7-2",
+        "phone": "02-990-7832",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/394644903"
+    },
+    {
+        "id": "2034455524",
+        "place_name": "카페 산아래",
+        "address_name": "서울 강북구 우이동 217-1",
+        "road_address_name": "서울 강북구 삼양로181길 56",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2034455524"
+    },
+    {
+        "id": "943203996",
+        "place_name": "제이제곱",
+        "address_name": "서울 강북구 미아동 54-46",
+        "road_address_name": "서울 강북구 도봉로10나길 17",
+        "phone": "010-4883-4249",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/943203996"
+    },
+    {
+        "id": "657378473",
+        "place_name": "릴렉스",
+        "address_name": "서울 강북구 우이동 238-1",
+        "road_address_name": "서울 강북구 삼양로181길 142",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/657378473"
+    },
+    {
+        "id": "939649470",
+        "place_name": "에이머그",
+        "address_name": "서울 강북구 수유동 2-2",
+        "road_address_name": "서울 강북구 노해로 21",
+        "phone": "02-6953-2629",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/939649470"
+    },
+    {
+        "id": "1044086314",
+        "place_name": "백란",
+        "address_name": "서울 강북구 우이동 244-3",
+        "road_address_name": "서울 강북구 삼양로181길 201-20",
+        "phone": "02-993-7745",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1044086314"
+    },
+    {
+        "id": "27020659",
+        "place_name": "스타벅스 강북구청사거리점",
+        "address_name": "서울 강북구 수유동 174-13",
+        "road_address_name": "서울 강북구 도봉로 365",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/27020659"
+    },
+    {
+        "id": "4331171",
+        "place_name": "큐브이스케이프 수유점",
+        "address_name": "서울 강북구 수유동 229-46",
+        "road_address_name": "서울 강북구 도봉로87길 11",
+        "phone": "02-903-0706",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/4331171"
+    },
+    {
+        "id": "26572250",
+        "place_name": "스타벅스 미아사거리역점",
+        "address_name": "서울 강북구 미아동 35-30",
+        "road_address_name": "서울 강북구 도봉로 32",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/26572250"
+    },
+    {
+        "id": "325005868",
+        "place_name": "투썸플레이스 미아사거리역점",
+        "address_name": "서울 강북구 미아동 860-187",
+        "road_address_name": "서울 강북구 도봉로10길 6",
+        "phone": "02-982-2500",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/325005868"
+    },
+    {
+        "id": "10534106",
+        "place_name": "스타벅스 수유역점",
+        "address_name": "서울 강북구 번동 418-20",
+        "road_address_name": "서울 강북구 도봉로 342",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/10534106"
+    },
+    {
+        "id": "1356390089",
+        "place_name": "번418",
+        "address_name": "서울 강북구 번동 418-13",
+        "road_address_name": "서울 강북구 오패산로 414",
+        "phone": "02-907-5757",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1356390089"
+    },
+    {
+        "id": "1305533873",
+        "place_name": "노르웨이안우드",
+        "address_name": "서울 강북구 수유동 192-33",
+        "road_address_name": "서울 강북구 도봉로87길 32-6",
+        "phone": "02-999-3738",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1305533873"
+    },
+    {
+        "id": "1307504751",
+        "place_name": "커피타는고양이",
+        "address_name": "서울 강북구 미아동 35-27",
+        "road_address_name": "서울 강북구 도봉로 34-8",
+        "phone": "02-980-9080",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 고양이카페",
+        "place_url": "http://place.map.kakao.com/1307504751"
+    },
+    {
+        "id": "1583585647",
+        "place_name": "스타벅스 미아뉴타운점",
+        "address_name": "서울 강북구 미아동 812-2",
+        "road_address_name": "서울 강북구 삼양로 161",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1583585647"
+    },
+    {
+        "id": "104030976",
+        "place_name": "숲속앵두나무카페",
+        "address_name": "서울 강북구 번동 526-83",
+        "road_address_name": "서울 강북구 덕릉로40다길 33-38",
+        "phone": "02-773-2517",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 애견카페",
+        "place_url": "http://place.map.kakao.com/104030976"
+    },
+    {
+        "id": "856213664",
+        "place_name": "다정도병인양",
+        "address_name": "서울 강북구 수유동 567-6",
+        "road_address_name": "서울 강북구 4.19로 41-1",
+        "phone": "02-990-4190",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 전통찻집",
+        "place_url": "http://place.map.kakao.com/856213664"
+    },
+    {
+        "id": "12108082",
+        "place_name": "전광수커피하우스 북한산점",
+        "address_name": "서울 강북구 수유동 535-76",
+        "road_address_name": "서울 강북구 4.19로 97",
+        "phone": "02-991-0233",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/12108082"
+    },
+    {
+        "id": "647290928",
+        "place_name": "스타벅스 파라스파라서울점",
+        "address_name": "서울 강북구 우이동 산 13-2",
+        "road_address_name": "서울 강북구 삼양로 689",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/647290928"
+    },
+    {
+        "id": "198411926",
+        "place_name": "수유리조트",
+        "address_name": "서울 강북구 수유동 221-18",
+        "road_address_name": "서울 강북구 노해로8가길 45",
+        "phone": "02-990-9882",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/198411926"
+    },
+    {
+        "id": "428271652",
+        "place_name": "카페비르케",
+        "address_name": "서울 강북구 수유동 567-7",
+        "road_address_name": "서울 강북구 4.19로 43",
+        "phone": "02-997-5841",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/428271652"
+    },
+    {
+        "id": "714285841",
+        "place_name": "투썸플레이스 수유사거리점",
+        "address_name": "서울 강북구 수유동 47-2",
+        "road_address_name": "서울 강북구 도봉로 295",
+        "phone": "02-900-2388",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/714285841"
+    },
+    {
+        "id": "23885367",
+        "place_name": "삼양여관",
+        "address_name": "서울 강북구 수유동 461-35",
+        "road_address_name": "서울 강북구 덕릉로8길 6",
+        "phone": "010-7907-1296",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/23885367"
+    },
+    {
+        "id": "1386475413",
+        "place_name": "키쉬미뇽",
+        "address_name": "서울 강북구 미아동 55-25",
+        "road_address_name": "서울 강북구 도봉로10길 12",
+        "phone": "02-987-5553",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1386475413"
+    },
+    {
+        "id": "1171264693",
+        "place_name": "월드보드카페",
+        "address_name": "서울 강북구 수유동 229-33",
+        "road_address_name": "서울 강북구 도봉로87길 9",
+        "phone": "02-6959-3213",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 보드카페",
+        "place_url": "http://place.map.kakao.com/1171264693"
+    },
+    {
+        "id": "17884745",
+        "place_name": "스타벅스 미아역점",
+        "address_name": "서울 강북구 미아동 121-19",
+        "road_address_name": "서울 강북구 도봉로 196",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/17884745"
+    },
+    {
+        "id": "27478613",
+        "place_name": "맨덜리",
+        "address_name": "서울 강북구 수유동 56-92",
+        "road_address_name": "서울 강북구 수유로 18",
+        "phone": "02-980-3721",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27478613"
+    },
+    {
+        "id": "20007815",
+        "place_name": "엔제리너스 수유역점",
+        "address_name": "서울 강북구 수유동 229-5",
+        "road_address_name": "서울 강북구 도봉로 333",
+        "phone": "02-994-8556",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 엔제리너스",
+        "place_url": "http://place.map.kakao.com/20007815"
+    },
+    {
+        "id": "987554111",
+        "place_name": "할리스 수유사거리점",
+        "address_name": "서울 강북구 번동 446-7",
+        "road_address_name": "서울 강북구 도봉로82길 11",
+        "phone": "070-5226-1999",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 할리스",
+        "place_url": "http://place.map.kakao.com/987554111"
+    },
+    {
+        "id": "1363689657",
+        "place_name": "아띠랑스",
+        "address_name": "서울 강북구 수유동 568-19",
+        "road_address_name": "서울 강북구 4.19로 42-1",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1363689657"
+    },
+    {
+        "id": "26909639",
+        "place_name": "투썸플레이스 미아테라스파크점",
+        "address_name": "서울 강북구 미아동 811-9",
+        "road_address_name": "서울 강북구 삼양로27길 43",
+        "phone": "02-985-2355",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/26909639"
+    },
+    {
+        "id": "1575543638",
+        "place_name": "카페문나잇",
+        "address_name": "서울 강북구 미아동 121-47",
+        "road_address_name": "서울 강북구 솔매로50길 7",
+        "phone": "070-4046-0915",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1575543638"
+    },
+    {
+        "id": "1477182775",
+        "place_name": "리틀비틀 수유점",
+        "address_name": "서울 강북구 수유동 188-26",
+        "road_address_name": "서울 강북구 노해로 70",
+        "phone": "02-991-0664",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/1477182775"
+    },
+    {
+        "id": "1447421184",
+        "place_name": "키치",
+        "address_name": "서울 강북구 수유동 173-15",
+        "road_address_name": "서울 강북구 도봉로 387",
+        "phone": "070-8244-0030",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1447421184"
+    },
+    {
+        "id": "1542847364",
+        "place_name": "투썸플레이스 북한산우이역점",
+        "address_name": "서울 강북구 우이동 4-1",
+        "road_address_name": "서울 강북구 삼양로 685",
+        "phone": "02-993-9173",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1542847364"
+    },
+    {
+        "id": "1199751265",
+        "place_name": "카페다담",
+        "address_name": "서울 강북구 수유동 48-73",
+        "road_address_name": "서울 강북구 덕릉로 64",
+        "phone": "010-9476-2098",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1199751265"
+    },
+    {
+        "id": "1154248983",
+        "place_name": "카페백야",
+        "address_name": "서울 강북구 수유동 251-10",
+        "road_address_name": "서울 강북구 노해로21길 7",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1154248983"
+    },
+    {
+        "id": "1653778865",
+        "place_name": "스파웃커피",
+        "address_name": "서울 강북구 수유동 659-32",
+        "road_address_name": "서울 강북구 노해로33길 49",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1653778865"
+    },
+    {
+        "id": "27586571",
+        "place_name": "키즈필 미아본점",
+        "address_name": "서울 강북구 미아동 374-13",
+        "road_address_name": "서울 강북구 솔샘로 327",
+        "phone": "1566-9210",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/27586571"
+    },
+    {
+        "id": "1931876722",
+        "place_name": "투썸플레이스 북서울꿈의숲점",
+        "address_name": "서울 강북구 번동 105-1",
+        "road_address_name": "서울 강북구 월계로 183",
+        "phone": "02-542-7711",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1931876722"
+    },
+    {
+        "id": "1577225420",
+        "place_name": "수유342",
+        "address_name": "서울 강북구 수유동 342-2",
+        "road_address_name": "서울 강북구 삼양로113길 17",
+        "phone": "02-908-3422",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1577225420"
+    }
+]

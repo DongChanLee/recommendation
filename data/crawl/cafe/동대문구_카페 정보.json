@@ -1,0 +1,452 @@
+[
+    {
+        "id": "1779970753",
+        "place_name": "베러댄",
+        "address_name": "서울 동대문구 휘경동 317-53",
+        "road_address_name": "서울 동대문구 망우로 34",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1779970753"
+    },
+    {
+        "id": "26354962",
+        "place_name": "커피나인 본점",
+        "address_name": "서울 동대문구 답십리동 268-8",
+        "road_address_name": "서울 동대문구 전농로3길 12",
+        "phone": "02-6396-9992",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/26354962"
+    },
+    {
+        "id": "1317422264",
+        "place_name": "카페몰로",
+        "address_name": "서울 동대문구 회기동 57-11",
+        "road_address_name": "서울 동대문구 회기로 163",
+        "phone": "02-966-1301",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1317422264"
+    },
+    {
+        "id": "1113162121",
+        "place_name": "망우로30",
+        "address_name": "서울 동대문구 휘경동 317-60",
+        "road_address_name": "서울 동대문구 망우로 30-1",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1113162121"
+    },
+    {
+        "id": "1989079728",
+        "place_name": "너디블루",
+        "address_name": "서울 동대문구 전농동 103-312",
+        "road_address_name": "서울 동대문구 전농로36길 9",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1989079728"
+    },
+    {
+        "id": "2093688428",
+        "place_name": "카페양귀비",
+        "address_name": "서울 동대문구 이문동 345-7",
+        "road_address_name": "서울 동대문구 이문로9길 8",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2093688428"
+    },
+    {
+        "id": "105370530",
+        "place_name": "오앤디",
+        "address_name": "서울 동대문구 휘경동 293-171",
+        "road_address_name": "서울 동대문구 망우로12가길 17",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/105370530"
+    },
+    {
+        "id": "7883277",
+        "place_name": "민들레영토 경희대점",
+        "address_name": "서울 동대문구 회기동 60-84",
+        "road_address_name": "서울 동대문구 경희대로1길 34",
+        "phone": "02-959-3733",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/7883277"
+    },
+    {
+        "id": "13333488",
+        "place_name": "컴플리트커피",
+        "address_name": "서울 동대문구 이문동 264-293",
+        "road_address_name": "서울 동대문구 천장산로7길 19",
+        "phone": "070-8873-0419",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/13333488"
+    },
+    {
+        "id": "2047903591",
+        "place_name": "대즐링",
+        "address_name": "서울 동대문구 제기동 137-130",
+        "road_address_name": "서울 동대문구 안암로 132",
+        "phone": "070-763-9394",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2047903591"
+    },
+    {
+        "id": "1872113102",
+        "place_name": "더크림",
+        "address_name": "서울 동대문구 장안동 330-9",
+        "road_address_name": "서울 동대문구 장한로28길 18",
+        "phone": "070-4065-7313",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1872113102"
+    },
+    {
+        "id": "19034696",
+        "place_name": "카페온",
+        "address_name": "서울 동대문구 전농동 602-6",
+        "road_address_name": "서울 동대문구 왕산로 276-1",
+        "phone": "070-8682-4958",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/19034696"
+    },
+    {
+        "id": "1175140530",
+        "place_name": "카페림",
+        "address_name": "서울 동대문구 용두동 38-3",
+        "road_address_name": "서울 동대문구 천호대로27길 8-2",
+        "phone": "02-968-1497",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1175140530"
+    },
+    {
+        "id": "789579036",
+        "place_name": "키라쿠",
+        "address_name": "서울 동대문구 제기동 1152-13",
+        "road_address_name": "서울 동대문구 약령시로 5-1",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/789579036"
+    },
+    {
+        "id": "17884754",
+        "place_name": "스타벅스 장한평역점",
+        "address_name": "서울 동대문구 장안동 433-7",
+        "road_address_name": "서울 동대문구 장한로 10",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/17884754"
+    },
+    {
+        "id": "1387251423",
+        "place_name": "스타벅스 답십리역점",
+        "address_name": "서울 동대문구 답십리동 497-67",
+        "road_address_name": "서울 동대문구 천호대로 263",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1387251423"
+    },
+    {
+        "id": "26900379",
+        "place_name": "스타벅스 신설동역점",
+        "address_name": "서울 동대문구 신설동 76-10",
+        "road_address_name": "서울 동대문구 왕산로 19",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/26900379"
+    },
+    {
+        "id": "24868732",
+        "place_name": "스타벅스 회기역사거리점",
+        "address_name": "서울 동대문구 회기동 346-18",
+        "road_address_name": "서울 동대문구 이문로 37",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/24868732"
+    },
+    {
+        "id": "453254465",
+        "place_name": "쁘띠몽드 키즈카페",
+        "address_name": "서울 동대문구 장안동 111-1",
+        "road_address_name": "서울 동대문구 한천로 193",
+        "phone": "02-2215-7005",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/453254465"
+    },
+    {
+        "id": "811623792",
+        "place_name": "한시십일분",
+        "address_name": "서울 동대문구 휘경동 267-84",
+        "road_address_name": "서울 동대문구 망우로 66",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/811623792"
+    },
+    {
+        "id": "2103694654",
+        "place_name": "비하인드미",
+        "address_name": "서울 동대문구 회기동 60-93",
+        "road_address_name": "서울 동대문구 회기로 125",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2103694654"
+    },
+    {
+        "id": "27542920",
+        "place_name": "이문동커피집 플랫피플",
+        "address_name": "서울 동대문구 이문동 331-56",
+        "road_address_name": "서울 동대문구 이문로25길 39",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/27542920"
+    },
+    {
+        "id": "27020768",
+        "place_name": "디어테이블",
+        "address_name": "서울 동대문구 장안동 338-9",
+        "road_address_name": "서울 동대문구 답십리로72길 68",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27020768"
+    },
+    {
+        "id": "14723310",
+        "place_name": "8번가",
+        "address_name": "서울 동대문구 회기동 42-139",
+        "road_address_name": "서울 동대문구 경희대로3길 8",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/14723310"
+    },
+    {
+        "id": "26407016",
+        "place_name": "아임파이 외대점",
+        "address_name": "서울 동대문구 이문동 317-11",
+        "road_address_name": "서울 동대문구 휘경로2길 39",
+        "phone": "070-4274-1182",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/26407016"
+    },
+    {
+        "id": "1264344578",
+        "place_name": "카페 트위그",
+        "address_name": "서울 동대문구 장안동 412-4",
+        "road_address_name": "서울 동대문구 한천로 10",
+        "phone": "02-6953-8892",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1264344578"
+    },
+    {
+        "id": "737325783",
+        "place_name": "너나들이 만화카페",
+        "address_name": "서울 동대문구 회기동 60-71",
+        "road_address_name": "서울 동대문구 회기로13길 19",
+        "phone": "0507-1443-0331",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 만화카페",
+        "place_url": "http://place.map.kakao.com/737325783"
+    },
+    {
+        "id": "831347994",
+        "place_name": "커피블랑",
+        "address_name": "서울 동대문구 회기동 16-18",
+        "road_address_name": "서울 동대문구 회기로19길 16",
+        "phone": "010-2717-7316",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/831347994"
+    },
+    {
+        "id": "1945277759",
+        "place_name": "37.5 답십리점",
+        "address_name": "서울 동대문구 답십리동 1003",
+        "road_address_name": "서울 동대문구 답십리로 130",
+        "phone": "02-2212-3705",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1945277759"
+    },
+    {
+        "id": "1609221649",
+        "place_name": "스타벅스 청량리역사점",
+        "address_name": "서울 동대문구 전농동 588-1",
+        "road_address_name": "서울 동대문구 왕산로 214",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1609221649"
+    },
+    {
+        "id": "1853475772",
+        "place_name": "스타벅스 경희대삼거리점",
+        "address_name": "서울 동대문구 회기동 60-40",
+        "road_address_name": "서울 동대문구 회기로 141",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1853475772"
+    },
+    {
+        "id": "1507094194",
+        "place_name": "그대쉴꽃",
+        "address_name": "서울 동대문구 회기동 16-96",
+        "road_address_name": "서울 동대문구 회기로19길 6",
+        "phone": "02-966-0813",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1507094194"
+    },
+    {
+        "id": "1772092398",
+        "place_name": "세라젬웰카페 서울답십리직영점",
+        "address_name": "서울 동대문구 답십리동 1012",
+        "road_address_name": "서울 동대문구 사가정로 80",
+        "phone": "02-6952-1825",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/1772092398"
+    },
+    {
+        "id": "1131068123",
+        "place_name": "고소운",
+        "address_name": "서울 동대문구 이문동 288-40",
+        "road_address_name": "서울 동대문구 휘경로2길 4",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1131068123"
+    },
+    {
+        "id": "16620949",
+        "place_name": "투썸플레이스 장안점",
+        "address_name": "서울 동대문구 장안동 375-1",
+        "road_address_name": "서울 동대문구 장한로 73",
+        "phone": "02-2212-1780",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/16620949"
+    },
+    {
+        "id": "347913254",
+        "place_name": "온니당",
+        "address_name": "서울 동대문구 장안동 105-11",
+        "road_address_name": "서울 동대문구 답십리로63길 125",
+        "phone": "010-4450-9715",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/347913254"
+    },
+    {
+        "id": "25684300",
+        "place_name": "설빙 서울회기역점",
+        "address_name": "서울 동대문구 휘경동 191-4",
+        "road_address_name": "서울 동대문구 회기로 193",
+        "phone": "02-960-4342",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페 > 설빙",
+        "place_url": "http://place.map.kakao.com/25684300"
+    },
+    {
+        "id": "1565634100",
+        "place_name": "카페파인",
+        "address_name": "서울 동대문구 제기동 137-7",
+        "road_address_name": "서울 동대문구 안암로22길 15",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1565634100"
+    },
+    {
+        "id": "1065892215",
+        "place_name": "프롬하츠커피 용두점",
+        "address_name": "서울 동대문구 용두동 130-4",
+        "road_address_name": "서울 동대문구 왕산로 71",
+        "phone": "02-924-2230",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1065892215"
+    },
+    {
+        "id": "1138197258",
+        "place_name": "카페시사",
+        "address_name": "서울 동대문구 전농동 123-1",
+        "road_address_name": "서울 동대문구 전농로 217",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1138197258"
+    },
+    {
+        "id": "1076774313",
+        "place_name": "빈칸",
+        "address_name": "서울 동대문구 휘경동 192-5",
+        "road_address_name": "서울 동대문구 망우로21길 52",
+        "phone": "02-1577-5886",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1076774313"
+    },
+    {
+        "id": "1096938565",
+        "place_name": "멜팅폼",
+        "address_name": "서울 동대문구 이문동 264-410",
+        "road_address_name": "서울 동대문구 천장산로7길 10-3",
+        "phone": "02-960-2544",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/1096938565"
+    },
+    {
+        "id": "20103597",
+        "place_name": "투썸플레이스 답십리점",
+        "address_name": "서울 동대문구 답십리동 530-16",
+        "road_address_name": "서울 동대문구 고미술로 81",
+        "phone": "070-7554-5045",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/20103597"
+    },
+    {
+        "id": "8439657",
+        "place_name": "스타벅스 외대점",
+        "address_name": "서울 동대문구 이문동 305-60",
+        "road_address_name": "서울 동대문구 휘경로 12-1",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/8439657"
+    },
+    {
+        "id": "491664026",
+        "place_name": "투썸플레이스 휘경점",
+        "address_name": "서울 동대문구 휘경동 275-5",
+        "road_address_name": "서울 동대문구 망우로 86",
+        "phone": "02-2039-6288",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/491664026"
+    }
+]

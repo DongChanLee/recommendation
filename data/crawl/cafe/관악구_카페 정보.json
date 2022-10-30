@@ -1,0 +1,452 @@
+[
+    {
+        "id": "1099251112",
+        "place_name": "디자이너리카페",
+        "address_name": "서울 관악구 신림동 1465-12",
+        "road_address_name": "서울 관악구 관천로 71-1",
+        "phone": "02-868-7112",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1099251112"
+    },
+    {
+        "id": "346036303",
+        "place_name": "토즈모임센터 서울대입구점",
+        "address_name": "서울 관악구 봉천동 869-10",
+        "road_address_name": "서울 관악구 남부순환로 1808",
+        "phone": "02-889-9662",
+        "category_group_name": "카페",
+        "category_name": "서비스,산업 > 전문대행 > 공간대여 > 모임공간 > 토즈모임센터",
+        "place_url": "http://place.map.kakao.com/346036303"
+    },
+    {
+        "id": "1168065433",
+        "place_name": "폼앤노말",
+        "address_name": "서울 관악구 신림동 1432-119",
+        "road_address_name": "서울 관악구 신림로67길 25",
+        "phone": "010-4053-1124",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1168065433"
+    },
+    {
+        "id": "297508565",
+        "place_name": "사생활",
+        "address_name": "서울 관악구 신림동 496-37",
+        "road_address_name": "서울 관악구 신사로14길 19",
+        "phone": "070-5033-7759",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/297508565"
+    },
+    {
+        "id": "71268832",
+        "place_name": "온고지신",
+        "address_name": "서울 관악구 봉천동 1620-32",
+        "road_address_name": "서울 관악구 관악로14길 101",
+        "phone": "070-8098-5359",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/71268832"
+    },
+    {
+        "id": "1256440499",
+        "place_name": "발루토",
+        "address_name": "서울 관악구 신림동 1524-5",
+        "road_address_name": "서울 관악구 신림로23길 28",
+        "phone": "02-875-1155",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1256440499"
+    },
+    {
+        "id": "960623897",
+        "place_name": "황홀경",
+        "address_name": "서울 관악구 봉천동 1603-20",
+        "road_address_name": "서울 관악구 관악로14길 37",
+        "phone": "02-6449-7362",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/960623897"
+    },
+    {
+        "id": "22000100",
+        "place_name": "티라노커피",
+        "address_name": "서울 관악구 봉천동 1613-7",
+        "road_address_name": "서울 관악구 남부순환로230길 39",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/22000100"
+    },
+    {
+        "id": "47918669",
+        "place_name": "데일리오아시스 샤로수길점",
+        "address_name": "서울 관악구 봉천동 1619-6",
+        "road_address_name": "서울 관악구 관악로14길 74-3",
+        "phone": "070-7739-8282",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/47918669"
+    },
+    {
+        "id": "26504962",
+        "place_name": "데이즈앤데이즈",
+        "address_name": "서울 관악구 조원동 1643",
+        "road_address_name": "서울 관악구 시흥대로 578",
+        "phone": "02-869-0077",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/26504962"
+    },
+    {
+        "id": "1474373896",
+        "place_name": "메이지커피",
+        "address_name": "서울 관악구 신림동 518-11",
+        "road_address_name": "서울 관악구 난곡로 363-1",
+        "phone": "02-6326-5188",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1474373896"
+    },
+    {
+        "id": "508064654",
+        "place_name": "고로커피로스터스",
+        "address_name": "서울 관악구 봉천동 100-137",
+        "road_address_name": "서울 관악구 남부순환로231길 33",
+        "phone": "0507-1411-9023",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/508064654"
+    },
+    {
+        "id": "802510891",
+        "place_name": "카페폴",
+        "address_name": "서울 관악구 봉천동 1621-36",
+        "road_address_name": "서울 관악구 남부순환로234길 43",
+        "phone": "070-8100-9091",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/802510891"
+    },
+    {
+        "id": "27279304",
+        "place_name": "아모르미오",
+        "address_name": "서울 관악구 봉천동 1679-8",
+        "road_address_name": "서울 관악구 행운2길 20",
+        "phone": "070-4306-5006",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27279304"
+    },
+    {
+        "id": "565350702",
+        "place_name": "비엔나커피하우스 신림점",
+        "address_name": "서울 관악구 신림동 1431-12",
+        "road_address_name": "서울 관악구 신림로 363",
+        "phone": "02-875-1683",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/565350702"
+    },
+    {
+        "id": "482399452",
+        "place_name": "소디스커피",
+        "address_name": "서울 관악구 봉천동 1613-14",
+        "road_address_name": "서울 관악구 남부순환로230길 45",
+        "phone": "02-6084-0061",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/482399452"
+    },
+    {
+        "id": "924997751",
+        "place_name": "오후의과일",
+        "address_name": "서울 관악구 봉천동 1599-4",
+        "road_address_name": "서울 관악구 관악로14길 15",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/924997751"
+    },
+    {
+        "id": "23980857",
+        "place_name": "아띠",
+        "address_name": "서울 관악구 봉천동 1569-3",
+        "road_address_name": "서울 관악구 쑥고개로 137",
+        "phone": "02-876-3110",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/23980857"
+    },
+    {
+        "id": "1175054334",
+        "place_name": "테이블1629",
+        "address_name": "서울 관악구 봉천동 947-15",
+        "road_address_name": "서울 관악구 장군봉2길 32",
+        "phone": "02-883-1629",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1175054334"
+    },
+    {
+        "id": "1820763284",
+        "place_name": "인투커피",
+        "address_name": "서울 관악구 신림동 530-1",
+        "road_address_name": "서울 관악구 난곡로 331",
+        "phone": "02-6083-1170",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1820763284"
+    },
+    {
+        "id": "427369680",
+        "place_name": "스타벅스 낙성대DT점",
+        "address_name": "서울 관악구 봉천동 1657-3",
+        "road_address_name": "서울 관악구 남부순환로 1948",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/427369680"
+    },
+    {
+        "id": "1850085124",
+        "place_name": "시트론오피스",
+        "address_name": "서울 관악구 봉천동 1612-51",
+        "road_address_name": "서울 관악구 남부순환로234길 18",
+        "phone": "02-878-0407",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1850085124"
+    },
+    {
+        "id": "2074224653",
+        "place_name": "스타벅스 관악서울대입구R점",
+        "address_name": "서울 관악구 봉천동 856-6",
+        "road_address_name": "서울 관악구 관악로 158",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/2074224653"
+    },
+    {
+        "id": "15617815",
+        "place_name": "마티스커피 신림점",
+        "address_name": "서울 관악구 서원동 1638-5",
+        "road_address_name": "서울 관악구 신림로59길 15-6",
+        "phone": "02-884-6321",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/15617815"
+    },
+    {
+        "id": "784815881",
+        "place_name": "스타벅스 신림DT점",
+        "address_name": "서울 관악구 신림동 564-12",
+        "road_address_name": "서울 관악구 남부순환로 1419",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/784815881"
+    },
+    {
+        "id": "18826167",
+        "place_name": "오렌지연필",
+        "address_name": "서울 관악구 봉천동 1680-11",
+        "road_address_name": "서울 관악구 남부순환로 1895",
+        "phone": "02-6295-6000",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/18826167"
+    },
+    {
+        "id": "17127069",
+        "place_name": "스타벅스 서울대입구역점",
+        "address_name": "서울 관악구 봉천동 869-1",
+        "road_address_name": "서울 관악구 남부순환로 1812",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/17127069"
+    },
+    {
+        "id": "246370372",
+        "place_name": "커피볶는여자",
+        "address_name": "서울 관악구 봉천동 1613-4",
+        "road_address_name": "서울 관악구 관악로14가길 2",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/246370372"
+    },
+    {
+        "id": "23447734",
+        "place_name": "스타벅스 사당R점",
+        "address_name": "서울 관악구 남현동 1060-10",
+        "road_address_name": "서울 관악구 남부순환로 2082-25",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/23447734"
+    },
+    {
+        "id": "2127422166",
+        "place_name": "카페인중독 신림본점",
+        "address_name": "서울 관악구 신림동 1455-1",
+        "road_address_name": "서울 관악구 봉천로6길 40",
+        "phone": "02-877-1238",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/2127422166"
+    },
+    {
+        "id": "17736099",
+        "place_name": "투썸플레이스 사당점",
+        "address_name": "서울 관악구 남현동 1060-3",
+        "road_address_name": "서울 관악구 남부순환로 2082-33",
+        "phone": "02-581-7767",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/17736099"
+    },
+    {
+        "id": "948781290",
+        "place_name": "카페프레임",
+        "address_name": "서울 관악구 봉천동 1626-1",
+        "road_address_name": "서울 관악구 관악로14길 94",
+        "phone": "070-4201-1001",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/948781290"
+    },
+    {
+        "id": "179734609",
+        "place_name": "카페녹다",
+        "address_name": "서울 관악구 신림동 1538-7",
+        "road_address_name": "서울 관악구 신림로15길 31",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/179734609"
+    },
+    {
+        "id": "522731160",
+        "place_name": "궁전다방",
+        "address_name": "서울 관악구 신림동 1570-5",
+        "road_address_name": "서울 관악구 남부순환로 1500",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 다방",
+        "place_url": "http://place.map.kakao.com/522731160"
+    },
+    {
+        "id": "20233446",
+        "place_name": "혼자두면 장판뜯어서차린 개카페",
+        "address_name": "서울 관악구 봉천동 959-2",
+        "road_address_name": "서울 관악구 남부순환로 1665",
+        "phone": "02-887-3058",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 애견카페",
+        "place_url": "http://place.map.kakao.com/20233446"
+    },
+    {
+        "id": "263900245",
+        "place_name": "카페보니또 사당점",
+        "address_name": "서울 관악구 남현동 1055-6",
+        "road_address_name": "서울 관악구 남부순환로 2032",
+        "phone": "02-584-0011",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/263900245"
+    },
+    {
+        "id": "1056160303",
+        "place_name": "보스커피&브런치",
+        "address_name": "서울 관악구 봉천동 925-7",
+        "road_address_name": "서울 관악구 봉천로33길 7",
+        "phone": "02-872-8345",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1056160303"
+    },
+    {
+        "id": "19526058",
+        "place_name": "스타벅스 신림타임스트림점",
+        "address_name": "서울 관악구 신림동 1641-101",
+        "road_address_name": "서울 관악구 신림로 330",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/19526058"
+    },
+    {
+        "id": "1289020581",
+        "place_name": "저스트로맨틱",
+        "address_name": "서울 관악구 신림동 116-23",
+        "road_address_name": "서울 관악구 신림로 134",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1289020581"
+    },
+    {
+        "id": "20908729",
+        "place_name": "스타벅스 신림사거리점",
+        "address_name": "서울 관악구 신림동 1422-36",
+        "road_address_name": "서울 관악구 남부순환로 1619",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/20908729"
+    },
+    {
+        "id": "1150937270",
+        "place_name": "행운당",
+        "address_name": "서울 관악구 봉천동 1671-35",
+        "road_address_name": "서울 관악구 행운1길 40",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1150937270"
+    },
+    {
+        "id": "699361037",
+        "place_name": "플레이온보드게임카페 신림점",
+        "address_name": "서울 관악구 신림동 1639-8",
+        "road_address_name": "서울 관악구 남부순환로 1592",
+        "phone": "02-882-5727",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 보드카페",
+        "place_url": "http://place.map.kakao.com/699361037"
+    },
+    {
+        "id": "13064358",
+        "place_name": "투썸플레이스 신림역점",
+        "address_name": "서울 관악구 신림동 1424-28",
+        "road_address_name": "서울 관악구 신림로 350",
+        "phone": "02-882-7873",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/13064358"
+    },
+    {
+        "id": "820394456",
+        "place_name": "뉴욕택시디저트",
+        "address_name": "서울 관악구 봉천동 1664-16",
+        "road_address_name": "서울 관악구 남부순환로 1870",
+        "phone": "070-8711-1013",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/820394456"
+    },
+    {
+        "id": "1525065582",
+        "place_name": "달다어요",
+        "address_name": "서울 관악구 신림동 1419-23",
+        "road_address_name": "서울 관악구 신림로68길 38",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1525065582"
+    }
+]

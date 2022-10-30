@@ -1,0 +1,452 @@
+[
+    {
+        "id": "339122660",
+        "place_name": "카페1953위드오드리",
+        "address_name": "서울 영등포구 문래동2가 34-10",
+        "road_address_name": "서울 영등포구 경인로77가길 12",
+        "phone": "02-2672-0504",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/339122660"
+    },
+    {
+        "id": "409589446",
+        "place_name": "마호가니커피 여의도점",
+        "address_name": "서울 영등포구 여의도동 23-3",
+        "road_address_name": "서울 영등포구 여의대로 66",
+        "phone": "02-785-8880",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/409589446"
+    },
+    {
+        "id": "2137940343",
+        "place_name": "호텔707",
+        "address_name": "서울 영등포구 문래동2가 60-4",
+        "road_address_name": "서울 영등포구 도림로139길 2-2",
+        "phone": "02-2636-8694",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2137940343"
+    },
+    {
+        "id": "1662097172",
+        "place_name": "뚜스뚜스베이커리카페 선유도점",
+        "address_name": "서울 영등포구 양평동5가 62-3",
+        "road_address_name": "서울 영등포구 양평로 132",
+        "phone": "02-2632-9006",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1662097172"
+    },
+    {
+        "id": "2122184252",
+        "place_name": "더플레이트디저트 더현대서울점",
+        "address_name": "서울 영등포구 여의도동 22",
+        "road_address_name": "서울 영등포구 여의대로 108",
+        "phone": "02-3277-0796",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/2122184252"
+    },
+    {
+        "id": "459660544",
+        "place_name": "시즌커피앤베이크",
+        "address_name": "서울 영등포구 양평동3가 41-2",
+        "road_address_name": "서울 영등포구 양산로9길 12-1",
+        "phone": "02-2676-7161",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/459660544"
+    },
+    {
+        "id": "27269058",
+        "place_name": "커피리브레 타임스퀘어점",
+        "address_name": "서울 영등포구 영등포동4가 442",
+        "road_address_name": "서울 영등포구 영중로 15",
+        "phone": "02-2635-0615",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/27269058"
+    },
+    {
+        "id": "1025169588",
+        "place_name": "영등포 카페드람브르",
+        "address_name": "서울 영등포구 영등포동3가 11-3",
+        "road_address_name": "서울 영등포구 경인로 867",
+        "phone": "02-882-3377",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1025169588"
+    },
+    {
+        "id": "469431212",
+        "place_name": "카페솔트",
+        "address_name": "서울 영등포구 문래동2가 43-5",
+        "road_address_name": "서울 영등포구 도림로133길 12",
+        "phone": "0507-1338-1540",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/469431212"
+    },
+    {
+        "id": "1149136625",
+        "place_name": "피그인더가든 여의도점",
+        "address_name": "서울 영등포구 여의도동 23-5",
+        "road_address_name": "서울 영등포구 여의대로 56",
+        "phone": "02-761-4272",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1149136625"
+    },
+    {
+        "id": "1620256694",
+        "place_name": "팜스프링스",
+        "address_name": "서울 영등포구 신길동 137-20",
+        "road_address_name": "서울 영등포구 도신로60길 22-3",
+        "phone": "02-847-1107",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1620256694"
+    },
+    {
+        "id": "1040731687",
+        "place_name": "라크라센타 문래본점",
+        "address_name": "서울 영등포구 문래동3가 77-51",
+        "road_address_name": "서울 영등포구 문래로 92-5",
+        "phone": "02-2676-6202",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1040731687"
+    },
+    {
+        "id": "1574887478",
+        "place_name": "카페기글",
+        "address_name": "서울 영등포구 문래동3가 58-2",
+        "road_address_name": "서울 영등포구 도림로128길 21",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1574887478"
+    },
+    {
+        "id": "846043350",
+        "place_name": "보사노바 커피로스터스 문래점",
+        "address_name": "서울 영등포구 문래동3가 82-13",
+        "road_address_name": "서울 영등포구 영등포로20길 22-4",
+        "phone": "02-2633-0038",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/846043350"
+    },
+    {
+        "id": "2104860406",
+        "place_name": "피크니크 선유도점",
+        "address_name": "서울 영등포구 양평동4가 131-1",
+        "road_address_name": "서울 영등포구 양평로22길 2-1",
+        "phone": "070-4110-6770",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/2104860406"
+    },
+    {
+        "id": "931427717",
+        "place_name": "선유기지",
+        "address_name": "서울 영등포구 양평동4가 153-17",
+        "road_address_name": "서울 영등포구 선유로51길 3-1",
+        "phone": "070-4797-0082",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/931427717"
+    },
+    {
+        "id": "399454702",
+        "place_name": "포프트커피",
+        "address_name": "서울 영등포구 영등포동1가 81",
+        "road_address_name": "서울 영등포구 경인로114길 10-1",
+        "phone": "010-5162-6688",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/399454702"
+    },
+    {
+        "id": "153151026",
+        "place_name": "쓰리버즈 IFC점",
+        "address_name": "서울 영등포구 여의도동 23",
+        "road_address_name": "서울 영등포구 국제금융로 10",
+        "phone": "02-6137-3031",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/153151026"
+    },
+    {
+        "id": "143778568",
+        "place_name": "카페설리번",
+        "address_name": "서울 영등포구 당산동6가 311-1",
+        "road_address_name": "서울 영등포구 당산로 241",
+        "phone": "02-2068-8825",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/143778568"
+    },
+    {
+        "id": "23753282",
+        "place_name": "홍설",
+        "address_name": "서울 영등포구 여의도동 44-23",
+        "road_address_name": "서울 영등포구 의사당대로1길 25",
+        "phone": "02-786-1400",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/23753282"
+    },
+    {
+        "id": "591245646",
+        "place_name": "이스트우드 1호점",
+        "address_name": "서울 영등포구 도림동 253-87",
+        "road_address_name": "서울 영등포구 도신로17길 6",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/591245646"
+    },
+    {
+        "id": "716801125",
+        "place_name": "노버든",
+        "address_name": "서울 영등포구 당산동3가 558",
+        "road_address_name": "서울 영등포구 당산로31길 25",
+        "phone": "0507-1340-4994",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/716801125"
+    },
+    {
+        "id": "8476191",
+        "place_name": "엘리스커피하우스",
+        "address_name": "서울 영등포구 영등포동3가 9-19",
+        "road_address_name": "서울 영등포구 영중로4길 1",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/8476191"
+    },
+    {
+        "id": "454537584",
+        "place_name": "평화",
+        "address_name": "서울 영등포구 문래동2가 14-42",
+        "road_address_name": "서울 영등포구 도림로131길 13",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/454537584"
+    },
+    {
+        "id": "356723098",
+        "place_name": "문래방구",
+        "address_name": "서울 영등포구 문래동3가 56-1",
+        "road_address_name": "서울 영등포구 경인로 763",
+        "phone": "02-2633-9204",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/356723098"
+    },
+    {
+        "id": "12051896",
+        "place_name": "하늘유리",
+        "address_name": "서울 영등포구 영등포동3가 3-4",
+        "road_address_name": "서울 영등포구 영등포로 248",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/12051896"
+    },
+    {
+        "id": "26316695",
+        "place_name": "스타벅스 영등포신길점",
+        "address_name": "서울 영등포구 신길동 252-9",
+        "road_address_name": "서울 영등포구 신길로 137",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/26316695"
+    },
+    {
+        "id": "610340247",
+        "place_name": "헤비로테이트",
+        "address_name": "서울 영등포구 도림동 241-16",
+        "road_address_name": "서울 영등포구 도신로19길 22",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/610340247"
+    },
+    {
+        "id": "226936259",
+        "place_name": "아파트먼트",
+        "address_name": "서울 영등포구 문래동2가 40-2",
+        "road_address_name": "서울 영등포구 경인로77길 12",
+        "phone": "010-4528-3884",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/226936259"
+    },
+    {
+        "id": "19697010",
+        "place_name": "어라운지 선유도점",
+        "address_name": "서울 영등포구 양평동6가 14",
+        "road_address_name": "서울 영등포구 양평로28마길 9",
+        "phone": "02-2056-7601",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/19697010"
+    },
+    {
+        "id": "1605192072",
+        "place_name": "빌리엔젤 당산역점",
+        "address_name": "서울 영등포구 당산동5가 16-3",
+        "road_address_name": "서울 영등포구 당산로 223",
+        "phone": "02-2632-9555",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1605192072"
+    },
+    {
+        "id": "1299056686",
+        "place_name": "10G",
+        "address_name": "서울 영등포구 여의도동 23-1",
+        "road_address_name": "서울 영등포구 국제금융로 10",
+        "phone": "02-6137-7788",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1299056686"
+    },
+    {
+        "id": "1229801043",
+        "place_name": "빌리엔젤 여의도삼성생명점",
+        "address_name": "서울 영등포구 여의도동 23-10",
+        "road_address_name": "서울 영등포구 국제금융로2길 24",
+        "phone": "070-4801-0141",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1229801043"
+    },
+    {
+        "id": "99849164",
+        "place_name": "맨홀커피",
+        "address_name": "서울 영등포구 당산동5가 43",
+        "road_address_name": "",
+        "phone": "02-6398-9427",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/99849164"
+    },
+    {
+        "id": "1775335207",
+        "place_name": "카페노티드 여의도IFC점",
+        "address_name": "서울 영등포구 여의도동 23",
+        "road_address_name": "서울 영등포구 국제금융로 10",
+        "phone": "070-4700-9377",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1775335207"
+    },
+    {
+        "id": "1813648578",
+        "place_name": "아이엠베이글 여의도점",
+        "address_name": "서울 영등포구 여의도동 43-4",
+        "road_address_name": "서울 영등포구 국제금융로 86",
+        "phone": "070-4233-2881",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1813648578"
+    },
+    {
+        "id": "1444854771",
+        "place_name": "이스케이프시티",
+        "address_name": "서울 영등포구 영등포동3가 8-1",
+        "road_address_name": "서울 영등포구 영중로8길 6",
+        "phone": "070-8286-7355",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/1444854771"
+    },
+    {
+        "id": "1516788842",
+        "place_name": "쏭카페",
+        "address_name": "서울 영등포구 양평동4가 23-1",
+        "road_address_name": "서울 영등포구 선유로47길 21-1",
+        "phone": "070-8866-4385",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1516788842"
+    },
+    {
+        "id": "12402461",
+        "place_name": "스타벅스 영등포본동점",
+        "address_name": "서울 영등포구 영등포동3가 2-21",
+        "road_address_name": "서울 영등포구 영등포로 254",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/12402461"
+    },
+    {
+        "id": "337672656",
+        "place_name": "스타벅스 영등포역점",
+        "address_name": "서울 영등포구 영등포동1가 143-3",
+        "road_address_name": "서울 영등포구 경인로 870",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/337672656"
+    },
+    {
+        "id": "2010492667",
+        "place_name": "폰트커피 문래점",
+        "address_name": "서울 영등포구 문래동2가 33-4",
+        "road_address_name": "서울 영등포구 경인로77가길 6",
+        "phone": "02-2632-8549",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2010492667"
+    },
+    {
+        "id": "520125205",
+        "place_name": "메이커스 유니온스퀘어",
+        "address_name": "서울 영등포구 문래동3가 57-3",
+        "road_address_name": "서울 영등포구 당산로 10",
+        "phone": "02-512-0383",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/520125205"
+    },
+    {
+        "id": "455118989",
+        "place_name": "패트릭스와플 2호점",
+        "address_name": "서울 영등포구 여의도동 37",
+        "road_address_name": "서울 영등포구 의사당대로 108",
+        "phone": "02-782-8896",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/455118989"
+    },
+    {
+        "id": "1830195259",
+        "place_name": "레어그루브",
+        "address_name": "서울 영등포구 신길동 51-3",
+        "road_address_name": "서울 영등포구 영등포로62길 2",
+        "phone": "070-7788-8633",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1830195259"
+    },
+    {
+        "id": "12772378",
+        "place_name": "카페오가닉 여의도본점",
+        "address_name": "서울 영등포구 여의도동 13-31",
+        "road_address_name": "서울 영등포구 은행로 37",
+        "phone": "02-785-4330",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/12772378"
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "id": "19392595",
+        "place_name": "페니힐스",
+        "address_name": "서울 동작구 사당동 1042-13",
+        "road_address_name": "서울 동작구 동작대로1길 10-14",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/19392595"
+    },
+    {
+        "id": "26603579",
+        "place_name": "세녹",
+        "address_name": "서울 동작구 사당동 147-50",
+        "road_address_name": "서울 동작구 사당로 304",
+        "phone": "02-597-8001",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/26603579"
+    },
+    {
+        "id": "26646835",
+        "place_name": "카페퍼블리코 본점",
+        "address_name": "서울 동작구 대방동 395-18",
+        "road_address_name": "서울 동작구 상도로 47",
+        "phone": "02-815-4000",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/26646835"
+    },
+    {
+        "id": "202438281",
+        "place_name": "뚜스뚜스 흑석역점",
+        "address_name": "서울 동작구 흑석동 1-3",
+        "road_address_name": "서울 동작구 현충로 75",
+        "phone": "02-3664-9000",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/202438281"
+    },
+    {
+        "id": "273270660",
+        "place_name": "디피스트",
+        "address_name": "서울 동작구 사당동 139-22",
+        "road_address_name": "서울 동작구 동작대로27길 31",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/273270660"
+    },
+    {
+        "id": "16593550",
+        "place_name": "터방내",
+        "address_name": "서울 동작구 흑석동 184-19",
+        "road_address_name": "서울 동작구 흑석로 101-7",
+        "phone": "02-813-4434",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/16593550"
+    },
+    {
+        "id": "825283133",
+        "place_name": "머치커피",
+        "address_name": "서울 동작구 사당동 1026-35",
+        "road_address_name": "서울 동작구 동작대로9길 43",
+        "phone": "0507-1320-2726",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/825283133"
+    },
+    {
+        "id": "2021405780",
+        "place_name": "더한강",
+        "address_name": "서울 동작구 본동 8-10",
+        "road_address_name": "서울 동작구 노량진로32길 29-6",
+        "phone": "070-7795-4144",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/2021405780"
+    },
+    {
+        "id": "604924026",
+        "place_name": "파니모들",
+        "address_name": "서울 동작구 사당동 79-3",
+        "road_address_name": "서울 동작구 동작대로 153",
+        "phone": "070-7607-8252",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/604924026"
+    },
+    {
+        "id": "66183033",
+        "place_name": "스타벅스 노량진역점",
+        "address_name": "서울 동작구 노량진동 62-8",
+        "road_address_name": "서울 동작구 노량진로 134",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/66183033"
+    },
+    {
+        "id": "755423338",
+        "place_name": "스타벅스 보라매공원R점",
+        "address_name": "서울 동작구 신대방동 395-65",
+        "road_address_name": "서울 동작구 보라매로5길 35",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/755423338"
+    },
+    {
+        "id": "18771379",
+        "place_name": "프랑세즈",
+        "address_name": "서울 동작구 흑석동 8-37",
+        "road_address_name": "서울 동작구 현충로 96",
+        "phone": "02-825-5265",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/18771379"
+    },
+    {
+        "id": "1412043020",
+        "place_name": "프레임676",
+        "address_name": "서울 동작구 신대방동 586-2",
+        "road_address_name": "서울 동작구 시흥대로 676",
+        "phone": "070-8807-6046",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 갤러리카페",
+        "place_url": "http://place.map.kakao.com/1412043020"
+    },
+    {
+        "id": "1161295479",
+        "place_name": "도쿄빙수 이수점",
+        "address_name": "서울 동작구 사당동 129-11",
+        "road_address_name": "서울 동작구 동작대로27길 38",
+        "phone": "02-3482-0503",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1161295479"
+    },
+    {
+        "id": "12108448",
+        "place_name": "스타벅스 사당역점",
+        "address_name": "서울 동작구 사당동 1031-27",
+        "road_address_name": "서울 동작구 동작대로 21",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/12108448"
+    },
+    {
+        "id": "1608703935",
+        "place_name": "타요키즈카페 보라매점",
+        "address_name": "서울 동작구 신대방동 395-69",
+        "road_address_name": "서울 동작구 보라매로5가길 16",
+        "phone": "02-319-8585",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/1608703935"
+    },
+    {
+        "id": "14352981",
+        "place_name": "펠어커피 상도점",
+        "address_name": "서울 동작구 상도1동 468-1",
+        "road_address_name": "서울 동작구 상도로41가길 12",
+        "phone": "070-8879-8585",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/14352981"
+    },
+    {
+        "id": "94881294",
+        "place_name": "미학당",
+        "address_name": "서울 동작구 상도동 509-2",
+        "road_address_name": "서울 동작구 사당로 56",
+        "phone": "02-816-0301",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/94881294"
+    },
+    {
+        "id": "853040385",
+        "place_name": "프로스퍼",
+        "address_name": "서울 동작구 대방동 407-42",
+        "road_address_name": "서울 동작구 여의대방로24길 101",
+        "phone": "02-3280-3276",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/853040385"
+    },
+    {
+        "id": "190103388",
+        "place_name": "도어이스케이프 이수역점",
+        "address_name": "서울 동작구 사당동 139-88",
+        "road_address_name": "서울 동작구 동작대로27가길 14",
+        "phone": "02-534-9745",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/190103388"
+    },
+    {
+        "id": "917712342",
+        "place_name": "오다가다",
+        "address_name": "서울 동작구 사당동 39-10",
+        "road_address_name": "서울 동작구 동작대로35길 10",
+        "phone": "070-8876-6424",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/917712342"
+    },
+    {
+        "id": "525622050",
+        "place_name": "스타벅스 신대방삼거리역점",
+        "address_name": "서울 동작구 상도동 324-1",
+        "road_address_name": "서울 동작구 상도로 102",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/525622050"
+    },
+    {
+        "id": "1739544406",
+        "place_name": "더빈마켓",
+        "address_name": "서울 동작구 대방동 412-20",
+        "road_address_name": "서울 동작구 여의대방로24길 65",
+        "phone": "02-823-0388",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1739544406"
+    },
+    {
+        "id": "542382647",
+        "place_name": "케이크무드",
+        "address_name": "서울 동작구 상도동 356-12",
+        "road_address_name": "서울 동작구 상도로15길 45",
+        "phone": "010-3774-3524",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/542382647"
+    },
+    {
+        "id": "1399551475",
+        "place_name": "카페알코브",
+        "address_name": "서울 동작구 대방동 391-357",
+        "road_address_name": "서울 동작구 대방동1길 12",
+        "phone": "02-6409-9870",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1399551475"
+    },
+    {
+        "id": "305615371",
+        "place_name": "카페좋아진다",
+        "address_name": "서울 동작구 사당동 1027-2",
+        "road_address_name": "서울 동작구 사당로26길 87",
+        "phone": "02-812-0222",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/305615371"
+    },
+    {
+        "id": "1895114441",
+        "place_name": "37.5 동작이수점",
+        "address_name": "서울 동작구 사당동 137-11",
+        "road_address_name": "서울 동작구 동작대로27가길 23",
+        "phone": "02-595-3705",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1895114441"
+    },
+    {
+        "id": "1034900166",
+        "place_name": "카페브르브르",
+        "address_name": "서울 동작구 사당동 141-48",
+        "road_address_name": "서울 동작구 사당로29가길 6",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1034900166"
+    },
+    {
+        "id": "2120408316",
+        "place_name": "릿잇커피",
+        "address_name": "서울 동작구 상도동 54-26",
+        "road_address_name": "서울 동작구 상도로47바길 48",
+        "phone": "070-8866-4344",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2120408316"
+    },
+    {
+        "id": "27332485",
+        "place_name": "스타벅스 숭실대입구역",
+        "address_name": "서울 동작구 상도동 475-5",
+        "road_address_name": "서울 동작구 상도로 354",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/27332485"
+    },
+    {
+        "id": "432578365",
+        "place_name": "스타벅스 상도역점",
+        "address_name": "서울 동작구 상도1동 666-5",
+        "road_address_name": "서울 동작구 상도로37길 1",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/432578365"
+    },
+    {
+        "id": "587570196",
+        "place_name": "오후홍콩 중앙대본점",
+        "address_name": "서울 동작구 흑석동 188-15",
+        "road_address_name": "서울 동작구 흑석로13가길 29",
+        "phone": "02-6398-6787",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/587570196"
+    },
+    {
+        "id": "27510240",
+        "place_name": "밍구네다방",
+        "address_name": "서울 동작구 노량진동 62-7",
+        "road_address_name": "서울 동작구 노량진로 132",
+        "phone": "02-812-3935",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27510240"
+    },
+    {
+        "id": "1725460486",
+        "place_name": "커피나무 랩",
+        "address_name": "서울 동작구 상도동 427",
+        "road_address_name": "서울 동작구 상도로53길 65",
+        "phone": "02-824-1391",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1725460486"
+    },
+    {
+        "id": "778505700",
+        "place_name": "두젠틀",
+        "address_name": "서울 동작구 상도동 26-27",
+        "road_address_name": "서울 동작구 상도로 217-4",
+        "phone": "02-6014-2120",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 애견카페",
+        "place_url": "http://place.map.kakao.com/778505700"
+    },
+    {
+        "id": "453096584",
+        "place_name": "클라소피",
+        "address_name": "서울 동작구 신대방동 358-15",
+        "road_address_name": "서울 동작구 여의대방로22길 94",
+        "phone": "070-8648-0987",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/453096584"
+    },
+    {
+        "id": "449929306",
+        "place_name": "헤븐리가든",
+        "address_name": "서울 동작구 상도동 29-2",
+        "road_address_name": "서울 동작구 상도로34길 11",
+        "phone": "070-7677-9647",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/449929306"
+    },
+    {
+        "id": "1086947915",
+        "place_name": "스타벅스 노량진동점",
+        "address_name": "서울 동작구 노량진동 333",
+        "road_address_name": "서울 동작구 노량진로 190",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1086947915"
+    },
+    {
+        "id": "1746397370",
+        "place_name": "스타벅스 중앙대점",
+        "address_name": "서울 동작구 흑석동 205-5",
+        "road_address_name": "서울 동작구 흑석로 75-1",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1746397370"
+    },
+    {
+        "id": "27481543",
+        "place_name": "갤러리카페오누이",
+        "address_name": "서울 동작구 신대방동 586-2",
+        "road_address_name": "서울 동작구 시흥대로 676",
+        "phone": "02-833-6046",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27481543"
+    },
+    {
+        "id": "548840517",
+        "place_name": "케이크팝",
+        "address_name": "서울 동작구 상도동 505-1",
+        "road_address_name": "서울 동작구 사당로 28",
+        "phone": "02-825-8799",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/548840517"
+    },
+    {
+        "id": "359023741",
+        "place_name": "비단콤마",
+        "address_name": "서울 동작구 상도동 535",
+        "road_address_name": "서울 동작구 상도로30길 40",
+        "phone": "02-811-0072",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/359023741"
+    },
+    {
+        "id": "12118390",
+        "place_name": "엔제리너스 이수역점",
+        "address_name": "서울 동작구 사당동 708-435",
+        "road_address_name": "서울 동작구 동작대로25길 16",
+        "phone": "02-595-7619",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 엔제리너스",
+        "place_url": "http://place.map.kakao.com/12118390"
+    },
+    {
+        "id": "17757839",
+        "place_name": "투썸플레이스 노량진점",
+        "address_name": "서울 동작구 노량진동 148-87",
+        "road_address_name": "서울 동작구 노량진로 174",
+        "phone": "02-821-2388",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/17757839"
+    },
+    {
+        "id": "998171067",
+        "place_name": "청맥살롱",
+        "address_name": "서울 동작구 흑석동 100-18",
+        "road_address_name": "서울 동작구 서달로 161-1",
+        "phone": "02-822-1605",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 북카페",
+        "place_url": "http://place.map.kakao.com/998171067"
+    }
+]

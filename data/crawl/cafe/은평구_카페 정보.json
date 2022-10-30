@@ -1,0 +1,452 @@
+[
+    {
+        "id": "670102239",
+        "place_name": "1인1잔",
+        "address_name": "서울 은평구 진관동 219",
+        "road_address_name": "서울 은평구 연서로 534",
+        "phone": "02-355-1111",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/670102239"
+    },
+    {
+        "id": "566932126",
+        "place_name": "카페뤽상부르",
+        "address_name": "서울 은평구 갈현동 481-13",
+        "road_address_name": "서울 은평구 연서로25길 6-11",
+        "phone": "02-385-2846",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/566932126"
+    },
+    {
+        "id": "841369143",
+        "place_name": "근린커피",
+        "address_name": "서울 은평구 응암동 579-33",
+        "road_address_name": "서울 은평구 응암로21길 23",
+        "phone": "070-7715-5300",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/841369143"
+    },
+    {
+        "id": "514604405",
+        "place_name": "롱브레드 은평한옥마을점",
+        "address_name": "서울 은평구 진관동 219-2",
+        "road_address_name": "서울 은평구 연서로 530",
+        "phone": "02-352-7290",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/514604405"
+    },
+    {
+        "id": "1994915181",
+        "place_name": "YM커피프로젝트",
+        "address_name": "서울 은평구 갈현동 452-26",
+        "road_address_name": "서울 은평구 연서로29길 21-8",
+        "phone": "070-7767-0829",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1994915181"
+    },
+    {
+        "id": "428776706",
+        "place_name": "플로",
+        "address_name": "서울 은평구 녹번동 82-41",
+        "road_address_name": "서울 은평구 서오릉로 20-1",
+        "phone": "02-355-4862",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/428776706"
+    },
+    {
+        "id": "1059714707",
+        "place_name": "휴가",
+        "address_name": "서울 은평구 진관동 74",
+        "road_address_name": "서울 은평구 진관2로 19",
+        "phone": "02-352-7400",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1059714707"
+    },
+    {
+        "id": "1333160596",
+        "place_name": "카페볼가심",
+        "address_name": "서울 은평구 진관동 198-7",
+        "road_address_name": "서울 은평구 진관길 10",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1333160596"
+    },
+    {
+        "id": "862753029",
+        "place_name": "213점",
+        "address_name": "서울 은평구 응암동 120-39",
+        "road_address_name": "서울 은평구 응암로21가길 27",
+        "phone": "02-356-7312",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/862753029"
+    },
+    {
+        "id": "1460285187",
+        "place_name": "북한산큰숲제빵소",
+        "address_name": "서울 은평구 진관동 296-12",
+        "road_address_name": "서울 은평구 북한산로 271-3",
+        "phone": "02-2267-9001",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1460285187"
+    },
+    {
+        "id": "1532325160",
+        "place_name": "플럽커피",
+        "address_name": "서울 은평구 갈현동 456-12",
+        "road_address_name": "서울 은평구 연서로29길 7-11",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1532325160"
+    },
+    {
+        "id": "24765609",
+        "place_name": "스타벅스 은평구청입구점",
+        "address_name": "서울 은평구 응암동 96-1",
+        "road_address_name": "서울 은평구 은평로 170",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/24765609"
+    },
+    {
+        "id": "1722687087",
+        "place_name": "823m",
+        "address_name": "서울 은평구 갈현동 453-22",
+        "road_address_name": "서울 은평구 연서로29길 21-9",
+        "phone": "02-2088-1823",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1722687087"
+    },
+    {
+        "id": "293547899",
+        "place_name": "선과점",
+        "address_name": "서울 은평구 역촌동 191-2",
+        "road_address_name": "서울 은평구 갈현로7가길 11",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/293547899"
+    },
+    {
+        "id": "356891147",
+        "place_name": "카페미제",
+        "address_name": "서울 은평구 역촌동 83-39",
+        "road_address_name": "서울 은평구 연서로 19",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/356891147"
+    },
+    {
+        "id": "1484410257",
+        "place_name": "스타벅스 불광역점",
+        "address_name": "서울 은평구 대조동 15-9",
+        "road_address_name": "서울 은평구 통일로 715",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1484410257"
+    },
+    {
+        "id": "27294965",
+        "place_name": "도토리카페",
+        "address_name": "서울 은평구 진관동 279-36",
+        "road_address_name": "서울 은평구 대서문길 15-5",
+        "phone": "02-385-4949",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27294965"
+    },
+    {
+        "id": "38547227",
+        "place_name": "온도차",
+        "address_name": "서울 은평구 녹번동 117-64",
+        "road_address_name": "서울 은평구 녹번로 74",
+        "phone": "070-8861-6622",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/38547227"
+    },
+    {
+        "id": "690365890",
+        "place_name": "알키미스타",
+        "address_name": "서울 은평구 응암동 592-61",
+        "road_address_name": "서울 은평구 응암로9길 24",
+        "phone": "02-6104-5803",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 북카페",
+        "place_url": "http://place.map.kakao.com/690365890"
+    },
+    {
+        "id": "2143276770",
+        "place_name": "해례커피",
+        "address_name": "서울 은평구 갈현동 430-1",
+        "road_address_name": "서울 은평구 통일로83길 19",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/2143276770"
+    },
+    {
+        "id": "158505473",
+        "place_name": "카페아사",
+        "address_name": "서울 은평구 응암동 591-19",
+        "road_address_name": "서울 은평구 불광천길 338",
+        "phone": "070-4950-2577",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/158505473"
+    },
+    {
+        "id": "1034381485",
+        "place_name": "볼베어파크 은평점",
+        "address_name": "서울 은평구 진관동 67-31",
+        "road_address_name": "서울 은평구 통일로 1050",
+        "phone": "02-6975-5363",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/1034381485"
+    },
+    {
+        "id": "1200602899",
+        "place_name": "명금탕",
+        "address_name": "서울 은평구 진관동 205-6",
+        "road_address_name": "서울 은평구 진관길 5",
+        "phone": "02-739-0394",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 전통찻집",
+        "place_url": "http://place.map.kakao.com/1200602899"
+    },
+    {
+        "id": "26900385",
+        "place_name": "스타벅스 구파발역점",
+        "address_name": "서울 은평구 진관동 90-1",
+        "road_address_name": "서울 은평구 진관2로 12",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/26900385"
+    },
+    {
+        "id": "27543867",
+        "place_name": "탐나도다",
+        "address_name": "서울 은평구 갈현동 403-3",
+        "road_address_name": "서울 은평구 통일로83길 5-14",
+        "phone": "02-384-9292",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27543867"
+    },
+    {
+        "id": "420721827",
+        "place_name": "카페달력",
+        "address_name": "서울 은평구 대조동 50-2",
+        "road_address_name": "서울 은평구 연서로18길 28-2",
+        "phone": "070-7376-0910",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/420721827"
+    },
+    {
+        "id": "1892822049",
+        "place_name": "투썸플레이스 은평구청점",
+        "address_name": "서울 은평구 응암동 81-173",
+        "road_address_name": "서울 은평구 은평로 194",
+        "phone": "02-352-1433",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1892822049"
+    },
+    {
+        "id": "2047684329",
+        "place_name": "힐링앤툰",
+        "address_name": "서울 은평구 녹번동 141-8",
+        "road_address_name": "서울 은평구 진흥로 144",
+        "phone": "0507-1415-9852",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 만화카페",
+        "place_url": "http://place.map.kakao.com/2047684329"
+    },
+    {
+        "id": "17884764",
+        "place_name": "스타벅스 구산역점",
+        "address_name": "서울 은평구 대조동 224-14",
+        "road_address_name": "서울 은평구 연서로 146",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/17884764"
+    },
+    {
+        "id": "2045961313",
+        "place_name": "스타벅스 연신내역사거리점",
+        "address_name": "서울 은평구 불광동 308-1",
+        "road_address_name": "서울 은평구 통일로 842",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/2045961313"
+    },
+    {
+        "id": "811506917",
+        "place_name": "스타벅스 진관DT점",
+        "address_name": "서울 은평구 진관동 2-8",
+        "road_address_name": "서울 은평구 연서로 645",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/811506917"
+    },
+    {
+        "id": "588867706",
+        "place_name": "코피티암",
+        "address_name": "서울 은평구 갈현동 481-4",
+        "road_address_name": "서울 은평구 연서로27길 7-1",
+        "phone": "070-7651-8837",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/588867706"
+    },
+    {
+        "id": "840743372",
+        "place_name": "스타벅스 연신내점",
+        "address_name": "서울 은평구 갈현동 395-6",
+        "road_address_name": "서울 은평구 통일로 867",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/840743372"
+    },
+    {
+        "id": "1697604977",
+        "place_name": "로즈드마이",
+        "address_name": "서울 은평구 응암동 592-62",
+        "road_address_name": "서울 은평구 불광천길 312",
+        "phone": "02-6401-4679",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1697604977"
+    },
+    {
+        "id": "1078109037",
+        "place_name": "카페메이트",
+        "address_name": "서울 은평구 역촌동 27-10",
+        "road_address_name": "서울 은평구 진흥로 85",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1078109037"
+    },
+    {
+        "id": "969659468",
+        "place_name": "어뮤즈멜로우",
+        "address_name": "서울 은평구 갈현동 453-12",
+        "road_address_name": "서울 은평구 연서로27길 20",
+        "phone": "02-2088-2612",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/969659468"
+    },
+    {
+        "id": "16470972",
+        "place_name": "커피생각",
+        "address_name": "서울 은평구 응암동 583-34",
+        "road_address_name": "서울 은평구 불광천길 420",
+        "phone": "02-302-1400",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/16470972"
+    },
+    {
+        "id": "1538810539",
+        "place_name": "카페와인드",
+        "address_name": "서울 은평구 응암동 103-9",
+        "road_address_name": "서울 은평구 응암로34가길 17",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1538810539"
+    },
+    {
+        "id": "445319809",
+        "place_name": "제이츠커피브루어스",
+        "address_name": "서울 은평구 갈현동 484-2",
+        "road_address_name": "서울 은평구 연서로25길 20-3",
+        "phone": "070-8822-3375",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/445319809"
+    },
+    {
+        "id": "1065228229",
+        "place_name": "오핀로스터리",
+        "address_name": "서울 은평구 진관동 327-2",
+        "road_address_name": "서울 은평구 북한산로 234",
+        "phone": "031-856-5555",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1065228229"
+    },
+    {
+        "id": "27588085",
+        "place_name": "할리스 연신내점",
+        "address_name": "서울 은평구 대조동 199-28",
+        "road_address_name": "서울 은평구 연서로 212",
+        "phone": "02-388-3977",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 할리스",
+        "place_url": "http://place.map.kakao.com/27588085"
+    },
+    {
+        "id": "1140878978",
+        "place_name": "와이엠에스프레소룸",
+        "address_name": "서울 은평구 진관동 64-42",
+        "road_address_name": "서울 은평구 진관3로 67",
+        "phone": "070-7767-0829",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1140878978"
+    },
+    {
+        "id": "1366817206",
+        "place_name": "폴스타베이커스",
+        "address_name": "서울 은평구 갈현동 326-40",
+        "road_address_name": "서울 은평구 서오릉로 256",
+        "phone": "02-6941-0256",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1366817206"
+    },
+    {
+        "id": "1971745290",
+        "place_name": "큐리키즈카페",
+        "address_name": "서울 은평구 진관동 74",
+        "road_address_name": "서울 은평구 진관2로 19",
+        "phone": "02-388-6561",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/1971745290"
+    },
+    {
+        "id": "96176172",
+        "place_name": "커피디지 응암본점",
+        "address_name": "서울 은평구 신사동 15-59",
+        "road_address_name": "서울 은평구 갈현로1길 16-1",
+        "phone": "02-6084-0095",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/96176172"
+    }
+]

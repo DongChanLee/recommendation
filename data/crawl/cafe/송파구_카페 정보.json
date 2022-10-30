@@ -1,0 +1,452 @@
+[
+    {
+        "id": "702337989",
+        "place_name": "라라브레드 송파점",
+        "address_name": "서울 송파구 송파동 58-8",
+        "road_address_name": "서울 송파구 오금로16길 4",
+        "phone": "1800-1990",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/702337989"
+    },
+    {
+        "id": "1877651691",
+        "place_name": "벨라스가든",
+        "address_name": "서울 송파구 송파동 32-2",
+        "road_address_name": "서울 송파구 백제고분로41길 42-19",
+        "phone": "02-424-4243",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1877651691"
+    },
+    {
+        "id": "244820280",
+        "place_name": "뷰클런즈",
+        "address_name": "서울 송파구 송파동 45-18",
+        "road_address_name": "서울 송파구 백제고분로43길 10",
+        "phone": "070-4065-4860",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/244820280"
+    },
+    {
+        "id": "288452481",
+        "place_name": "서울리즘",
+        "address_name": "서울 송파구 송파동 48-7",
+        "road_address_name": "서울 송파구 백제고분로 435",
+        "phone": "02-412-0812",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/288452481"
+    },
+    {
+        "id": "27288893",
+        "place_name": "프로퍼커피바",
+        "address_name": "서울 송파구 오금동 8-5",
+        "road_address_name": "서울 송파구 위례성대로22길 6",
+        "phone": "02-3401-0703",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27288893"
+    },
+    {
+        "id": "1087045460",
+        "place_name": "젠젠 잠실점",
+        "address_name": "서울 송파구 송파동 56-1",
+        "road_address_name": "서울 송파구 백제고분로45길 34",
+        "phone": "02-412-7240",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1087045460"
+    },
+    {
+        "id": "21404892",
+        "place_name": "뉴질랜드스토리",
+        "address_name": "서울 송파구 송파동 32-1",
+        "road_address_name": "서울 송파구 석촌호수로 268",
+        "phone": "070-7523-6265",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/21404892"
+    },
+    {
+        "id": "581669019",
+        "place_name": "서정적살롱",
+        "address_name": "서울 송파구 송파동 32-7",
+        "road_address_name": "서울 송파구 석촌호수로 274",
+        "phone": "02-415-7670",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/581669019"
+    },
+    {
+        "id": "2048471337",
+        "place_name": "디트로네 잠실점",
+        "address_name": "서울 송파구 송파동 7-1",
+        "road_address_name": "서울 송파구 석촌호수로 258",
+        "phone": "02-422-5021",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2048471337"
+    },
+    {
+        "id": "1030591315",
+        "place_name": "오린지",
+        "address_name": "서울 송파구 송파동 30-9",
+        "road_address_name": "서울 송파구 송파대로48길 19",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1030591315"
+    },
+    {
+        "id": "418254115",
+        "place_name": "앙떼띠 잠실점",
+        "address_name": "서울 송파구 방이동 23-2",
+        "road_address_name": "서울 송파구 올림픽로 342",
+        "phone": "02-420-7410",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/418254115"
+    },
+    {
+        "id": "438591937",
+        "place_name": "커피바이 로스터스",
+        "address_name": "서울 송파구 잠실동 208-1",
+        "road_address_name": "서울 송파구 백제고분로17길 56",
+        "phone": "02-415-4153",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/438591937"
+    },
+    {
+        "id": "235831720",
+        "place_name": "카페이클립스",
+        "address_name": "서울 송파구 석촌동 24",
+        "road_address_name": "서울 송파구 송파대로49길 52",
+        "phone": "010-7147-0401",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/235831720"
+    },
+    {
+        "id": "70270612",
+        "place_name": "위커파크",
+        "address_name": "서울 송파구 송파동 58-1",
+        "road_address_name": "서울 송파구 석촌호수로 298",
+        "phone": "010-2942-0447",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/70270612"
+    },
+    {
+        "id": "1859284257",
+        "place_name": "터치183",
+        "address_name": "서울 송파구 방이동 183",
+        "road_address_name": "서울 송파구 위례성대로 126",
+        "phone": "0507-1409-1500",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1859284257"
+    },
+    {
+        "id": "596720708",
+        "place_name": "얼터너티브",
+        "address_name": "서울 송파구 송파동 131-25",
+        "road_address_name": "서울 송파구 백제고분로46길 26-1",
+        "phone": "02-425-0120",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/596720708"
+    },
+    {
+        "id": "26869549",
+        "place_name": "홍팥집 오금점",
+        "address_name": "서울 송파구 오금동 140-15",
+        "road_address_name": "서울 송파구 성내천로 77",
+        "phone": "02-430-6577",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/26869549"
+    },
+    {
+        "id": "1215442657",
+        "place_name": "카페노티드 잠실",
+        "address_name": "서울 송파구 송파동 46-4",
+        "road_address_name": "서울 송파구 백제고분로45길 3",
+        "phone": "070-8836-9377",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1215442657"
+    },
+    {
+        "id": "874421812",
+        "place_name": "디어블라썸커피",
+        "address_name": "서울 송파구 잠실동 205-1",
+        "road_address_name": "서울 송파구 올림픽로12길 23",
+        "phone": "02-6014-4619",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/874421812"
+    },
+    {
+        "id": "24545480",
+        "place_name": "에브리데이몬데이",
+        "address_name": "서울 송파구 송파동 9-17",
+        "road_address_name": "서울 송파구 송파대로48길 14",
+        "phone": "010-4393-0622",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 갤러리카페",
+        "place_url": "http://place.map.kakao.com/24545480"
+    },
+    {
+        "id": "800653208",
+        "place_name": "레어마카롱 본점",
+        "address_name": "서울 송파구 송파동 58-4",
+        "road_address_name": "서울 송파구 오금로 126",
+        "phone": "070-7717-6809",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/800653208"
+    },
+    {
+        "id": "1112770031",
+        "place_name": "카페온화 송파점",
+        "address_name": "서울 송파구 송파동 42",
+        "road_address_name": "서울 송파구 백제고분로45길 15",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1112770031"
+    },
+    {
+        "id": "363104233",
+        "place_name": "진저베어 파이샵",
+        "address_name": "서울 송파구 송파동 8-10",
+        "road_address_name": "서울 송파구 백제고분로41길 43-7",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/363104233"
+    },
+    {
+        "id": "19432583",
+        "place_name": "잉클링",
+        "address_name": "서울 송파구 가락동 94-5",
+        "road_address_name": "서울 송파구 양재대로60길 3-5",
+        "phone": "02-565-5194",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/19432583"
+    },
+    {
+        "id": "1193286973",
+        "place_name": "리프레쉬커피",
+        "address_name": "서울 송파구 문정동 107-3",
+        "road_address_name": "서울 송파구 송이로30길 11",
+        "phone": "02-400-0910",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1193286973"
+    },
+    {
+        "id": "1860330877",
+        "place_name": "카페페퍼",
+        "address_name": "서울 송파구 송파동 51-10",
+        "road_address_name": "서울 송파구 백제고분로45길 12",
+        "phone": "02-421-0514",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1860330877"
+    },
+    {
+        "id": "1272240792",
+        "place_name": "코히루",
+        "address_name": "서울 송파구 송파동 48-16",
+        "road_address_name": "서울 송파구 오금로 148",
+        "phone": "070-8834-5252",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1272240792"
+    },
+    {
+        "id": "22547048",
+        "place_name": "스타벅스 석촌호수점",
+        "address_name": "서울 송파구 송파동 7-5",
+        "road_address_name": "서울 송파구 석촌호수로 262",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/22547048"
+    },
+    {
+        "id": "755265788",
+        "place_name": "가배도 송파점",
+        "address_name": "서울 송파구 송파동 49-5",
+        "road_address_name": "서울 송파구 백제고분로45길 6",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/755265788"
+    },
+    {
+        "id": "2022863434",
+        "place_name": "비엔나커피하우스 잠실역점",
+        "address_name": "서울 송파구 신천동 7-28",
+        "road_address_name": "서울 송파구 올림픽로 293-19",
+        "phone": "02-425-1683",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/2022863434"
+    },
+    {
+        "id": "497798133",
+        "place_name": "디저티스트",
+        "address_name": "서울 송파구 송파동 33",
+        "road_address_name": "서울 송파구 송파대로48길 37",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/497798133"
+    },
+    {
+        "id": "1750399435",
+        "place_name": "퍼햅스",
+        "address_name": "서울 송파구 삼전동 108-2",
+        "road_address_name": "서울 송파구 백제고분로29길 29",
+        "phone": "0507-1390-9811",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1750399435"
+    },
+    {
+        "id": "900095185",
+        "place_name": "호이안로스터리 1호점",
+        "address_name": "서울 송파구 문정동 204-1",
+        "road_address_name": "서울 송파구 법원로 128",
+        "phone": "02-527-8929",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/900095185"
+    },
+    {
+        "id": "254643912",
+        "place_name": "팻어케이크",
+        "address_name": "서울 송파구 송파동 45-4",
+        "road_address_name": "서울 송파구 백제고분로45길 9",
+        "phone": "02-123-1234",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/254643912"
+    },
+    {
+        "id": "909388417",
+        "place_name": "자몽하다",
+        "address_name": "서울 송파구 송파동 135-5",
+        "road_address_name": "서울 송파구 백제고분로 438",
+        "phone": "02-423-1854",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/909388417"
+    },
+    {
+        "id": "1609818137",
+        "place_name": "벌툰 잠실새내점",
+        "address_name": "서울 송파구 잠실동 180-9",
+        "road_address_name": "서울 송파구 백제고분로7길 27",
+        "phone": "070-7575-0600",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 만화카페",
+        "place_url": "http://place.map.kakao.com/1609818137"
+    },
+    {
+        "id": "21580658",
+        "place_name": "스타벅스 잠실새내역점",
+        "address_name": "서울 송파구 잠실동 181",
+        "road_address_name": "서울 송파구 올림픽로 96",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/21580658"
+    },
+    {
+        "id": "1360779553",
+        "place_name": "지오커피",
+        "address_name": "서울 송파구 문정동 69-5",
+        "road_address_name": "서울 송파구 새말로 97",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1360779553"
+    },
+    {
+        "id": "1987965338",
+        "place_name": "르쉬드서울",
+        "address_name": "서울 송파구 방이동 164-5",
+        "road_address_name": "서울 송파구 위례성대로12길 18",
+        "phone": "02-476-9168",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1987965338"
+    },
+    {
+        "id": "1225656491",
+        "place_name": "몬스터핸드보드카페 방이점",
+        "address_name": "서울 송파구 방이동 62-8",
+        "road_address_name": "서울 송파구 오금로13길 9",
+        "phone": "02-422-6054",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 보드카페",
+        "place_url": "http://place.map.kakao.com/1225656491"
+    },
+    {
+        "id": "223148556",
+        "place_name": "이월로스터스 송파1호점",
+        "address_name": "서울 송파구 송파동 51-7",
+        "road_address_name": "서울 송파구 백제고분로45길 14",
+        "phone": "070-8839-1004",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/223148556"
+    },
+    {
+        "id": "1130138697",
+        "place_name": "스타벅스 송파나루역DT점",
+        "address_name": "서울 송파구 송파동 59-9",
+        "road_address_name": "서울 송파구 오금로 142",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1130138697"
+    },
+    {
+        "id": "1416428207",
+        "place_name": "카페드로잉",
+        "address_name": "서울 송파구 문정동 618",
+        "road_address_name": "서울 송파구 송파대로 111",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/1416428207"
+    },
+    {
+        "id": "590696681",
+        "place_name": "카페그리너티",
+        "address_name": "서울 송파구 풍납동 150-13",
+        "road_address_name": "서울 송파구 풍성로23길 17",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/590696681"
+    },
+    {
+        "id": "24545311",
+        "place_name": "홍팥집 문정점",
+        "address_name": "서울 송파구 문정동 99-7",
+        "road_address_name": "서울 송파구 새말로 154",
+        "phone": "02-402-6577",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/24545311"
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "id": "630064388",
+        "place_name": "스윗솔트",
+        "address_name": "서울 강동구 명일동 222-3",
+        "road_address_name": "서울 강동구 상암로 286",
+        "phone": "02-3427-0999",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/630064388"
+    },
+    {
+        "id": "1319161148",
+        "place_name": "브랜뉴하이몬드",
+        "address_name": "서울 강동구 성내동 43-19",
+        "road_address_name": "서울 강동구 천호옛14길 11",
+        "phone": "02-478-2402",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1319161148"
+    },
+    {
+        "id": "622634747",
+        "place_name": "미드데이썬",
+        "address_name": "서울 강동구 성내동 432-4",
+        "road_address_name": "서울 강동구 양재대로91나길 55",
+        "phone": "0507-136-9308",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/622634747"
+    },
+    {
+        "id": "448338392",
+        "place_name": "성내동커피집 온온",
+        "address_name": "서울 강동구 성내동 469-9",
+        "road_address_name": "서울 강동구 성내로18길 34",
+        "phone": "010-1234-5678",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/448338392"
+    },
+    {
+        "id": "780872492",
+        "place_name": "평상시 암사점",
+        "address_name": "서울 강동구 암사동 458-67",
+        "road_address_name": "서울 강동구 고덕로20길 26",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/780872492"
+    },
+    {
+        "id": "1011094918",
+        "place_name": "채스우드커피",
+        "address_name": "서울 강동구 성내동 434-20",
+        "road_address_name": "서울 강동구 성안로 42",
+        "phone": "02-470-4562",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1011094918"
+    },
+    {
+        "id": "14829724",
+        "place_name": "분홍다이닝",
+        "address_name": "서울 강동구 천호동 453-8",
+        "road_address_name": "서울 강동구 천호대로157길 18",
+        "phone": "02-473-9388",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/14829724"
+    },
+    {
+        "id": "1171056769",
+        "place_name": "테라로사 길동점",
+        "address_name": "서울 강동구 길동 255-2",
+        "road_address_name": "서울 강동구 천호대로 1221",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1171056769"
+    },
+    {
+        "id": "26874715",
+        "place_name": "디자인카페허브",
+        "address_name": "서울 강동구 둔촌동 580-6",
+        "road_address_name": "서울 강동구 천호대로200길 15-16",
+        "phone": "02-417-0437",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/26874715"
+    },
+    {
+        "id": "26925107",
+        "place_name": "스타벅스 천호로데오점",
+        "address_name": "서울 강동구 천호동 453-14",
+        "road_address_name": "서울 강동구 천호대로 1037",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/26925107"
+    },
+    {
+        "id": "1980415186",
+        "place_name": "카페제이",
+        "address_name": "서울 강동구 고덕동 294-1",
+        "road_address_name": "서울 강동구 동남로82길 19",
+        "phone": "070-8270-9370",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1980415186"
+    },
+    {
+        "id": "735973978",
+        "place_name": "파트원나이스",
+        "address_name": "서울 강동구 천호동 321-16",
+        "road_address_name": "서울 강동구 올림픽로89길 29",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/735973978"
+    },
+    {
+        "id": "458149934",
+        "place_name": "브리에",
+        "address_name": "서울 강동구 성내동 436-30",
+        "road_address_name": "서울 강동구 강동대로51길 50",
+        "phone": "010-6757-7304",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/458149934"
+    },
+    {
+        "id": "1354198789",
+        "place_name": "펠어커피 강동점",
+        "address_name": "서울 강동구 성내동 12-29",
+        "road_address_name": "서울 강동구 천호옛14길 23-12",
+        "phone": "070-7702-6096",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1354198789"
+    },
+    {
+        "id": "27408085",
+        "place_name": "피에로커피",
+        "address_name": "서울 강동구 성내동 465",
+        "road_address_name": "서울 강동구 성내로14길 27",
+        "phone": "02-471-5618",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27408085"
+    },
+    {
+        "id": "1749096990",
+        "place_name": "스타벅스 강동암사DT",
+        "address_name": "서울 강동구 암사동 441-12",
+        "road_address_name": "서울 강동구 고덕로 43",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1749096990"
+    },
+    {
+        "id": "20598679",
+        "place_name": "하에레츠",
+        "address_name": "서울 강동구 암사동 472-8",
+        "road_address_name": "서울 강동구 암사길 27",
+        "phone": "02-481-8341",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/20598679"
+    },
+    {
+        "id": "1255094197",
+        "place_name": "스타벅스 강동구청DT점",
+        "address_name": "서울 강동구 성내동 550",
+        "road_address_name": "서울 강동구 성내로 32",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1255094197"
+    },
+    {
+        "id": "18773346",
+        "place_name": "엘리펀트커피 둔촌점",
+        "address_name": "서울 강동구 둔촌동 53-3",
+        "road_address_name": "서울 강동구 천호대로 1192",
+        "phone": "02-488-2039",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/18773346"
+    },
+    {
+        "id": "26430433",
+        "place_name": "엘리펀트커피",
+        "address_name": "서울 강동구 길동 335-2",
+        "road_address_name": "서울 강동구 양재대로 1548",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/26430433"
+    },
+    {
+        "id": "1518220846",
+        "place_name": "카페노란코끼리 천호점",
+        "address_name": "서울 강동구 천호동 427-5",
+        "road_address_name": "서울 강동구 구천면로24길 20-25",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1518220846"
+    },
+    {
+        "id": "1995915808",
+        "place_name": "카쿠",
+        "address_name": "서울 강동구 성내동 421-20",
+        "road_address_name": "서울 강동구 성안로 45",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1995915808"
+    },
+    {
+        "id": "1983850707",
+        "place_name": "벌스커피",
+        "address_name": "서울 강동구 성내동 536-1",
+        "road_address_name": "서울 강동구 성내로5길 34",
+        "phone": "02-6084-3317",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1983850707"
+    },
+    {
+        "id": "27515201",
+        "place_name": "카페메종드한",
+        "address_name": "서울 강동구 성내동 435-44",
+        "road_address_name": "서울 강동구 성안로 27",
+        "phone": "02-482-2005",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27515201"
+    },
+    {
+        "id": "2084777605",
+        "place_name": "카페씨모",
+        "address_name": "서울 강동구 명일동 312-81",
+        "road_address_name": "서울 강동구 고덕로38길 69",
+        "phone": "010-4241-9957",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/2084777605"
+    },
+    {
+        "id": "7961107",
+        "place_name": "스타벅스 천호역점",
+        "address_name": "서울 강동구 성내동 62-4",
+        "road_address_name": "서울 강동구 천호대로 1012",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/7961107"
+    },
+    {
+        "id": "912653147",
+        "place_name": "우드멜로우",
+        "address_name": "서울 강동구 고덕동 482",
+        "road_address_name": "서울 강동구 아리수로 243",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/912653147"
+    },
+    {
+        "id": "868075887",
+        "place_name": "카페티에드",
+        "address_name": "서울 강동구 천호동 409-50",
+        "road_address_name": "서울 강동구 천호대로157길 52",
+        "phone": "02-475-0011",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/868075887"
+    },
+    {
+        "id": "375551127",
+        "place_name": "솔리",
+        "address_name": "서울 강동구 천호동 409-35",
+        "road_address_name": "서울 강동구 진황도로 4-5",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/375551127"
+    },
+    {
+        "id": "2068185089",
+        "place_name": "카페공공장소",
+        "address_name": "서울 강동구 암사동 497-7",
+        "road_address_name": "서울 강동구 암사길 7-1",
+        "phone": "0507-1314-6627",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/2068185089"
+    },
+    {
+        "id": "27538963",
+        "place_name": "스타벅스 둔촌동점",
+        "address_name": "서울 강동구 성내동 441-2",
+        "road_address_name": "서울 강동구 양재대로 1303",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/27538963"
+    },
+    {
+        "id": "472671966",
+        "place_name": "브로일링커피 강동점",
+        "address_name": "서울 강동구 성내동 560-9",
+        "road_address_name": "서울 강동구 성내로10길 9-6",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/472671966"
+    },
+    {
+        "id": "25017323",
+        "place_name": "스타벅스 길동역점",
+        "address_name": "서울 강동구 길동 378-3",
+        "road_address_name": "서울 강동구 양재대로 1487",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/25017323"
+    },
+    {
+        "id": "2084584062",
+        "place_name": "잇다",
+        "address_name": "서울 강동구 둔촌동 425-15",
+        "road_address_name": "서울 강동구 천호대로 1156-5",
+        "phone": "070-8973-1066",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/2084584062"
+    },
+    {
+        "id": "854928918",
+        "place_name": "스타벅스 명일역점",
+        "address_name": "서울 강동구 명일동 312-28",
+        "road_address_name": "서울 강동구 양재대로 1647",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/854928918"
+    },
+    {
+        "id": "1124970786",
+        "place_name": "스타벅스 강동역점",
+        "address_name": "서울 강동구 천호동 447-17",
+        "road_address_name": "서울 강동구 천호대로 1089",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1124970786"
+    },
+    {
+        "id": "27075529",
+        "place_name": "폴바셋 상일동점",
+        "address_name": "서울 강동구 상일동 501-2",
+        "road_address_name": "서울 강동구 상일로6길 21",
+        "phone": "02-481-9223",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 폴바셋",
+        "place_url": "http://place.map.kakao.com/27075529"
+    },
+    {
+        "id": "403702789",
+        "place_name": "도미넌트",
+        "address_name": "서울 강동구 성내동 440-25",
+        "road_address_name": "서울 강동구 양재대로83길 14",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/403702789"
+    },
+    {
+        "id": "23150275",
+        "place_name": "카페온도",
+        "address_name": "서울 강동구 성내동 245-39",
+        "road_address_name": "서울 강동구 양재대로103길 40",
+        "phone": "070-8822-9561",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/23150275"
+    },
+    {
+        "id": "16704632",
+        "place_name": "수요일",
+        "address_name": "서울 강동구 명일동 47-18",
+        "road_address_name": "서울 강동구 동남로 891",
+        "phone": "02-3427-6467",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 전통찻집",
+        "place_url": "http://place.map.kakao.com/16704632"
+    },
+    {
+        "id": "22105090",
+        "place_name": "스타벅스 상일동점",
+        "address_name": "서울 강동구 상일동 501",
+        "road_address_name": "서울 강동구 상일로10길 36",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/22105090"
+    },
+    {
+        "id": "795440538",
+        "place_name": "까페항상",
+        "address_name": "서울 강동구 성내동 319-9",
+        "road_address_name": "서울 강동구 성내로3길 5",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/795440538"
+    },
+    {
+        "id": "1711786724",
+        "place_name": "빵카페",
+        "address_name": "서울 강동구 둔촌동 105-40",
+        "road_address_name": "서울 강동구 동남로 578",
+        "phone": "02-478-6464",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1711786724"
+    },
+    {
+        "id": "18637034",
+        "place_name": "룸카페쁠레쟝 천호점",
+        "address_name": "서울 강동구 천호3동 453-18",
+        "road_address_name": "서울 강동구 천호대로157길 6",
+        "phone": "0507-1392-7807",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/18637034"
+    },
+    {
+        "id": "12526693",
+        "place_name": "아이스베리 천호점",
+        "address_name": "서울 강동구 천호동 454-64",
+        "road_address_name": "서울 강동구 천호대로157길 17",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/12526693"
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+        "id": "17206019",
+        "place_name": "토즈모임센터 강남역토즈타워점",
+        "address_name": "서울 강남구 역삼동 827-3",
+        "road_address_name": "서울 강남구 강남대로84길 24-4",
+        "phone": "02-3454-0116",
+        "category_group_name": "카페",
+        "category_name": "서비스,산업 > 전문대행 > 공간대여 > 모임공간 > 토즈모임센터",
+        "place_url": "http://place.map.kakao.com/17206019"
+    },
+    {
+        "id": "348276052",
+        "place_name": "카페노티드 청담",
+        "address_name": "서울 강남구 신사동 654-9",
+        "road_address_name": "서울 강남구 도산대로53길 15",
+        "phone": "070-8860-9377",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/348276052"
+    },
+    {
+        "id": "179244712",
+        "place_name": "꽁티드툴레아 도산점",
+        "address_name": "서울 강남구 신사동 646-21",
+        "road_address_name": "서울 강남구 도산대로49길 39",
+        "phone": "070-8846-8490",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/179244712"
+    },
+    {
+        "id": "1860681564",
+        "place_name": "테라로사 포스코센터점",
+        "address_name": "서울 강남구 대치동 892",
+        "road_address_name": "서울 강남구 테헤란로 440",
+        "phone": "033-648-2760",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1860681564"
+    },
+    {
+        "id": "495658881",
+        "place_name": "블루보틀 역삼 카페",
+        "address_name": "서울 강남구 역삼동 648-9",
+        "road_address_name": "서울 강남구 테헤란로 129",
+        "phone": "1533-6906",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/495658881"
+    },
+    {
+        "id": "22837049",
+        "place_name": "알베르",
+        "address_name": "서울 강남구 역삼동 618-11",
+        "road_address_name": "서울 강남구 강남대로102길 34",
+        "phone": "02-566-6181",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/22837049"
+    },
+    {
+        "id": "11367199",
+        "place_name": "토즈모임센터 선릉점",
+        "address_name": "서울 강남구 대치동 890-34",
+        "road_address_name": "서울 강남구 테헤란로70길 14-8",
+        "phone": "02-2052-0113",
+        "category_group_name": "카페",
+        "category_name": "서비스,산업 > 전문대행 > 공간대여 > 모임공간 > 토즈모임센터",
+        "place_url": "http://place.map.kakao.com/11367199"
+    },
+    {
+        "id": "22549791",
+        "place_name": "마일스톤커피",
+        "address_name": "서울 강남구 신사동 554-4",
+        "road_address_name": "서울 강남구 논현로159길 49",
+        "phone": "070-4219-1195",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/22549791"
+    },
+    {
+        "id": "714214219",
+        "place_name": "랑데자뷰 강남점",
+        "address_name": "서울 강남구 역삼동 618-18",
+        "road_address_name": "서울 강남구 봉은사로6길 39",
+        "phone": "02-552-0204",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/714214219"
+    },
+    {
+        "id": "858715549",
+        "place_name": "카페캠프통",
+        "address_name": "서울 강남구 신사동 643-22",
+        "road_address_name": "서울 강남구 압구정로42길 27",
+        "phone": "02-3445-0369",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/858715549"
+    },
+    {
+        "id": "2005375589",
+        "place_name": "썸띵어바웃커피",
+        "address_name": "서울 강남구 역삼동 618-16",
+        "road_address_name": "서울 강남구 강남대로102길 30",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/2005375589"
+    },
+    {
+        "id": "1937691860",
+        "place_name": "카페413프로젝트",
+        "address_name": "서울 강남구 역삼동 640-9",
+        "road_address_name": "서울 강남구 논현로97길 19-11",
+        "phone": "070-7798-0544",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1937691860"
+    },
+    {
+        "id": "1168471307",
+        "place_name": "도산맘마",
+        "address_name": "서울 강남구 신사동 645-26",
+        "road_address_name": "서울 강남구 압구정로42길 45",
+        "phone": "02-511-0620",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1168471307"
+    },
+    {
+        "id": "1106428073",
+        "place_name": "정월",
+        "address_name": "서울 강남구 역삼동 618-21",
+        "road_address_name": "서울 강남구 강남대로102길 46",
+        "phone": "02-6013-0926",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1106428073"
+    },
+    {
+        "id": "1075937756",
+        "place_name": "토즈모임센터 역삼점",
+        "address_name": "서울 강남구 역삼동 668-5",
+        "road_address_name": "서울 강남구 논현로98길 6",
+        "phone": "02-3452-0811",
+        "category_group_name": "카페",
+        "category_name": "서비스,산업 > 전문대행 > 공간대여 > 모임공간 > 토즈모임센터",
+        "place_url": "http://place.map.kakao.com/1075937756"
+    },
+    {
+        "id": "1720885570",
+        "place_name": "블루보틀 압구정 카페",
+        "address_name": "서울 강남구 신사동 610-6",
+        "road_address_name": "서울 강남구 논현로 854",
+        "phone": "1533-6906",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1720885570"
+    },
+    {
+        "id": "27220692",
+        "place_name": "C27 가로수길본점",
+        "address_name": "서울 강남구 신사동 545-12",
+        "road_address_name": "서울 강남구 도산대로15길 39",
+        "phone": "02-544-1527",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/27220692"
+    },
+    {
+        "id": "19808159",
+        "place_name": "오리지널 팬케이크하우스 가로수길점",
+        "address_name": "서울 강남구 신사동 523-20",
+        "road_address_name": "서울 강남구 강남대로162길 41",
+        "phone": "02-511-7481",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/19808159"
+    },
+    {
+        "id": "63672709",
+        "place_name": "카페써드",
+        "address_name": "서울 강남구 논현동 118-4",
+        "road_address_name": "서울 강남구 선릉로131길 11",
+        "phone": "070-7773-4559",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/63672709"
+    },
+    {
+        "id": "10159026",
+        "place_name": "고센",
+        "address_name": "서울 강남구 청담동 88-23",
+        "road_address_name": "서울 강남구 선릉로158길 18",
+        "phone": "02-515-1863",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/10159026"
+    },
+    {
+        "id": "22400767",
+        "place_name": "10꼬르소꼬모카페",
+        "address_name": "서울 강남구 청담동 79",
+        "road_address_name": "서울 강남구 압구정로 416",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/22400767"
+    },
+    {
+        "id": "2014699390",
+        "place_name": "맷카페",
+        "address_name": "서울 강남구 논현동 255-5",
+        "road_address_name": "서울 강남구 학동로50길 42",
+        "phone": "070-7599-2212",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2014699390"
+    },
+    {
+        "id": "530432745",
+        "place_name": "테일러커피 신사점",
+        "address_name": "서울 강남구 신사동 521-17",
+        "road_address_name": "서울 강남구 강남대로160길 31",
+        "phone": "02-511-0355",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/530432745"
+    },
+    {
+        "id": "12285498",
+        "place_name": "토즈모임센터 삼성점",
+        "address_name": "서울 강남구 삼성동 169-1",
+        "road_address_name": "서울 강남구 테헤란로103길 14",
+        "phone": "02-538-0118",
+        "category_group_name": "카페",
+        "category_name": "서비스,산업 > 전문대행 > 공간대여 > 모임공간 > 토즈모임센터",
+        "place_url": "http://place.map.kakao.com/12285498"
+    },
+    {
+        "id": "19601351",
+        "place_name": "트리아농",
+        "address_name": "서울 강남구 청담동 26-5",
+        "road_address_name": "서울 강남구 학동로59길 43",
+        "phone": "070-8129-5955",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/19601351"
+    },
+    {
+        "id": "27550461",
+        "place_name": "카페무라노",
+        "address_name": "서울 강남구 역삼동 601-30",
+        "road_address_name": "서울 강남구 강남대로110길 21",
+        "phone": "02-555-8853",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27550461"
+    },
+    {
+        "id": "27287887",
+        "place_name": "토즈 압구정센터",
+        "address_name": "서울 강남구 신사동 608-13",
+        "road_address_name": "서울 강남구 압구정로34길 32",
+        "phone": "02-544-0117",
+        "category_group_name": "카페",
+        "category_name": "서비스,산업 > 전문대행 > 공간대여 > 모임공간 > 토즈모임센터",
+        "place_url": "http://place.map.kakao.com/27287887"
+    },
+    {
+        "id": "305164716",
+        "place_name": "버터풀&크리멀러스",
+        "address_name": "서울 강남구 신사동 662-11",
+        "road_address_name": "서울 강남구 언주로172길 59",
+        "phone": "02-518-2223",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/305164716"
+    },
+    {
+        "id": "1863764320",
+        "place_name": "논탄토",
+        "address_name": "서울 강남구 신사동 544-23",
+        "road_address_name": "서울 강남구 도산대로17길 35",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1863764320"
+    },
+    {
+        "id": "2120434164",
+        "place_name": "소진담 신사점",
+        "address_name": "서울 강남구 신사동 551-23",
+        "road_address_name": "서울 강남구 논현로161길 51",
+        "phone": "02-542-5550",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2120434164"
+    },
+    {
+        "id": "1429592845",
+        "place_name": "토즈모임센터 강남구청역점",
+        "address_name": "서울 강남구 논현동 118-15",
+        "road_address_name": "서울 강남구 학동로 335",
+        "phone": "02-3446-5200",
+        "category_group_name": "카페",
+        "category_name": "서비스,산업 > 전문대행 > 공간대여 > 모임공간 > 토즈모임센터",
+        "place_url": "http://place.map.kakao.com/1429592845"
+    },
+    {
+        "id": "84268936",
+        "place_name": "가배도 신논현점",
+        "address_name": "서울 강남구 역삼동 601-12",
+        "road_address_name": "서울 강남구 강남대로110길 13",
+        "phone": "02-554-4542",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 다방",
+        "place_url": "http://place.map.kakao.com/84268936"
+    },
+    {
+        "id": "7948829",
+        "place_name": "세시셀라 도산공원점",
+        "address_name": "서울 강남구 신사동 651-4",
+        "road_address_name": "서울 강남구 도산대로45길 10-4",
+        "phone": "02-3448-7100",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/7948829"
+    },
+    {
+        "id": "1045674602",
+        "place_name": "껠끄쇼즈",
+        "address_name": "서울 강남구 대치동 1023-19",
+        "road_address_name": "서울 강남구 도곡로70길 5",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1045674602"
+    },
+    {
+        "id": "561053021",
+        "place_name": "루프808",
+        "address_name": "서울 강남구 역삼동 808",
+        "road_address_name": "서울 강남구 강남대로 470",
+        "phone": "02-3452-8088",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/561053021"
+    },
+    {
+        "id": "1016477143",
+        "place_name": "기욤 청담점",
+        "address_name": "서울 강남구 청담동 88-37",
+        "road_address_name": "서울 강남구 선릉로152길 17",
+        "phone": "02-512-6701",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1016477143"
+    },
+    {
+        "id": "26497476",
+        "place_name": "테라로사 코엑스점",
+        "address_name": "서울 강남구 삼성동 159",
+        "road_address_name": "서울 강남구 영동대로 513",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/26497476"
+    },
+    {
+        "id": "336690720",
+        "place_name": "아우어베이커리 싸이더스점",
+        "address_name": "서울 강남구 논현동 267-20",
+        "road_address_name": "서울 강남구 선릉로 629",
+        "phone": "02-541-6639",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/336690720"
+    },
+    {
+        "id": "27349884",
+        "place_name": "빌리엔젤 강남역점",
+        "address_name": "서울 강남구 역삼동 619-16",
+        "road_address_name": "서울 강남구 테헤란로1길 48",
+        "phone": "070-5051-8135",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/27349884"
+    },
+    {
+        "id": "854219809",
+        "place_name": "달링키친",
+        "address_name": "서울 강남구 논현동 247-9",
+        "road_address_name": "서울 강남구 언주로126길 25",
+        "phone": "02-540-3460",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/854219809"
+    },
+    {
+        "id": "11069279",
+        "place_name": "미엘",
+        "address_name": "서울 강남구 청담동 94-3",
+        "road_address_name": "서울 강남구 도산대로67길 13-12",
+        "phone": "02-512-2395",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 갤러리카페",
+        "place_url": "http://place.map.kakao.com/11069279"
+    },
+    {
+        "id": "1996014742",
+        "place_name": "펠트커피 도산공원점",
+        "address_name": "서울 강남구 신사동 645-21",
+        "road_address_name": "서울 강남구 언주로164길 23",
+        "phone": "070-7756-3145",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1996014742"
+    },
+    {
+        "id": "27301629",
+        "place_name": "디올카페",
+        "address_name": "서울 강남구 청담동 98-12",
+        "road_address_name": "서울 강남구 압구정로 464",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/27301629"
+    },
+    {
+        "id": "1169822758",
+        "place_name": "파넬카페",
+        "address_name": "서울 강남구 신사동 649-2",
+        "road_address_name": "서울 강남구 언주로164길 14",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1169822758"
+    },
+    {
+        "id": "27196653",
+        "place_name": "파시0914",
+        "address_name": "서울 강남구 신사동 631-35",
+        "road_address_name": "서울 강남구 도산대로45길 15",
+        "phone": "02-2056-0917",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27196653"
+    }
+]

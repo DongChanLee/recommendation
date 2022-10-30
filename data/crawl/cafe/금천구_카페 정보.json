@@ -1,0 +1,452 @@
+[
+    {
+        "id": "2074600451",
+        "place_name": "스미다",
+        "address_name": "서울 금천구 가산동 50-3",
+        "road_address_name": "서울 금천구 벚꽃로 298",
+        "phone": "070-4633-2525",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2074600451"
+    },
+    {
+        "id": "1652547690",
+        "place_name": "인크커피 가산 플래그십 스토어",
+        "address_name": "서울 금천구 가산동 544-6",
+        "road_address_name": "서울 금천구 가산디지털2로 127-20",
+        "phone": "02-854-7200",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1652547690"
+    },
+    {
+        "id": "24765611",
+        "place_name": "스타벅스 금천독산점",
+        "address_name": "서울 금천구 독산동 291-1",
+        "road_address_name": "서울 금천구 두산로 70",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/24765611"
+    },
+    {
+        "id": "921177814",
+        "place_name": "냥카페묘연",
+        "address_name": "서울 금천구 시흥동 985-8",
+        "road_address_name": "서울 금천구 시흥대로 149",
+        "phone": "070-4048-0948",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 고양이카페",
+        "place_url": "http://place.map.kakao.com/921177814"
+    },
+    {
+        "id": "2090446816",
+        "place_name": "스타벅스 금천시흥점",
+        "address_name": "서울 금천구 시흥동 904-22",
+        "road_address_name": "서울 금천구 시흥대로 164",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/2090446816"
+    },
+    {
+        "id": "1616531669",
+        "place_name": "스타벅스 독산사거리점",
+        "address_name": "서울 금천구 독산동 159-23",
+        "road_address_name": "서울 금천구 시흥대로 426",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1616531669"
+    },
+    {
+        "id": "689537775",
+        "place_name": "온초점",
+        "address_name": "서울 금천구 독산동 959",
+        "road_address_name": "서울 금천구 남부순환로124길 17",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/689537775"
+    },
+    {
+        "id": "8403565",
+        "place_name": "스타벅스 가산디지털점",
+        "address_name": "서울 금천구 가산동 371-28",
+        "road_address_name": "서울 금천구 가산디지털1로 168",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/8403565"
+    },
+    {
+        "id": "316450932",
+        "place_name": "키주파크 독산점",
+        "address_name": "서울 금천구 독산동 495-5",
+        "road_address_name": "서울 금천구 벚꽃로6길 21",
+        "phone": "02-804-2145",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/316450932"
+    },
+    {
+        "id": "1460458769",
+        "place_name": "스타벅스 가산디지털단지역점",
+        "address_name": "서울 금천구 가산동 50-3",
+        "road_address_name": "서울 금천구 벚꽃로 298",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1460458769"
+    },
+    {
+        "id": "27388194",
+        "place_name": "모나드커피로스터스",
+        "address_name": "서울 금천구 시흥동 911-6",
+        "road_address_name": "서울 금천구 금하로24길 5",
+        "phone": "010-7516-0892",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/27388194"
+    },
+    {
+        "id": "62238907",
+        "place_name": "스타벅스 금천구청역점",
+        "address_name": "서울 금천구 시흥동 1031",
+        "road_address_name": "서울 금천구 시흥대로73길 67",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/62238907"
+    },
+    {
+        "id": "18619207",
+        "place_name": "카페로드",
+        "address_name": "서울 금천구 독산동 1003",
+        "road_address_name": "서울 금천구 범안로 1152",
+        "phone": "010-4946-8871",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/18619207"
+    },
+    {
+        "id": "286759014",
+        "place_name": "카페구움",
+        "address_name": "서울 금천구 독산동 1156",
+        "road_address_name": "서울 금천구 시흥대로 315",
+        "phone": "010-6805-9281",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/286759014"
+    },
+    {
+        "id": "623379440",
+        "place_name": "퐁퐁플라워 가산센터",
+        "address_name": "서울 금천구 가산동 60-19",
+        "road_address_name": "서울 금천구 벚꽃로 278",
+        "phone": "02-444-2080",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/623379440"
+    },
+    {
+        "id": "1145240425",
+        "place_name": "뽀로로파크 롯데빅마켓 금천점",
+        "address_name": "서울 금천구 독산동 295-10",
+        "road_address_name": "서울 금천구 두산로 71",
+        "phone": "02-855-4173",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/1145240425"
+    },
+    {
+        "id": "1705999023",
+        "place_name": "자작나무카페",
+        "address_name": "서울 금천구 독산동 296-9",
+        "road_address_name": "서울 금천구 가산로 61",
+        "phone": "0507-1418-8918",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1705999023"
+    },
+    {
+        "id": "8567520",
+        "place_name": "투썸플레이스 가산디지털점",
+        "address_name": "서울 금천구 가산동 459-11",
+        "road_address_name": "서울 금천구 가산디지털1로 186",
+        "phone": "02-866-9308",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/8567520"
+    },
+    {
+        "id": "27179470",
+        "place_name": "502커피로스터스",
+        "address_name": "서울 금천구 가산동 371-7",
+        "road_address_name": "서울 금천구 가산디지털1로 159-20",
+        "phone": "070-4128-4289",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/27179470"
+    },
+    {
+        "id": "13049542",
+        "place_name": "스타벅스 가산그레이트점",
+        "address_name": "서울 금천구 가산동 60-5",
+        "road_address_name": "서울 금천구 디지털로9길 32",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/13049542"
+    },
+    {
+        "id": "1146328973",
+        "place_name": "스타벅스 가산에스케이점",
+        "address_name": "서울 금천구 가산동 371-41",
+        "road_address_name": "서울 금천구 가산디지털1로 171",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1146328973"
+    },
+    {
+        "id": "1183978562",
+        "place_name": "투썸플레이스 독산사거리점",
+        "address_name": "서울 금천구 독산동 287-2",
+        "road_address_name": "서울 금천구 시흥대로 422",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1183978562"
+    },
+    {
+        "id": "26887407",
+        "place_name": "할리스 가산디지털단지점",
+        "address_name": "서울 금천구 가산동 459-11",
+        "road_address_name": "서울 금천구 가산디지털1로 186",
+        "phone": "02-2028-7111",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 할리스",
+        "place_url": "http://place.map.kakao.com/26887407"
+    },
+    {
+        "id": "26300091",
+        "place_name": "설빙 시흥사거리점",
+        "address_name": "서울 금천구 시흥동 994-5",
+        "road_address_name": "서울 금천구 시흥대로 229",
+        "phone": "02-891-7355",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페 > 설빙",
+        "place_url": "http://place.map.kakao.com/26300091"
+    },
+    {
+        "id": "26376546",
+        "place_name": "스타벅스 가산브이타워점",
+        "address_name": "서울 금천구 가산동 371-37",
+        "road_address_name": "서울 금천구 가산디지털1로 128",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/26376546"
+    },
+    {
+        "id": "21555012",
+        "place_name": "투썸플레이스 시흥사거리점",
+        "address_name": "서울 금천구 시흥동 883-7",
+        "road_address_name": "서울 금천구 시흥대로 228",
+        "phone": "02-893-2388",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/21555012"
+    },
+    {
+        "id": "20375726",
+        "place_name": "커피베이 가산직영점",
+        "address_name": "서울 금천구 가산동 60-24",
+        "road_address_name": "서울 금천구 벚꽃로 254",
+        "phone": "02-859-1157",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 커피베이",
+        "place_url": "http://place.map.kakao.com/20375726"
+    },
+    {
+        "id": "785517467",
+        "place_name": "달리는커피 독산1호점",
+        "address_name": "서울 금천구 독산동 1009-74",
+        "road_address_name": "서울 금천구 시흥대로 341",
+        "phone": "02-857-8163",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/785517467"
+    },
+    {
+        "id": "1252555129",
+        "place_name": "투썸플레이스 가산하이엔드클래식점",
+        "address_name": "서울 금천구 가산동 219-6",
+        "road_address_name": "서울 금천구 벚꽃로24길 26",
+        "phone": "02-2085-0155",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1252555129"
+    },
+    {
+        "id": "1788134156",
+        "place_name": "투썸플레이스 금천롯데캐슬골드파크점",
+        "address_name": "서울 금천구 독산동 1147",
+        "road_address_name": "서울 금천구 벚꽃로 40",
+        "phone": "02-802-1222",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1788134156"
+    },
+    {
+        "id": "1049764762",
+        "place_name": "디오델커피",
+        "address_name": "서울 금천구 독산동 1150",
+        "road_address_name": "서울 금천구 벚꽃로 30",
+        "phone": "02-6082-2121",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1049764762"
+    },
+    {
+        "id": "1998752929",
+        "place_name": "투썸플레이스 석수역점",
+        "address_name": "서울 금천구 시흥동 979-4",
+        "road_address_name": "서울 금천구 시흥대로 8",
+        "phone": "02-804-1003",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1998752929"
+    },
+    {
+        "id": "26342624",
+        "place_name": "카페자리",
+        "address_name": "서울 금천구 독산동 197-1",
+        "road_address_name": "서울 금천구 독산로77길 39",
+        "phone": "02-865-8800",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/26342624"
+    },
+    {
+        "id": "1667235990",
+        "place_name": "디저트39 금천시흥점",
+        "address_name": "서울 금천구 시흥동 852-30",
+        "road_address_name": "서울 금천구 독산로 131-1",
+        "phone": "02-892-3839",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페 > 디저트39",
+        "place_url": "http://place.map.kakao.com/1667235990"
+    },
+    {
+        "id": "2081698743",
+        "place_name": "우주라이크커피 가산디지털단지점",
+        "address_name": "서울 금천구 가산동 143-6",
+        "road_address_name": "서울 금천구 가산로9길 12-8",
+        "phone": "02-6278-0077",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/2081698743"
+    },
+    {
+        "id": "1925568709",
+        "place_name": "디저트39 독산사거리점",
+        "address_name": "서울 금천구 독산동 288-2",
+        "road_address_name": "서울 금천구 시흥대로 421",
+        "phone": "02-858-9488",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1925568709"
+    },
+    {
+        "id": "1461073772",
+        "place_name": "트리니티블랙",
+        "address_name": "서울 금천구 가산동 429-1",
+        "road_address_name": "서울 금천구 가산디지털2로 108",
+        "phone": "02-2626-8989",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1461073772"
+    },
+    {
+        "id": "900274800",
+        "place_name": "C27 현대시티아울렛 가산점",
+        "address_name": "서울 금천구 가산동 60-8",
+        "road_address_name": "서울 금천구 디지털로10길 9",
+        "phone": "02-2136-9780",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/900274800"
+    },
+    {
+        "id": "27355133",
+        "place_name": "빌리엔젤 마리오아울렛점",
+        "address_name": "서울 금천구 가산동 60-20",
+        "road_address_name": "서울 금천구 벚꽃로 266",
+        "phone": "02-2067-3628",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/27355133"
+    },
+    {
+        "id": "20537542",
+        "place_name": "티티커피클럽 가산점",
+        "address_name": "서울 금천구 가산동 140-30",
+        "road_address_name": "서울 금천구 디지털로 204",
+        "phone": "070-8152-1062",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/20537542"
+    },
+    {
+        "id": "505952327",
+        "place_name": "엔제리너스 LAB1004",
+        "address_name": "서울 금천구 독산동 1005",
+        "road_address_name": "",
+        "phone": "02-809-4043",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 엔제리너스",
+        "place_url": "http://place.map.kakao.com/505952327"
+    },
+    {
+        "id": "18363987",
+        "place_name": "스타벅스 마리오아울렛점",
+        "address_name": "서울 금천구 가산동 60-20",
+        "road_address_name": "서울 금천구 벚꽃로 266",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/18363987"
+    },
+    {
+        "id": "1212317026",
+        "place_name": "카페 커들리",
+        "address_name": "서울 금천구 시흥동 263-16",
+        "road_address_name": "서울 금천구 금하로29길 12",
+        "phone": "070-4333-4989",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1212317026"
+    },
+    {
+        "id": "7961273",
+        "place_name": "스타벅스 W-mall점",
+        "address_name": "서울 금천구 가산동 60-27",
+        "road_address_name": "서울 금천구 디지털로 188",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/7961273"
+    },
+    {
+        "id": "13064337",
+        "place_name": "투썸플레이스 가산아울렛점",
+        "address_name": "서울 금천구 가산동 50-3",
+        "road_address_name": "서울 금천구 벚꽃로 298",
+        "phone": "02-2083-5678",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/13064337"
+    }
+]

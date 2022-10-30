@@ -1,0 +1,452 @@
+[
+    {
+        "id": "1553976296",
+        "place_name": "도봉관",
+        "address_name": "서울 도봉구 창동 700-27",
+        "road_address_name": "서울 도봉구 노해로 261",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1553976296"
+    },
+    {
+        "id": "24695495",
+        "place_name": "카페오븐",
+        "address_name": "서울 도봉구 창동 813",
+        "road_address_name": "서울 도봉구 해등로16길 12",
+        "phone": "02-3141-0089",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/24695495"
+    },
+    {
+        "id": "2113410227",
+        "place_name": "카페작약",
+        "address_name": "서울 도봉구 창동 659-1",
+        "road_address_name": "서울 도봉구 도봉로118길 10",
+        "phone": "070-7740-0259",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/2113410227"
+    },
+    {
+        "id": "27393895",
+        "place_name": "와겐커피 방학점",
+        "address_name": "서울 도봉구 방학동 716-14",
+        "road_address_name": "서울 도봉구 도봉로150마길 15",
+        "phone": "02-2277-3001",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/27393895"
+    },
+    {
+        "id": "1789979058",
+        "place_name": "몽상가 크레이프전문점",
+        "address_name": "서울 도봉구 방학동 675-33",
+        "road_address_name": "서울 도봉구 도봉로143길 30",
+        "phone": "02-0202-0202",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1789979058"
+    },
+    {
+        "id": "635306818",
+        "place_name": "꿀소담",
+        "address_name": "서울 도봉구 창동 269-4",
+        "road_address_name": "서울 도봉구 해등로16길 67",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/635306818"
+    },
+    {
+        "id": "27440655",
+        "place_name": "쌍문동커피",
+        "address_name": "서울 도봉구 창동 658-49",
+        "road_address_name": "서울 도봉구 도봉로116길 5",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/27440655"
+    },
+    {
+        "id": "462897050",
+        "place_name": "카페그리너리티",
+        "address_name": "서울 도봉구 창동 667-5",
+        "road_address_name": "서울 도봉구 노해로62길 80",
+        "phone": "010-2514-6469",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/462897050"
+    },
+    {
+        "id": "1985501177",
+        "place_name": "카페152길",
+        "address_name": "서울 도봉구 도봉동 622-64",
+        "road_address_name": "서울 도봉구 도봉로152길 29-3",
+        "phone": "02-954-1520",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1985501177"
+    },
+    {
+        "id": "19530655",
+        "place_name": "산과산사이커피로드",
+        "address_name": "서울 도봉구 도봉동 44-5",
+        "road_address_name": "서울 도봉구 도봉로180가길 96",
+        "phone": "070-4177-8197",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/19530655"
+    },
+    {
+        "id": "119532698",
+        "place_name": "카페방학",
+        "address_name": "서울 도봉구 방학동 264-46",
+        "road_address_name": "서울 도봉구 도당로6길 30-6",
+        "phone": "070-4117-9055",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/119532698"
+    },
+    {
+        "id": "447862448",
+        "place_name": "카페더로비",
+        "address_name": "서울 도봉구 방학동 670-1",
+        "road_address_name": "서울 도봉구 방학로 171-5",
+        "phone": "02-954-1715",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/447862448"
+    },
+    {
+        "id": "22547060",
+        "place_name": "스타벅스 쌍문역점",
+        "address_name": "서울 도봉구 창동 659-5",
+        "road_address_name": "서울 도봉구 도봉로 480",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/22547060"
+    },
+    {
+        "id": "1336295111",
+        "place_name": "매일이기념일",
+        "address_name": "서울 도봉구 쌍문동 103-30",
+        "road_address_name": "서울 도봉구 우이천로24길 69",
+        "phone": "010-9013-7962",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1336295111"
+    },
+    {
+        "id": "2002605651",
+        "place_name": "도봉산커피",
+        "address_name": "서울 도봉구 도봉동 282-316",
+        "road_address_name": "서울 도봉구 도봉산4가길 4",
+        "phone": "010-9945-7145",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/2002605651"
+    },
+    {
+        "id": "1757795758",
+        "place_name": "세라젬웰카페 서울쌍문직영점",
+        "address_name": "서울 도봉구 쌍문동 656",
+        "road_address_name": "서울 도봉구 도봉로 571",
+        "phone": "02-6949-5325",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/1757795758"
+    },
+    {
+        "id": "1246426011",
+        "place_name": "로로옴",
+        "address_name": "서울 도봉구 도봉동 92-71",
+        "road_address_name": "서울 도봉구 도봉로152가길 152",
+        "phone": "02-6091-8800",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1246426011"
+    },
+    {
+        "id": "2084988667",
+        "place_name": "키웨스트 연산군묘점",
+        "address_name": "서울 도봉구 방학동 584",
+        "road_address_name": "서울 도봉구 방학로17길 85",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2084988667"
+    },
+    {
+        "id": "697641350",
+        "place_name": "스타벅스 창동이마트점",
+        "address_name": "서울 도봉구 창동 75-3",
+        "road_address_name": "서울 도봉구 노해로65길 4",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/697641350"
+    },
+    {
+        "id": "519080844",
+        "place_name": "스타벅스 쌍문도봉로점",
+        "address_name": "서울 도봉구 창동 650-45",
+        "road_address_name": "서울 도봉구 도봉로 444",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/519080844"
+    },
+    {
+        "id": "38242363",
+        "place_name": "디아망 강북본점",
+        "address_name": "서울 도봉구 쌍문동 653",
+        "road_address_name": "서울 도봉구 도봉로 575",
+        "phone": "02-997-0210",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/38242363"
+    },
+    {
+        "id": "1340630386",
+        "place_name": "스타벅스 방학역점",
+        "address_name": "서울 도봉구 방학동 707-6",
+        "road_address_name": "서울 도봉구 도봉로 684",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1340630386"
+    },
+    {
+        "id": "1087965647",
+        "place_name": "온도감",
+        "address_name": "서울 도봉구 방학동 695",
+        "road_address_name": "서울 도봉구 도당로 66-1",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1087965647"
+    },
+    {
+        "id": "20937361",
+        "place_name": "모래스푼",
+        "address_name": "서울 도봉구 쌍문동 311",
+        "road_address_name": "서울 도봉구 시루봉로 2",
+        "phone": "02-996-5252",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/20937361"
+    },
+    {
+        "id": "1668192705",
+        "place_name": "카페7179",
+        "address_name": "서울 도봉구 창동 676-77",
+        "road_address_name": "서울 도봉구 도봉로110길 97",
+        "phone": "010-9870-9717",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1668192705"
+    },
+    {
+        "id": "21544366",
+        "place_name": "투썸플레이스 창동역점",
+        "address_name": "서울 도봉구 창동 9-2",
+        "road_address_name": "서울 도봉구 노해로 381",
+        "phone": "02-994-2388",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/21544366"
+    },
+    {
+        "id": "491600096",
+        "place_name": "오픈더도어",
+        "address_name": "서울 도봉구 쌍문동 88-21",
+        "road_address_name": "서울 도봉구 도봉로 489",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/491600096"
+    },
+    {
+        "id": "27417038",
+        "place_name": "이탈리안G",
+        "address_name": "서울 도봉구 방학동 703-65",
+        "road_address_name": "서울 도봉구 도봉로 675",
+        "phone": "02-955-7214",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27417038"
+    },
+    {
+        "id": "779650889",
+        "place_name": "카페에덴",
+        "address_name": "서울 도봉구 방학동 596-1",
+        "road_address_name": "서울 도봉구 방학로 306",
+        "phone": "02-3491-3331",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/779650889"
+    },
+    {
+        "id": "21927608",
+        "place_name": "만남의광장",
+        "address_name": "서울 도봉구 도봉동 288-20",
+        "road_address_name": "",
+        "phone": "02-956-4545",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/21927608"
+    },
+    {
+        "id": "17736089",
+        "place_name": "투썸플레이스 쌍문역점",
+        "address_name": "서울 도봉구 쌍문동 96-4",
+        "road_address_name": "서울 도봉구 도봉로 461",
+        "phone": "02-998-2377",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/17736089"
+    },
+    {
+        "id": "25531123",
+        "place_name": "설빙 쌍문점",
+        "address_name": "서울 도봉구 창동 655-11",
+        "road_address_name": "서울 도봉구 도봉로 460",
+        "phone": "02-991-0077",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페 > 설빙",
+        "place_url": "http://place.map.kakao.com/25531123"
+    },
+    {
+        "id": "861389811",
+        "place_name": "투썸플레이스 방학역점",
+        "address_name": "서울 도봉구 방학동 706-9",
+        "road_address_name": "서울 도봉구 도봉로 696",
+        "phone": "02-954-7799",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/861389811"
+    },
+    {
+        "id": "21605277",
+        "place_name": "투썸플레이스 도봉보건소점",
+        "address_name": "서울 도봉구 창동 715-1",
+        "road_address_name": "서울 도봉구 도봉로 578",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/21605277"
+    },
+    {
+        "id": "1915489402",
+        "place_name": "디저트도본",
+        "address_name": "서울 도봉구 쌍문동 103-159",
+        "road_address_name": "서울 도봉구 우이천로 288-3",
+        "phone": "070-7543-3557",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1915489402"
+    },
+    {
+        "id": "346649554",
+        "place_name": "투썸플레이스 쌍문중앙점",
+        "address_name": "서울 도봉구 창동 659-4",
+        "road_address_name": "서울 도봉구 도봉로 482",
+        "phone": "02-991-2377",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/346649554"
+    },
+    {
+        "id": "27347024",
+        "place_name": "카미노커피로스터스",
+        "address_name": "서울 도봉구 방학동 671-18",
+        "road_address_name": "서울 도봉구 도당로 46",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/27347024"
+    },
+    {
+        "id": "945235417",
+        "place_name": "키블리 창동점",
+        "address_name": "서울 도봉구 창동 826",
+        "road_address_name": "서울 도봉구 도봉로136가길 73",
+        "phone": "02-905-2484",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/945235417"
+    },
+    {
+        "id": "609301855",
+        "place_name": "카페푸쿠푸쿠",
+        "address_name": "서울 도봉구 쌍문동 309-21",
+        "road_address_name": "서울 도봉구 노해로45길 17",
+        "phone": "0507-1303-5711",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/609301855"
+    },
+    {
+        "id": "2025938087",
+        "place_name": "키즈팡팡 쌍문점",
+        "address_name": "서울 도봉구 쌍문동 358",
+        "road_address_name": "서울 도봉구 우이천로32길 38",
+        "phone": "02-904-3210",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 키즈카페",
+        "place_url": "http://place.map.kakao.com/2025938087"
+    },
+    {
+        "id": "933788438",
+        "place_name": "무수울카페",
+        "address_name": "서울 도봉구 도봉동 435-18",
+        "road_address_name": "서울 도봉구 도봉로173길 124",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/933788438"
+    },
+    {
+        "id": "4013599",
+        "place_name": "커피스미스 도봉역점",
+        "address_name": "서울 도봉구 도봉동 92-55",
+        "road_address_name": "서울 도봉구 도봉로152가길 176",
+        "phone": "02-948-6900",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/4013599"
+    },
+    {
+        "id": "27575377",
+        "place_name": "창포원북카페 비상",
+        "address_name": "서울 도봉구 도봉동 4-1",
+        "road_address_name": "서울 도봉구 마들로 916",
+        "phone": "02-954-5254",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 북카페",
+        "place_url": "http://place.map.kakao.com/27575377"
+    },
+    {
+        "id": "122599399",
+        "place_name": "카페고르",
+        "address_name": "서울 도봉구 창동 651-31",
+        "road_address_name": "서울 도봉구 도봉로112길 38",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/122599399"
+    },
+    {
+        "id": "1762898207",
+        "place_name": "마이림",
+        "address_name": "서울 도봉구 쌍문동 449-7",
+        "road_address_name": "서울 도봉구 우이천로34길 13",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1762898207"
+    }
+]

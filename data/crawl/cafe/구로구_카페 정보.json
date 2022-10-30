@@ -1,0 +1,452 @@
+[
+    {
+        "id": "14984169",
+        "place_name": "메이비",
+        "address_name": "서울 구로구 구로동 1124-49",
+        "road_address_name": "서울 구로구 디지털로32나길 51",
+        "phone": "02-859-3073",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/14984169"
+    },
+    {
+        "id": "1342180005",
+        "place_name": "에버애프터",
+        "address_name": "서울 구로구 구로동 27-11",
+        "road_address_name": "서울 구로구 새말로18길 36-10",
+        "phone": "070-7543-1098",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1342180005"
+    },
+    {
+        "id": "25489976",
+        "place_name": "브라운핸즈 디지털단지구로점",
+        "address_name": "서울 구로구 구로동 1130-61",
+        "road_address_name": "서울 구로구 디지털로32다길 52",
+        "phone": "02-852-3137",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/25489976"
+    },
+    {
+        "id": "924229434",
+        "place_name": "밀리커피",
+        "address_name": "서울 구로구 구로동 산 1-11",
+        "road_address_name": "서울 구로구 새말로 62",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/924229434"
+    },
+    {
+        "id": "649227503",
+        "place_name": "히어로스터 신도림점",
+        "address_name": "서울 구로구 신도림동 382-2",
+        "road_address_name": "서울 구로구 경인로63길 21-8",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/649227503"
+    },
+    {
+        "id": "1820106061",
+        "place_name": "데일리스위츠",
+        "address_name": "서울 구로구 고척동 76-28",
+        "road_address_name": "서울 구로구 중앙로 9",
+        "phone": "02-877-6126",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1820106061"
+    },
+    {
+        "id": "18691090",
+        "place_name": "스타벅스 구로호텔점",
+        "address_name": "서울 구로구 구로동 1128-1",
+        "road_address_name": "서울 구로구 디지털로32길 72",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/18691090"
+    },
+    {
+        "id": "1979449725",
+        "place_name": "투썸플레이스 구로디지털역깔깔거리점",
+        "address_name": "서울 구로구 구로동 1124-1",
+        "road_address_name": "서울 구로구 디지털로32길 97-39",
+        "phone": "02-855-7791",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1979449725"
+    },
+    {
+        "id": "299076887",
+        "place_name": "카페몽글",
+        "address_name": "서울 구로구 구로동 30-23",
+        "road_address_name": "서울 구로구 공원로6나길 29-17",
+        "phone": "02-854-4620",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/299076887"
+    },
+    {
+        "id": "4357040",
+        "place_name": "스타벅스 신도림점",
+        "address_name": "서울 구로구 신도림동 413-9",
+        "road_address_name": "서울 구로구 경인로 610",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/4357040"
+    },
+    {
+        "id": "61473709",
+        "place_name": "하이드아웃",
+        "address_name": "서울 구로구 개봉동 403-219",
+        "road_address_name": "서울 구로구 개봉로20길 30",
+        "phone": "010-7135-5970",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/61473709"
+    },
+    {
+        "id": "26395497",
+        "place_name": "빈브라더스 현대백화점디큐브시티점",
+        "address_name": "서울 구로구 신도림동 692",
+        "road_address_name": "서울 구로구 경인로 662",
+        "phone": "02-2210-9351",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/26395497"
+    },
+    {
+        "id": "90143444",
+        "place_name": "라크라센타",
+        "address_name": "서울 구로구 구로동 83",
+        "road_address_name": "서울 구로구 가마산로 242",
+        "phone": "02-866-6202",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/90143444"
+    },
+    {
+        "id": "26310921",
+        "place_name": "설빙 구로지밸리점",
+        "address_name": "서울 구로구 구로동 188-25",
+        "road_address_name": "서울 구로구 디지털로 300",
+        "phone": "02-6344-3959",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페 > 설빙",
+        "place_url": "http://place.map.kakao.com/26310921"
+    },
+    {
+        "id": "27224586",
+        "place_name": "카페큐브",
+        "address_name": "서울 구로구 신도림동 692",
+        "road_address_name": "서울 구로구 경인로 662",
+        "phone": "02-2211-6603",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 북카페",
+        "place_url": "http://place.map.kakao.com/27224586"
+    },
+    {
+        "id": "26476919",
+        "place_name": "폴바셋 구로지밸리몰점",
+        "address_name": "서울 구로구 구로동 188-25",
+        "road_address_name": "서울 구로구 디지털로 300",
+        "phone": "02-6344-3788",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 폴바셋",
+        "place_url": "http://place.map.kakao.com/26476919"
+    },
+    {
+        "id": "1792739269",
+        "place_name": "디저트샵시소",
+        "address_name": "서울 구로구 천왕동 273",
+        "road_address_name": "서울 구로구 천왕로 29",
+        "phone": "010-8372-8487",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1792739269"
+    },
+    {
+        "id": "25115111",
+        "place_name": "스타벅스 오류동역점",
+        "address_name": "서울 구로구 오류동 55-50",
+        "road_address_name": "서울 구로구 경인로 216",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/25115111"
+    },
+    {
+        "id": "364882455",
+        "place_name": "적소",
+        "address_name": "서울 구로구 개봉동 262-4",
+        "road_address_name": "서울 구로구 개봉로16가길 10-28",
+        "phone": "02-2612-0701",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/364882455"
+    },
+    {
+        "id": "1536002539",
+        "place_name": "이미커피로스터스",
+        "address_name": "서울 구로구 구로동 798-30",
+        "road_address_name": "서울 구로구 디지털로27길 116",
+        "phone": "070-4240-5228",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1536002539"
+    },
+    {
+        "id": "1653669621",
+        "place_name": "스타벅스 구로디지털타워점",
+        "address_name": "서울 구로구 구로동 222-7",
+        "road_address_name": "서울 구로구 디지털로32길 30",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/1653669621"
+    },
+    {
+        "id": "838978979",
+        "place_name": "메이로드",
+        "address_name": "서울 구로구 오류동 172-27",
+        "road_address_name": "서울 구로구 오류로 37-2",
+        "phone": "02-2060-7466",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/838978979"
+    },
+    {
+        "id": "26884659",
+        "place_name": "띵크커피 디큐브시티점",
+        "address_name": "서울 구로구 신도림동 692",
+        "road_address_name": "서울 구로구 경인로 662",
+        "phone": "02-2210-9074",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/26884659"
+    },
+    {
+        "id": "21058537",
+        "place_name": "스타벅스 구로디지털로점",
+        "address_name": "서울 구로구 구로동 191-7",
+        "road_address_name": "서울 구로구 디지털로33길 11",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/21058537"
+    },
+    {
+        "id": "18489590",
+        "place_name": "투썸플레이스 신도림디큐브시티점",
+        "address_name": "서울 구로구 신도림동 692",
+        "road_address_name": "서울 구로구 경인로 662",
+        "phone": "02-2210-9233",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/18489590"
+    },
+    {
+        "id": "180758122",
+        "place_name": "힙스터커피",
+        "address_name": "서울 구로구 개봉동 139-17",
+        "road_address_name": "서울 구로구 경인로33길 15",
+        "phone": "010-9811-9855",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/180758122"
+    },
+    {
+        "id": "649401592",
+        "place_name": "스타벅스 구로NC",
+        "address_name": "서울 구로구 구로동 573",
+        "road_address_name": "서울 구로구 구로중앙로 152",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/649401592"
+    },
+    {
+        "id": "27075938",
+        "place_name": "스타벅스 현대디큐브2F",
+        "address_name": "서울 구로구 신도림동 692",
+        "road_address_name": "서울 구로구 경인로 662",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/27075938"
+    },
+    {
+        "id": "1566212360",
+        "place_name": "그녀의커피 카페드엘르",
+        "address_name": "서울 구로구 오류동 6-140",
+        "road_address_name": "서울 구로구 고척로3길 7",
+        "phone": "02-6013-7750",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1566212360"
+    },
+    {
+        "id": "1893731799",
+        "place_name": "투썸플레이스 개봉역점",
+        "address_name": "서울 구로구 개봉동 202-13",
+        "road_address_name": "서울 구로구 남부순환로97길 20-1",
+        "phone": "02-2618-8133",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/1893731799"
+    },
+    {
+        "id": "963590299",
+        "place_name": "잉크커피",
+        "address_name": "서울 구로구 구로동 222-12",
+        "road_address_name": "서울 구로구 디지털로30길 28",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/963590299"
+    },
+    {
+        "id": "21531311",
+        "place_name": "이름없는가게",
+        "address_name": "서울 구로구 개봉동 363-8",
+        "road_address_name": "서울 구로구 개봉로1나길 52",
+        "phone": "02-2613-9488",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/21531311"
+    },
+    {
+        "id": "181245255",
+        "place_name": "작업하는 카페에베르",
+        "address_name": "서울 구로구 온수동 52",
+        "road_address_name": "서울 구로구 경인로3길 77",
+        "phone": "02-2625-3467",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/181245255"
+    },
+    {
+        "id": "131891868",
+        "place_name": "설빙 구로고척점",
+        "address_name": "서울 구로구 고척동 172-35",
+        "road_address_name": "서울 구로구 경서로 81",
+        "phone": "070-4177-0120",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페 > 설빙",
+        "place_url": "http://place.map.kakao.com/131891868"
+    },
+    {
+        "id": "20558186",
+        "place_name": "옐로우트리커피 구로디지털단지점",
+        "address_name": "서울 구로구 구로동 1126-15",
+        "road_address_name": "서울 구로구 시흥대로 543",
+        "phone": "02-858-5234",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/20558186"
+    },
+    {
+        "id": "611177110",
+        "place_name": "투썸플레이스 구로구청사거리점",
+        "address_name": "서울 구로구 구로동 83-4",
+        "road_address_name": "서울 구로구 가마산로 250",
+        "phone": "02-852-3431",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/611177110"
+    },
+    {
+        "id": "691349476",
+        "place_name": "알파고보드카페",
+        "address_name": "서울 구로구 구로동 40-3",
+        "road_address_name": "서울 구로구 공원로6나길 12",
+        "phone": "02-6369-1239",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 보드카페",
+        "place_url": "http://place.map.kakao.com/691349476"
+    },
+    {
+        "id": "17127067",
+        "place_name": "스타벅스 현대디큐브B2",
+        "address_name": "서울 구로구 신도림동 692",
+        "road_address_name": "서울 구로구 경인로 662",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/17127067"
+    },
+    {
+        "id": "7961406",
+        "place_name": "스타벅스 구로에이스점",
+        "address_name": "서울 구로구 구로동 212-1",
+        "road_address_name": "서울 구로구 디지털로 285",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/7961406"
+    },
+    {
+        "id": "1762576488",
+        "place_name": "그린머그",
+        "address_name": "서울 구로구 구로동 27-3",
+        "road_address_name": "서울 구로구 새말로18길 24",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1762576488"
+    },
+    {
+        "id": "10809504",
+        "place_name": "탐앤탐스 신도림점",
+        "address_name": "서울 구로구 신도림동 337",
+        "road_address_name": "서울 구로구 경인로 661",
+        "phone": "02-3439-7887",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 탐앤탐스",
+        "place_url": "http://place.map.kakao.com/10809504"
+    },
+    {
+        "id": "84042619",
+        "place_name": "보은하다",
+        "address_name": "서울 구로구 신도림동 338",
+        "road_address_name": "서울 구로구 경인로67길 23",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/84042619"
+    },
+    {
+        "id": "2041426645",
+        "place_name": "투썸플레이스 동양미래대점",
+        "address_name": "서울 구로구 고척동 52-217",
+        "road_address_name": "서울 구로구 경인로47길 34-1",
+        "phone": "02-2615-7557",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/2041426645"
+    },
+    {
+        "id": "1405383746",
+        "place_name": "이디야커피 고척사거리점",
+        "address_name": "서울 구로구 고척동 195-13",
+        "road_address_name": "서울 구로구 고척로 228-6",
+        "phone": "02-2060-7843",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 이디야커피",
+        "place_url": "http://place.map.kakao.com/1405383746"
+    },
+    {
+        "id": "373252897",
+        "place_name": "투썸플레이스 신도림아름제일여성병원점",
+        "address_name": "서울 구로구 구로동 25",
+        "road_address_name": "서울 구로구 새말로 94",
+        "phone": "02-866-7377",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 투썸플레이스",
+        "place_url": "http://place.map.kakao.com/373252897"
+    }
+]

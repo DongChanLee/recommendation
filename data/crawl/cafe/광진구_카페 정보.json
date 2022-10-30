@@ -1,0 +1,452 @@
+[
+    {
+        "id": "13327693",
+        "place_name": "토즈모임센터 건대점",
+        "address_name": "서울 광진구 화양동 48-5",
+        "road_address_name": "서울 광진구 아차산로 207",
+        "phone": "02-467-0116",
+        "category_group_name": "카페",
+        "category_name": "서비스,산업 > 전문대행 > 공간대여 > 모임공간 > 토즈모임센터",
+        "place_url": "http://place.map.kakao.com/13327693"
+    },
+    {
+        "id": "1926044933",
+        "place_name": "도우터",
+        "address_name": "서울 광진구 화양동 11-17",
+        "road_address_name": "서울 광진구 아차산로31길 40",
+        "phone": "02-464-0559",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1926044933"
+    },
+    {
+        "id": "519082124",
+        "place_name": "뚝방길홍차가게",
+        "address_name": "서울 광진구 자양동 589-20",
+        "road_address_name": "서울 광진구 자양강변길 277",
+        "phone": "02-512-0189",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/519082124"
+    },
+    {
+        "id": "61909173",
+        "place_name": "아르무아",
+        "address_name": "서울 광진구 화양동 5-32",
+        "road_address_name": "서울 광진구 동일로22길 117-27",
+        "phone": "02-463-9981",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/61909173"
+    },
+    {
+        "id": "501741750",
+        "place_name": "인덱스숍",
+        "address_name": "서울 광진구 자양동 17-3",
+        "road_address_name": "서울 광진구 아차산로 200",
+        "phone": "02-2122-1259",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 북카페",
+        "place_url": "http://place.map.kakao.com/501741750"
+    },
+    {
+        "id": "1096654389",
+        "place_name": "안다즈커피",
+        "address_name": "서울 광진구 구의동 75-26",
+        "road_address_name": "서울 광진구 천호대로132길 10",
+        "phone": "0507-1324-4277",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1096654389"
+    },
+    {
+        "id": "1755713937",
+        "place_name": "체리커피",
+        "address_name": "서울 광진구 능동 282-1",
+        "road_address_name": "서울 광진구 능동로 284",
+        "phone": "02-444-7222",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1755713937"
+    },
+    {
+        "id": "420350631",
+        "place_name": "더이퀼리브리엄커피",
+        "address_name": "서울 광진구 자양동 7-30",
+        "road_address_name": "서울 광진구 아차산로30길 7",
+        "phone": "070-7537-3744",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/420350631"
+    },
+    {
+        "id": "1159203702",
+        "place_name": "비에이치테이블",
+        "address_name": "서울 광진구 자양동 775-10",
+        "road_address_name": "서울 광진구 아차산로45길 16",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1159203702"
+    },
+    {
+        "id": "22674971",
+        "place_name": "카페히릿",
+        "address_name": "서울 광진구 화양동 111-72",
+        "road_address_name": "서울 광진구 광나루로 404",
+        "phone": "070-8870-4442",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 애견카페",
+        "place_url": "http://place.map.kakao.com/22674971"
+    },
+    {
+        "id": "18263855",
+        "place_name": "마우스레빗",
+        "address_name": "서울 광진구 화양동 5-14",
+        "road_address_name": "서울 광진구 능동로11길 10",
+        "phone": "02-462-4015",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/18263855"
+    },
+    {
+        "id": "287949141",
+        "place_name": "넥스트에디션 건대2호점",
+        "address_name": "서울 광진구 자양동 17-5",
+        "road_address_name": "서울 광진구 아차산로 192",
+        "phone": "0507-417-8580",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/287949141"
+    },
+    {
+        "id": "88469138",
+        "place_name": "랑데자뷰 건대점",
+        "address_name": "서울 광진구 화양동 9-23",
+        "road_address_name": "서울 광진구 아차산로31길 3",
+        "phone": "070-7718-3088",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/88469138"
+    },
+    {
+        "id": "2239",
+        "place_name": "커피나무 건대입구역점",
+        "address_name": "서울 광진구 화양동 5-40",
+        "road_address_name": "서울 광진구 동일로22길 117-26",
+        "phone": "02-466-1415",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/2239"
+    },
+    {
+        "id": "27607185",
+        "place_name": "시드누아 중곡센터점",
+        "address_name": "서울 광진구 중곡동 111-2",
+        "road_address_name": "서울 광진구 천호대로127길 44",
+        "phone": "02-446-8115",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/27607185"
+    },
+    {
+        "id": "1508416506",
+        "place_name": "헤르츠커피로스팅",
+        "address_name": "서울 광진구 중곡동 161-27",
+        "road_address_name": "서울 광진구 능동로 334",
+        "phone": "010-3312-9952",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1508416506"
+    },
+    {
+        "id": "2106246357",
+        "place_name": "그리네",
+        "address_name": "서울 광진구 군자동 64-21",
+        "road_address_name": "서울 광진구 군자로 139",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/2106246357"
+    },
+    {
+        "id": "1017964919",
+        "place_name": "도쿄빙수 건대점",
+        "address_name": "서울 광진구 화양동 10-2",
+        "road_address_name": "서울 광진구 아차산로31길 45",
+        "phone": "02-466-2012",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1017964919"
+    },
+    {
+        "id": "143898787",
+        "place_name": "카페 드노보",
+        "address_name": "서울 광진구 광장동 187-2",
+        "road_address_name": "서울 광진구 아차산로78길 157",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/143898787"
+    },
+    {
+        "id": "1024200053",
+        "place_name": "펠어커피 구의점",
+        "address_name": "서울 광진구 구의동 223-23",
+        "road_address_name": "서울 광진구 아차산로59길 63",
+        "phone": "0507-1447-0140",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/1024200053"
+    },
+    {
+        "id": "25060136",
+        "place_name": "설빙 건대직영점",
+        "address_name": "서울 광진구 화양동 7-44",
+        "road_address_name": "서울 광진구 아차산로 225",
+        "phone": "02-499-5385",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페 > 설빙",
+        "place_url": "http://place.map.kakao.com/25060136"
+    },
+    {
+        "id": "1430310181",
+        "place_name": "키랩보드게임 룸카페 건대본점",
+        "address_name": "서울 광진구 화양동 11-7",
+        "road_address_name": "서울 광진구 아차산로33길 49",
+        "phone": "070-8098-7300",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 보드카페",
+        "place_url": "http://place.map.kakao.com/1430310181"
+    },
+    {
+        "id": "715860315",
+        "place_name": "아오스요거트",
+        "address_name": "서울 광진구 화양동 2-23",
+        "road_address_name": "서울 광진구 능동로 153",
+        "phone": "070-8111-9451",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/715860315"
+    },
+    {
+        "id": "1766978425",
+        "place_name": "안다미로팬케이크",
+        "address_name": "서울 광진구 화양동 48-23",
+        "road_address_name": "서울 광진구 아차산로25길 8",
+        "phone": "02-6405-7773",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/1766978425"
+    },
+    {
+        "id": "27354377",
+        "place_name": "엑스케이프",
+        "address_name": "서울 광진구 화양동 50-2",
+        "road_address_name": "서울 광진구 동일로 112",
+        "phone": "02-463-9366",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/27354377"
+    },
+    {
+        "id": "26826876",
+        "place_name": "히어로보드게임카페 건대1호점",
+        "address_name": "서울 광진구 화양동 7-4",
+        "road_address_name": "서울 광진구 아차산로 221",
+        "phone": "02-466-1203",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 보드카페",
+        "place_url": "http://place.map.kakao.com/26826876"
+    },
+    {
+        "id": "757366145",
+        "place_name": "카페레디언트",
+        "address_name": "서울 광진구 중곡동 142-36",
+        "road_address_name": "서울 광진구 능동로38길 41",
+        "phone": "02-2201-0204",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/757366145"
+    },
+    {
+        "id": "1040379670",
+        "place_name": "열매제과점",
+        "address_name": "서울 광진구 화양동 36-60",
+        "road_address_name": "서울 광진구 동일로24길 31",
+        "phone": "010-5814-3738",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1040379670"
+    },
+    {
+        "id": "27417701",
+        "place_name": "카페호이 자양점",
+        "address_name": "서울 광진구 자양동 6-38",
+        "road_address_name": "서울 광진구 동일로20길 80",
+        "phone": "02-466-8158",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/27417701"
+    },
+    {
+        "id": "26869515",
+        "place_name": "오페뜨 건대점",
+        "address_name": "서울 광진구 화양동 5-106",
+        "road_address_name": "서울 광진구 능동로 111",
+        "phone": "02-2135-9982",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/26869515"
+    },
+    {
+        "id": "296921469",
+        "place_name": "카페온더플랜 건대점",
+        "address_name": "서울 광진구 화양동 90-4",
+        "road_address_name": "서울 광진구 능동로 161",
+        "phone": "02-462-1020",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/296921469"
+    },
+    {
+        "id": "831662985",
+        "place_name": "북카페세모",
+        "address_name": "서울 광진구 화양동 8-43",
+        "road_address_name": "서울 광진구 아차산로31길 20",
+        "phone": "02-463-0305",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 북카페",
+        "place_url": "http://place.map.kakao.com/831662985"
+    },
+    {
+        "id": "1928816021",
+        "place_name": "보난자커피 군자점",
+        "address_name": "서울 광진구 군자동 270",
+        "road_address_name": "서울 광진구 능동로 239",
+        "phone": "070-4110-3113",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1928816021"
+    },
+    {
+        "id": "2053737523",
+        "place_name": "카페러슬",
+        "address_name": "서울 광진구 구의동 612-10",
+        "road_address_name": "서울 광진구 자양로37길 63",
+        "phone": "070-4202-1555",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/2053737523"
+    },
+    {
+        "id": "24350794",
+        "place_name": "스타벅스 군자역",
+        "address_name": "서울 광진구 군자동 478-5",
+        "road_address_name": "서울 광진구 천호대로 548",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/24350794"
+    },
+    {
+        "id": "693959559",
+        "place_name": "해피니스디저트 건대점",
+        "address_name": "서울 광진구 자양동 6-58",
+        "road_address_name": "서울 광진구 아차산로30길 31",
+        "phone": "010-4295-2600",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페 > 디저트카페",
+        "place_url": "http://place.map.kakao.com/693959559"
+    },
+    {
+        "id": "1592555351",
+        "place_name": "밀피",
+        "address_name": "서울 광진구 화양동 5-99",
+        "road_address_name": "서울 광진구 동일로22길 117-15",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/1592555351"
+    },
+    {
+        "id": "26639935",
+        "place_name": "스타벅스 구의DT",
+        "address_name": "서울 광진구 구의동 67-36",
+        "road_address_name": "서울 광진구 광나루로 519",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/26639935"
+    },
+    {
+        "id": "15954181",
+        "place_name": "꼬메노",
+        "address_name": "서울 광진구 화양동 16-24",
+        "road_address_name": "서울 광진구 군자로7길 29",
+        "phone": "02-468-5177",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/15954181"
+    },
+    {
+        "id": "606933069",
+        "place_name": "플라이팬커피",
+        "address_name": "서울 광진구 자양동 64-11",
+        "road_address_name": "서울 광진구 능동로3길 14",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/606933069"
+    },
+    {
+        "id": "13337306",
+        "place_name": "커피마켓",
+        "address_name": "서울 광진구 화양동 3-71",
+        "road_address_name": "서울 광진구 아차산로33길 60",
+        "phone": "02-463-8009",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/13337306"
+    },
+    {
+        "id": "630372352",
+        "place_name": "스타벅스 어린이대공원역",
+        "address_name": "서울 광진구 군자동 236",
+        "road_address_name": "서울 광진구 능동로 243",
+        "phone": "1522-3232",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점 > 스타벅스",
+        "place_url": "http://place.map.kakao.com/630372352"
+    },
+    {
+        "id": "382585102",
+        "place_name": "미어캣족장",
+        "address_name": "서울 광진구 자양동 9-31",
+        "road_address_name": "서울 광진구 동일로20길 72",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 테마카페",
+        "place_url": "http://place.map.kakao.com/382585102"
+    },
+    {
+        "id": "514403916",
+        "place_name": "라운드브릭",
+        "address_name": "서울 광진구 광장동 287-1",
+        "road_address_name": "서울 광진구 광장로 67",
+        "phone": "",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페 > 커피전문점",
+        "place_url": "http://place.map.kakao.com/514403916"
+    },
+    {
+        "id": "531681208",
+        "place_name": "카페K375",
+        "address_name": "서울 광진구 화양동 3-75",
+        "road_address_name": "서울 광진구 아차산로33길 68",
+        "phone": "02-467-4468",
+        "category_group_name": "카페",
+        "category_name": "음식점 > 카페",
+        "place_url": "http://place.map.kakao.com/531681208"
+    }
+]
